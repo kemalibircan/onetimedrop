@@ -2,9 +2,11 @@ export async function GET() {
   const robots = `User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /session/
 
-Sitemap: https://onetimedrop.io/sitemap.xml
+# Block join page from indexing (session-specific, no SEO value)
+Disallow: /*/join
+
+Sitemap: https://onetimedrop.com/sitemap.xml
 `;
 
   return new Response(robots, {
