@@ -5,7 +5,7 @@ import { sessionManager } from "./lib/sessionManager";
 import { startCleanupWorker } from "./lib/cleanup";
 
 const dev = process.env.NODE_ENV !== "production";
-const hostname = process.env.HOSTNAME || "0.0.0.0";
+const hostname = "0.0.0.0"; // Force 0.0.0.0 for Railway/Docker
 const port = parseInt(process.env.PORT || "3000", 10);
 
 const app = next({ dev, hostname, port });
