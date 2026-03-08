@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useTheme } from "./ThemeProvider";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 interface NavbarProps {
   lang: string;
@@ -43,8 +44,7 @@ export default function Navbar({ lang, dict }: NavbarProps) {
           </Link>
         </div>
 
-        {/* Actions */}
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2">
           <button
             onClick={toggle}
             aria-label={`Switch to ${theme === "light" ? "dark" : "light"} mode`}
@@ -52,6 +52,8 @@ export default function Navbar({ lang, dict }: NavbarProps) {
           >
             {theme === "light" ? "🌙" : "☀️"}
           </button>
+          <LanguageSwitcher lang={lang} />
+          <div className="w-px h-5 bg-[var(--color-border)] mx-1" />
           <Link href={`/${lang}/join`} className="btn-secondary text-sm py-2 px-4">
             {dict.join_session}
           </Link>

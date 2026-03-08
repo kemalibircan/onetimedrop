@@ -1,21 +1,21 @@
 {
   "navbar": {
-    "how_it_works": "Wie es funktioniert",
+    "how_it_works": "So funktioniert's",
     "blog": "Blog",
-    "privacy": "Privatsphäre",
-    "join_session": "Nehmen Sie an der Sitzung teil",
+    "privacy": "Datenschutz",
+    "join_session": "Sitzung beitreten",
     "start_session": "Sitzung starten"
   },
   "footer": {
     "slogan": "Senden Sie Dateien in Sekundenschnelle vom Telefon an den Computer. Keine App, kein Konto.",
     "product": "Produkt",
     "start_session": "Sitzung starten",
-    "join_session": "Nehmen Sie an der Sitzung teil",
-    "how_it_works": "Wie es funktioniert",
+    "join_session": "Sitzung beitreten",
+    "how_it_works": "So funktioniert's",
     "resources": "Ressourcen",
     "blog": "Blog",
     "contact": "Kontakt",
-    "legal": "Legal",
+    "legal": "Rechtliches",
     "privacy_policy": "Datenschutzrichtlinie",
     "terms_of_service": "Nutzungsbedingungen",
     "auto_delete": "Dateien werden nach 10 Minuten automatisch gelöscht",
@@ -25,7 +25,7 @@
     "no_account": "Kein Konto erforderlich · Dateien werden in 10 Minuten automatisch gelöscht",
     "hero_title_send": "Senden Sie Dateien von Ihrem",
     "hero_title_phone": "Telefon",
-    "hero_title_to": "to any computer",
+    "hero_title_to": "an jeden Computer",
     "hero_subtitle": "Scannen Sie den QR-Code mit Ihrem Telefon. Dateien kommen in Sekundenschnelle an."
   },
   "desktop": {
@@ -45,7 +45,7 @@
     "no_files": "Noch keine Dateien. Laden Sie sie von Ihrem Telefon hoch, um sie hier anzusehen."
   },
   "mobile": {
-    "join_title": "Treten Sie der Desktop-Sitzung bei",
+    "join_title": "Desktop-Sitzung beitreten",
     "join_subtitle": "Geben Sie den auf dem Computer angezeigten 8-stelligen Code ein",
     "session_code": "Sitzungscode",
     "desktop_screen": "Der Code wird auf dem Desktop-Bildschirm angezeigt",
@@ -53,14 +53,14 @@
     "connecting": "Verbinden…",
     "or": "oder",
     "scan_qr": "📷 QR-Code scannen",
-    "connected": "Verbunden mit dem Desktop",
+    "connected": "Mit dem Desktop verbunden",
     "appear_instantly": "Dateien werden sofort auf dem Bildschirm angezeigt",
     "close": "Sitzung schließen",
     "tap_choose": "Tippen Sie, um Dateien auszuwählen",
     "limits": "Bilder, PDFs, Dokumente – jeweils bis zu 50 MB",
-    "select_files": "Wählen Sie Dateien aus",
+    "select_files": "Dateien auswählen",
     "uploads": "Uploads",
-    "done": "Erledigt"
+    "done": "fertig"
   },
   "blog": {
     "badge": "Blog",
@@ -69,5 +69,68 @@
     "no_posts": "Noch keine Beiträge.",
     "all": "Alle",
     "read": "lesen"
+  },
+  "how_it_works": {
+    "badge": "Schritt-für-Schritt-Anleitung",
+    "title": "So funktioniert OneTimeDrop",
+    "subtitle": "Übertragen Sie Dateien in weniger als 30 Sekunden vom Telefon auf den Computer.",
+    "steps_heading": "4 einfache Schritte",
+    "steps": [
+      {
+        "title": "Auf dem Computer öffnen",
+        "desc": "Besuchen Sie onetimedrop.com auf dem Computer, an den Sie Dateien senden möchten. Ein 8-stelliger Code und QR-Code erscheinen sofort – kein Konto erforderlich."
+      },
+      {
+        "title": "Mit dem Telefon scannen",
+        "desc": "Richten Sie die Kamera Ihres Telefons auf den QR-Code oder öffnen Sie onetimedrop.com auf Ihrem Telefon und tippen Sie auf 'Sitzung beitreten', um den Code manuell einzugeben."
+      },
+      {
+        "title": "Dateien hochladen",
+        "desc": "Wählen Sie Fotos, PDFs oder Dokumente von Ihrem Telefon. Dateien werden in Echtzeit übertragen und erscheinen sofort auf dem Desktop."
+      },
+      {
+        "title": "Auf dem Computer herunterladen",
+        "desc": "Klicken Sie auf 'Herunterladen' neben einer beliebigen Datei auf dem Desktop. Dateien werden zum Schutz Ihrer Privatsphäre nach 10 Minuten automatisch gelöscht."
+      }
+    ],
+    "cta_title": "Bereit auszuprobieren?",
+    "cta_desc": "Öffnen Sie OneTimeDrop auf Ihrem Computer, um einen Code zu erhalten.",
+    "cta_start": "Sitzung starten →",
+    "cta_join": "Mit Code beitreten",
+    "faq_heading": "Häufig gestellte Fragen",
+    "faqs": [
+      {
+        "q": "Ist OneTimeDrop kostenlos?",
+        "a": "Ja, völlig kostenlos. Kein Konto, kein Abonnement, keine versteckten Gebühren."
+      },
+      {
+        "q": "Wie lange werden Dateien aufbewahrt?",
+        "a": "Dateien werden automatisch nach 10 Minuten gelöscht. Dies ist absichtlich so gestaltet, um Ihre Privatsphäre zu schützen."
+      },
+      {
+        "q": "Muss ich etwas installieren?",
+        "a": "Nein. OneTimeDrop funktioniert vollständig in Ihrem Webbrowser, sowohl auf dem Telefon als auch auf dem Computer. Keine App-Download erforderlich."
+      },
+      {
+        "q": "Was ist die maximale Dateigröße?",
+        "a": "Jede Datei muss kleiner als 50 MB sein. Sie können bis zu 20 Dateien pro Sitzung hochladen."
+      },
+      {
+        "q": "Sind meine Daten sicher?",
+        "a": "Dateien werden vorübergehend auf unserem Server gespeichert und durch ein einzigartiges Sitzungstoken geschützt. Sie sind niemals öffentlich zugänglich und werden nach Ablauf automatisch gelöscht."
+      },
+      {
+        "q": "Kann ich Dateien vom Computer auf mein Telefon senden?",
+        "a": "Derzeit ist OneTimeDrop für Telefon → Computer-Transfers optimiert. Desktop-zu-Telefon kommt bald."
+      },
+      {
+        "q": "Welche Dateitypen werden unterstützt?",
+        "a": "Bilder, PDFs, Microsoft Office-Dokumente, Textdateien, Video- und Audiodateien werden alle unterstützt."
+      },
+      {
+        "q": "Funktioniert es auf öffentlichen/Bibliothekscomputern?",
+        "a": "Ja – denken Sie jedoch daran, dass Ihre Dateien temporär sind. Laden Sie keine sensiblen Dokumente auf öffentlichen Computern hoch."
+      }
+    ]
   }
 }

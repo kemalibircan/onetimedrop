@@ -2,7 +2,7 @@
   "navbar": {
     "how_it_works": "Nasıl çalışır?",
     "blog": "Blog",
-    "privacy": "Mahremiyet",
+    "privacy": "Gizlilik",
     "join_session": "Oturuma katıl",
     "start_session": "Oturumu başlat"
   },
@@ -14,18 +14,18 @@
     "how_it_works": "Nasıl çalışır?",
     "resources": "Kaynaklar",
     "blog": "Blog",
-    "contact": "Temas etmek",
-    "legal": "Yasal",
+    "contact": "İletişim",
+    "legal": "Hukuki",
     "privacy_policy": "Gizlilik Politikası",
-    "terms_of_service": "Hizmet Şartları",
+    "terms_of_service": "Kullanım Koşulları",
     "auto_delete": "Dosyalar 10 dakika sonra otomatik olarak silinir",
     "made_with": "Zahmetsiz paylaşım için 🍊 ile tasarlandı"
   },
   "home": {
     "no_account": "Hesap gerekmez · Dosyalar 10 dakika içinde otomatik olarak silinir",
-    "hero_title_send": "Dosyaları cihazınızdan gönderin",
-    "hero_title_phone": "telefon",
-    "hero_title_to": "herhangi bir bilgisayara",
+    "hero_title_send": "Dosyalarınızı",
+    "hero_title_phone": "telefonunuzdan",
+    "hero_title_to": "herhangi bir bilgisayara gönderin",
     "hero_subtitle": "QR kodunu telefonunuzla tarayın. Dosyalar saniyeler içinde ulaşır."
   },
   "desktop": {
@@ -35,8 +35,8 @@
     "subtitle_connected": "Telefonunuzdaki dosyalar anında aşağıda görünecektir.",
     "subtitle_scan": "Telefonunuzun kamerasını QR koduna doğrultun veya kodu manuel olarak yazın.",
     "scan_camera": "Telefonunuzun kamerasıyla tarayın",
-    "or_type": "Veya bu kodu telefonunuza yazın",
-    "expires_in": "Süresi doluyor",
+    "or_type": "Ya da bu kodu telefonunuza yazın",
+    "expires_in": "Süre bitiyor",
     "copy_link": "Katılma bağlantısını kopyala →",
     "connected": "Telefon bağlandı",
     "download_all": "↓ Tümünü indir (ZIP)",
@@ -45,29 +45,92 @@
     "no_files": "Henüz dosya yok. Bunları burada görmek için telefonunuzdan yükleyin."
   },
   "mobile": {
-    "join_title": "Masaüstü Oturumuna Katılın",
+    "join_title": "Masaüstü Oturumuna Katıl",
     "join_subtitle": "Bilgisayarda gösterilen 8 haneli kodu girin",
     "session_code": "Oturum kodu",
     "desktop_screen": "Kod masaüstü ekranında gösterilir",
-    "connect": "Masaüstüne bağlanın →",
+    "connect": "Masaüstüne bağlan →",
     "connecting": "Bağlanıyor…",
     "or": "veya",
-    "scan_qr": "📷 QR kodunu tarayın",
+    "scan_qr": "📷 QR kodunu tara",
     "connected": "Masaüstüne bağlanıldı",
     "appear_instantly": "Dosyalar anında ekranda görünüyor",
     "close": "Oturumu Kapat",
     "tap_choose": "Dosyaları seçmek için dokunun",
     "limits": "Resimler, PDF'ler, belgeler — her biri en fazla 50 MB",
-    "select_files": "Dosyaları seçin",
+    "select_files": "Dosyaları seç",
     "uploads": "Yüklemeler",
-    "done": "Tamamlandı"
+    "done": "tamamlandı"
   },
   "blog": {
     "badge": "Blog",
     "title": "Dosya Aktarımı Kılavuzları ve İpuçları",
     "subtitle": "Dosyaları daha hızlı ve daha güvenli bir şekilde taşımanıza yardımcı olacak pratik kılavuzlar.",
     "no_posts": "Henüz gönderi yok.",
-    "all": "Tüm",
-    "read": "Okumak"
+    "all": "Tümü",
+    "read": "Oku"
+  },
+  "how_it_works": {
+    "badge": "Adım adım rehber",
+    "title": "OneTimeDrop Nasıl Çalışır?",
+    "subtitle": "Telefondan bilgisayara 30 saniyeden kısa sürede dosya transfer edin.",
+    "steps_heading": "4 basit adım",
+    "steps": [
+      {
+        "title": "Bilgisayarınızda açın",
+        "desc": "Dosyaları göndermek istediğiniz bilgisayarda onetimedrop.com'u açın. Hesap gerekmeden anında bir 8 haneli kod ve QR kodu görüntülenir."
+      },
+      {
+        "title": "Telefonunuzla tarayın",
+        "desc": "Telefonunuzun kamerasını QR koduna doğrultun ya da onetimedrop.com'u telefonunuzda açıp kodu manuel olarak girin."
+      },
+      {
+        "title": "Dosyaları yükleyin",
+        "desc": "Telefonunuzdan fotoğraf, PDF veya belge seçin. Dosyalar gerçek zamanlı olarak aktarılır ve masaüstünde anında görüntülenir."
+      },
+      {
+        "title": "Bilgisayarda indirin",
+        "desc": "Masaüstündeki herhangi bir dosyanın yanındaki İndir düğmesine tıklayın. Gizliliğiniz için dosyalar 10 dakika sonra otomatik silinir."
+      }
+    ],
+    "cta_title": "Denemek ister misiniz?",
+    "cta_desc": "Kod almak için bilgisayarınızda OneTimeDrop'u açın.",
+    "cta_start": "Oturumu başlat →",
+    "cta_join": "Kod ile katıl",
+    "faq_heading": "Sık sorulan sorular",
+    "faqs": [
+      {
+        "q": "OneTimeDrop ücretsiz mi?",
+        "a": "Evet, tamamen ücretsiz. Hesap, abonelik veya gizli ücret yok."
+      },
+      {
+        "q": "Dosyalar ne kadar süre saklanır?",
+        "a": "Dosyalar 10 dakika sonra otomatik olarak silinir. Bu, gizliliğinizi korumak için böyle tasarlanmıştır."
+      },
+      {
+        "q": "Bir şey yüklemem gerekiyor mu?",
+        "a": "Hayır. OneTimeDrop hem telefonda hem bilgisayarda tamamen web tarayıcınızda çalışır. Uygulama indirme gerekmez."
+      },
+      {
+        "q": "Maksimum dosya boyutu nedir?",
+        "a": "Her dosya 50 MB'tan küçük olmalıdır. Oturum başına 20 dosyaya kadar yükleyebilirsiniz."
+      },
+      {
+        "q": "Verilerim güvende mi?",
+        "a": "Dosyalar geçici olarak sunucumuzda saklanır ve benzersiz bir oturum belirteci ile korunur. Hiçbir zaman herkese açık değildir ve süre dolunca otomatik silinir."
+      },
+      {
+        "q": "Bilgisayardan telefona dosya gönderebilir miyim?",
+        "a": "Şu anda OneTimeDrop, telefon → bilgisayar transferleri için optimize edilmiştir. Masaüstünden telefona aktarım yakında geliyor."
+      },
+      {
+        "q": "Hangi dosya türleri destekleniyor?",
+        "a": "Resimler, PDF'ler, Microsoft Office belgeleri, metin dosyaları, video ve ses dosyaları desteklenmektedir."
+      },
+      {
+        "q": "Halka açık/kütüphane bilgisayarlarında çalışır mı?",
+        "a": "Evet — ancak dosyalarınızın geçici olacağını unutmayın. Halka açık bilgisayarlarda hassas belgeler yüklemeyin."
+      }
+    ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "navbar": {
-    "how_it_works": "como funciona",
+    "how_it_works": "Cómo funciona",
     "blog": "Blog",
     "privacy": "Privacidad",
     "join_session": "Unirse a la sesión",
@@ -11,12 +11,12 @@
     "product": "Producto",
     "start_session": "Iniciar sesión",
     "join_session": "Unirse a la sesión",
-    "how_it_works": "como funciona",
+    "how_it_works": "Cómo funciona",
     "resources": "Recursos",
     "blog": "Blog",
     "contact": "Contacto",
     "legal": "Legal",
-    "privacy_policy": "política de privacidad",
+    "privacy_policy": "Política de privacidad",
     "terms_of_service": "Términos de servicio",
     "auto_delete": "Archivos eliminados automáticamente después de 10 minutos",
     "made_with": "Hecho con 🍊 para compartir sin esfuerzo"
@@ -47,7 +47,7 @@
   "mobile": {
     "join_title": "Unirse a la sesión de escritorio",
     "join_subtitle": "Ingrese el código de 8 dígitos que se muestra en la computadora",
-    "session_code": "código de sesión",
+    "session_code": "Código de sesión",
     "desktop_screen": "El código se muestra en la pantalla del escritorio.",
     "connect": "Conectarse al escritorio →",
     "connecting": "Conectando…",
@@ -60,7 +60,7 @@
     "limits": "Imágenes, archivos PDF y documentos: hasta 50 MB cada uno",
     "select_files": "Seleccionar archivos",
     "uploads": "Subidas",
-    "done": "hecho"
+    "done": "listo"
   },
   "blog": {
     "badge": "Blog",
@@ -69,5 +69,68 @@
     "no_posts": "Aún no hay publicaciones.",
     "all": "Todo",
     "read": "leer"
+  },
+  "how_it_works": {
+    "badge": "Guía paso a paso",
+    "title": "Cómo funciona OneTimeDrop",
+    "subtitle": "Transfiere archivos de tu teléfono a la computadora en menos de 30 segundos.",
+    "steps_heading": "4 sencillos pasos",
+    "steps": [
+      {
+        "title": "Abre en tu computadora",
+        "desc": "Visita onetimedrop.com en la computadora a la que deseas enviar archivos. Un código de 8 dígitos y un código QR aparecen al instante, sin necesidad de cuenta."
+      },
+      {
+        "title": "Escanea con tu teléfono",
+        "desc": "Apunta la cámara de tu teléfono al código QR, o abre onetimedrop.com en tu teléfono y toca «Unirse a la sesión» para escribir el código manualmente."
+      },
+      {
+        "title": "Sube los archivos",
+        "desc": "Elige fotos, PDFs o documentos desde tu teléfono. Los archivos se transfieren en tiempo real y aparecen en el escritorio de inmediato."
+      },
+      {
+        "title": "Descarga en la computadora",
+        "desc": "Haz clic en Descargar junto a cualquier archivo en el escritorio. Los archivos se eliminan automáticamente después de 10 minutos para proteger tu privacidad."
+      }
+    ],
+    "cta_title": "¿Listo para probarlo?",
+    "cta_desc": "Abre OneTimeDrop en tu computadora para obtener un código.",
+    "cta_start": "Iniciar sesión →",
+    "cta_join": "Unirse con código",
+    "faq_heading": "Preguntas frecuentes",
+    "faqs": [
+      {
+        "q": "¿Es gratuito OneTimeDrop?",
+        "a": "Sí, completamente gratuito. Sin cuenta, sin suscripción, sin tarifas ocultas."
+      },
+      {
+        "q": "¿Cuánto tiempo se conservan los archivos?",
+        "a": "Los archivos se eliminan automáticamente después de 10 minutos. Esto está diseñado así para proteger tu privacidad."
+      },
+      {
+        "q": "¿Necesito instalar algo?",
+        "a": "No. OneTimeDrop funciona completamente en tu navegador web, tanto en el teléfono como en la computadora. No se requiere descarga de aplicación."
+      },
+      {
+        "q": "¿Cuál es el tamaño máximo de archivo?",
+        "a": "Cada archivo debe ser menor de 50 MB. Puedes subir hasta 20 archivos por sesión."
+      },
+      {
+        "q": "¿Están seguros mis datos?",
+        "a": "Los archivos se almacenan temporalmente en nuestro servidor y están protegidos por un token de sesión único. Nunca son accesibles públicamente y se eliminan automáticamente al expirar."
+      },
+      {
+        "q": "¿Puedo enviar archivos de la computadora a mi teléfono?",
+        "a": "Actualmente, OneTimeDrop está optimizado para transferencias de teléfono → computadora. La transferencia de escritorio a teléfono llegará pronto."
+      },
+      {
+        "q": "¿Qué tipos de archivos son compatibles?",
+        "a": "Se admiten imágenes, PDFs, documentos de Microsoft Office, archivos de texto, video y archivos de audio."
+      },
+      {
+        "q": "¿Funciona en computadoras públicas/de biblioteca?",
+        "a": "Sí — recuerda que tus archivos serán temporales. No subas documentos sensibles en computadoras públicas."
+      }
+    ]
   }
 }

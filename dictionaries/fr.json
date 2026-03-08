@@ -1,7 +1,7 @@
 {
   "navbar": {
     "how_it_works": "Comment ça marche",
-    "blog": "Blogue",
+    "blog": "Blog",
     "privacy": "Confidentialité",
     "join_session": "Rejoindre la session",
     "start_session": "Démarrer la session"
@@ -13,19 +13,19 @@
     "join_session": "Rejoindre la session",
     "how_it_works": "Comment ça marche",
     "resources": "Ressources",
-    "blog": "Blogue",
+    "blog": "Blog",
     "contact": "Contact",
     "legal": "Légal",
-    "privacy_policy": "politique de confidentialité",
+    "privacy_policy": "Politique de confidentialité",
     "terms_of_service": "Conditions d'utilisation",
     "auto_delete": "Fichiers supprimés automatiquement après 10 minutes",
-    "made_with": "Fabriqué avec 🍊 pour un partage sans effort"
+    "made_with": "Fait avec 🍊 pour un partage sans effort"
   },
   "home": {
     "no_account": "Aucun compte requis · Suppression automatique des fichiers en 10 minutes",
     "hero_title_send": "Envoyez des fichiers depuis votre",
     "hero_title_phone": "téléphone",
-    "hero_title_to": "à n'importe quel ordinateur",
+    "hero_title_to": "vers n'importe quel ordinateur",
     "hero_subtitle": "Scannez le code QR avec votre téléphone. Les fichiers arrivent en quelques secondes."
   },
   "desktop": {
@@ -39,35 +39,98 @@
     "expires_in": "Expire dans",
     "copy_link": "Copier le lien de participation →",
     "connected": "Téléphone connecté",
-    "download_all": "↓ Téléchargez tout (ZIP)",
+    "download_all": "↓ Télécharger tout (ZIP)",
     "close_session": "Fermer la session",
     "search": "Rechercher des fichiers…",
     "no_files": "Aucun fichier pour l'instant. Téléchargez depuis votre téléphone pour les voir ici."
   },
   "mobile": {
-    "join_title": "Rejoindre une session de bureau",
+    "join_title": "Rejoindre une session bureau",
     "join_subtitle": "Entrez le code à 8 chiffres affiché sur l'ordinateur",
-    "session_code": "Code de séance",
+    "session_code": "Code de session",
     "desktop_screen": "Le code est affiché sur l'écran du bureau",
-    "connect": "Connectez-vous au bureau →",
-    "connecting": "De liaison…",
+    "connect": "Se connecter au bureau →",
+    "connecting": "Connexion…",
     "or": "ou",
-    "scan_qr": "📷 Scannez le code QR",
+    "scan_qr": "📷 Scanner le code QR",
     "connected": "Connecté au bureau",
     "appear_instantly": "Les fichiers apparaissent instantanément à l'écran",
     "close": "Fermer la session",
     "tap_choose": "Appuyez pour choisir des fichiers",
-    "limits": "Images, PDF, documents — jusqu'à 50 Mo chacun",
+    "limits": "Images, PDF, documents — jusqu'à 50 Mo chacun",
     "select_files": "Sélectionner des fichiers",
-    "uploads": "Téléchargements",
-    "done": "fait"
+    "uploads": "Envois",
+    "done": "terminé"
   },
   "blog": {
-    "badge": "Blogue",
+    "badge": "Blog",
     "title": "Guides et conseils sur le transfert de fichiers",
     "subtitle": "Des guides pratiques pour vous aider à déplacer des fichiers plus rapidement et de manière plus sécurisée.",
-    "no_posts": "Pas encore de messages.",
+    "no_posts": "Pas encore de publications.",
     "all": "Tous",
     "read": "lire"
+  },
+  "how_it_works": {
+    "badge": "Guide étape par étape",
+    "title": "Comment fonctionne OneTimeDrop",
+    "subtitle": "Transférez des fichiers de votre téléphone à l'ordinateur en moins de 30 secondes.",
+    "steps_heading": "4 étapes simples",
+    "steps": [
+      {
+        "title": "Ouvrez sur votre ordinateur",
+        "desc": "Visitez onetimedrop.com sur l'ordinateur vers lequel vous souhaitez envoyer des fichiers. Un code à 8 chiffres et un QR code apparaissent instantanément — aucun compte requis."
+      },
+      {
+        "title": "Scannez avec votre téléphone",
+        "desc": "Pointez la caméra de votre téléphone vers le QR code, ou ouvrez onetimedrop.com sur votre téléphone et appuyez sur « Rejoindre la session » pour saisir le code manuellement."
+      },
+      {
+        "title": "Téléchargez des fichiers",
+        "desc": "Choisissez des photos, des PDF ou des documents depuis votre téléphone. Les fichiers se transfèrent en temps réel et apparaissent immédiatement sur le bureau."
+      },
+      {
+        "title": "Téléchargez sur l'ordinateur",
+        "desc": "Cliquez sur Télécharger à côté de n'importe quel fichier sur le bureau. Les fichiers sont supprimés automatiquement après 10 minutes pour votre confidentialité."
+      }
+    ],
+    "cta_title": "Prêt à essayer ?",
+    "cta_desc": "Ouvrez OneTimeDrop sur votre ordinateur pour obtenir un code.",
+    "cta_start": "Démarrer une session →",
+    "cta_join": "Rejoindre avec un code",
+    "faq_heading": "Questions fréquemment posées",
+    "faqs": [
+      {
+        "q": "OneTimeDrop est-il gratuit ?",
+        "a": "Oui, totalement gratuit. Pas de compte, pas d'abonnement, pas de frais cachés."
+      },
+      {
+        "q": "Combien de temps les fichiers sont-ils conservés ?",
+        "a": "Les fichiers sont automatiquement supprimés après 10 minutes. C'est intentionnel pour protéger votre vie privée."
+      },
+      {
+        "q": "Dois-je installer quelque chose ?",
+        "a": "Non. OneTimeDrop fonctionne entièrement dans votre navigateur web, sur le téléphone comme sur l'ordinateur. Aucune application à télécharger."
+      },
+      {
+        "q": "Quelle est la taille maximale des fichiers ?",
+        "a": "Chaque fichier doit faire moins de 50 Mo. Vous pouvez envoyer jusqu'à 20 fichiers par session."
+      },
+      {
+        "q": "Mes données sont-elles sécurisées ?",
+        "a": "Les fichiers sont stockés temporairement sur notre serveur et protégés par un jeton de session unique. Ils ne sont jamais accessibles publiquement et sont supprimés automatiquement après expiration."
+      },
+      {
+        "q": "Puis-je envoyer des fichiers de l'ordinateur vers mon téléphone ?",
+        "a": "Actuellement, OneTimeDrop est optimisé pour les transferts téléphone → ordinateur. Le transfert bureau-vers-téléphone arrive bientôt."
+      },
+      {
+        "q": "Quels types de fichiers sont pris en charge ?",
+        "a": "Les images, PDF, documents Microsoft Office, fichiers texte, vidéos et fichiers audio sont tous pris en charge."
+      },
+      {
+        "q": "Fonctionne-t-il sur des ordinateurs publics/de bibliothèque ?",
+        "a": "Oui — rappelez-vous simplement que vos fichiers seront temporaires. N'uploadez pas de documents sensibles sur des ordinateurs publics."
+      }
+    ]
   }
 }

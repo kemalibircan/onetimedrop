@@ -69,5 +69,68 @@
     "no_posts": "No posts yet.",
     "all": "All",
     "read": "read"
+  },
+  "how_it_works": {
+    "badge": "Step-by-step guide",
+    "title": "How OneTimeDrop Works",
+    "subtitle": "Transfer files from phone to computer in under 30 seconds.",
+    "steps_heading": "4 simple steps",
+    "steps": [
+      {
+        "title": "Open on your computer",
+        "desc": "Visit onetimedrop.com on the computer you want to send files to. An 8-digit code and QR code appear instantly — no account needed."
+      },
+      {
+        "title": "Scan with your phone",
+        "desc": "Point your phone camera at the QR code, or open onetimedrop.com on your phone and tap \"Join session\" to type the code manually."
+      },
+      {
+        "title": "Upload files",
+        "desc": "Pick photos, PDFs, or documents from your phone. Files transfer in real-time and appear on the desktop immediately."
+      },
+      {
+        "title": "Download on the computer",
+        "desc": "Click Download next to any file on the desktop. Files are auto-deleted after 10 minutes for your privacy."
+      }
+    ],
+    "cta_title": "Ready to try it?",
+    "cta_desc": "Open OneTimeDrop on your computer to get a code.",
+    "cta_start": "Start a session →",
+    "cta_join": "Join with code",
+    "faq_heading": "Frequently asked questions",
+    "faqs": [
+      {
+        "q": "Is OneTimeDrop free to use?",
+        "a": "Yes, completely free. No account, no subscription, no hidden fees."
+      },
+      {
+        "q": "How long are files kept?",
+        "a": "Files are automatically deleted after 10 minutes. This is by design to protect your privacy."
+      },
+      {
+        "q": "Do I need to install anything?",
+        "a": "No. OneTimeDrop works entirely in your web browser on both phone and computer. No app download required."
+      },
+      {
+        "q": "What is the maximum file size?",
+        "a": "Each file must be under 50MB. You can upload up to 20 files per session."
+      },
+      {
+        "q": "Is my data secure?",
+        "a": "Files are stored temporarily on our server and protected by a unique session token. They are never publicly accessible and are auto-deleted after expiry."
+      },
+      {
+        "q": "Can I send files from the computer to my phone?",
+        "a": "Currently, OneTimeDrop is optimised for phone → computer transfers. Desktop-to-phone is coming soon."
+      },
+      {
+        "q": "What file types are supported?",
+        "a": "Images, PDFs, Microsoft Office documents, text files, video, and audio files are all supported."
+      },
+      {
+        "q": "Does it work on public/library computers?",
+        "a": "Yes — just remember your files will be temporary. Don't upload sensitive documents on public computers."
+      }
+    ]
   }
 }
