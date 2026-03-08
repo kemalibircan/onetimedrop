@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "how_it_works": "Nasıl çalışır?",
+    "blog": "Blog",
+    "privacy": "Mahremiyet",
+    "join_session": "Oturuma katıl",
+    "start_session": "Oturumu başlat"
+  },
+  "footer": {
+    "slogan": "Dosyaları telefondan bilgisayara saniyeler içinde gönderin. Uygulama yok, hesap yok.",
+    "product": "Ürün",
+    "start_session": "Oturumu başlat",
+    "join_session": "Oturuma katıl",
+    "how_it_works": "Nasıl çalışır?",
+    "resources": "Kaynaklar",
+    "blog": "Blog",
+    "contact": "Temas etmek",
+    "legal": "Yasal",
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_of_service": "Hizmet Şartları",
+    "auto_delete": "Dosyalar 10 dakika sonra otomatik olarak silinir",
+    "made_with": "Zahmetsiz paylaşım için 🍊 ile tasarlandı"
+  },
+  "home": {
+    "no_account": "Hesap gerekmez · Dosyalar 10 dakika içinde otomatik olarak silinir",
+    "hero_title_send": "Dosyaları cihazınızdan gönderin",
+    "hero_title_phone": "telefon",
+    "hero_title_to": "herhangi bir bilgisayara",
+    "hero_subtitle": "QR kodunu telefonunuzla tarayın. Dosyalar saniyeler içinde ulaşır."
+  },
+  "desktop": {
+    "badge": "Masaüstü Oturumu",
+    "title_connected": "📱 Telefon bağlandı!",
+    "title_scan": "Telefonunuzu bağlamak için tarayın",
+    "subtitle_connected": "Telefonunuzdaki dosyalar anında aşağıda görünecektir.",
+    "subtitle_scan": "Telefonunuzun kamerasını QR koduna doğrultun veya kodu manuel olarak yazın.",
+    "scan_camera": "Telefonunuzun kamerasıyla tarayın",
+    "or_type": "Veya bu kodu telefonunuza yazın",
+    "expires_in": "Süresi doluyor",
+    "copy_link": "Katılma bağlantısını kopyala →",
+    "connected": "Telefon bağlandı",
+    "download_all": "↓ Tümünü indir (ZIP)",
+    "close_session": "Oturumu kapat",
+    "search": "Dosyaları ara…",
+    "no_files": "Henüz dosya yok. Bunları burada görmek için telefonunuzdan yükleyin."
+  },
+  "mobile": {
+    "join_title": "Masaüstü Oturumuna Katılın",
+    "join_subtitle": "Bilgisayarda gösterilen 8 haneli kodu girin",
+    "session_code": "Oturum kodu",
+    "desktop_screen": "Kod masaüstü ekranında gösterilir",
+    "connect": "Masaüstüne bağlanın →",
+    "connecting": "Bağlanıyor…",
+    "or": "veya",
+    "scan_qr": "📷 QR kodunu tarayın",
+    "connected": "Masaüstüne bağlanıldı",
+    "appear_instantly": "Dosyalar anında ekranda görünüyor",
+    "close": "Oturumu Kapat",
+    "tap_choose": "Dosyaları seçmek için dokunun",
+    "limits": "Resimler, PDF'ler, belgeler — her biri en fazla 50 MB",
+    "select_files": "Dosyaları seçin",
+    "uploads": "Yüklemeler",
+    "done": "Tamamlandı"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Dosya Aktarımı Kılavuzları ve İpuçları",
+    "subtitle": "Dosyaları daha hızlı ve daha güvenli bir şekilde taşımanıza yardımcı olacak pratik kılavuzlar.",
+    "no_posts": "Henüz gönderi yok.",
+    "all": "Tüm",
+    "read": "Okumak"
+  }
+}

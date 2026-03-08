@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "how_it_works": "Wie es funktioniert",
+    "blog": "Blog",
+    "privacy": "Privatsphäre",
+    "join_session": "Nehmen Sie an der Sitzung teil",
+    "start_session": "Sitzung starten"
+  },
+  "footer": {
+    "slogan": "Senden Sie Dateien in Sekundenschnelle vom Telefon an den Computer. Keine App, kein Konto.",
+    "product": "Produkt",
+    "start_session": "Sitzung starten",
+    "join_session": "Nehmen Sie an der Sitzung teil",
+    "how_it_works": "Wie es funktioniert",
+    "resources": "Ressourcen",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "legal": "Legal",
+    "privacy_policy": "Datenschutzrichtlinie",
+    "terms_of_service": "Nutzungsbedingungen",
+    "auto_delete": "Dateien werden nach 10 Minuten automatisch gelöscht",
+    "made_with": "Hergestellt mit 🍊 für müheloses Teilen"
+  },
+  "home": {
+    "no_account": "Kein Konto erforderlich · Dateien werden in 10 Minuten automatisch gelöscht",
+    "hero_title_send": "Senden Sie Dateien von Ihrem",
+    "hero_title_phone": "Telefon",
+    "hero_title_to": "to any computer",
+    "hero_subtitle": "Scannen Sie den QR-Code mit Ihrem Telefon. Dateien kommen in Sekundenschnelle an."
+  },
+  "desktop": {
+    "badge": "Desktop-Sitzung",
+    "title_connected": "📱 Telefon verbunden!",
+    "title_scan": "Scannen Sie, um Ihr Telefon zu verbinden",
+    "subtitle_connected": "Dateien von Ihrem Telefon werden sofort unten angezeigt.",
+    "subtitle_scan": "Richten Sie die Kamera Ihres Telefons auf den QR-Code oder geben Sie den Code manuell ein.",
+    "scan_camera": "Scannen Sie mit Ihrer Telefonkamera",
+    "or_type": "Oder geben Sie diesen Code auf Ihrem Telefon ein",
+    "expires_in": "Läuft ab in",
+    "copy_link": "Beitrittslink kopieren →",
+    "connected": "Telefon verbunden",
+    "download_all": "↓ Alles herunterladen (ZIP)",
+    "close_session": "Sitzung schließen",
+    "search": "Dateien durchsuchen…",
+    "no_files": "Noch keine Dateien. Laden Sie sie von Ihrem Telefon hoch, um sie hier anzusehen."
+  },
+  "mobile": {
+    "join_title": "Treten Sie der Desktop-Sitzung bei",
+    "join_subtitle": "Geben Sie den auf dem Computer angezeigten 8-stelligen Code ein",
+    "session_code": "Sitzungscode",
+    "desktop_screen": "Der Code wird auf dem Desktop-Bildschirm angezeigt",
+    "connect": "Mit Desktop verbinden →",
+    "connecting": "Verbinden…",
+    "or": "oder",
+    "scan_qr": "📷 QR-Code scannen",
+    "connected": "Verbunden mit dem Desktop",
+    "appear_instantly": "Dateien werden sofort auf dem Bildschirm angezeigt",
+    "close": "Sitzung schließen",
+    "tap_choose": "Tippen Sie, um Dateien auszuwählen",
+    "limits": "Bilder, PDFs, Dokumente – jeweils bis zu 50 MB",
+    "select_files": "Wählen Sie Dateien aus",
+    "uploads": "Uploads",
+    "done": "Erledigt"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Anleitungen und Tipps zur Dateiübertragung",
+    "subtitle": "Praktische Anleitungen, die Ihnen helfen, Dateien schneller und sicherer zu verschieben.",
+    "no_posts": "Noch keine Beiträge.",
+    "all": "Alle",
+    "read": "lesen"
+  }
+}

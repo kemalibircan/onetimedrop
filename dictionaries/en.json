@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "how_it_works": "How it works",
+    "blog": "Blog",
+    "privacy": "Privacy",
+    "join_session": "Join session",
+    "start_session": "Start session"
+  },
+  "footer": {
+    "slogan": "Send files from phone to computer in seconds. No app, no account.",
+    "product": "Product",
+    "start_session": "Start session",
+    "join_session": "Join session",
+    "how_it_works": "How it works",
+    "resources": "Resources",
+    "blog": "Blog",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "auto_delete": "Files auto-deleted after 10 minutes",
+    "made_with": "Made with 🍊 for effortless sharing"
+  },
+  "home": {
+    "no_account": "No account required · Files auto-delete in 10 min",
+    "hero_title_send": "Send files from your",
+    "hero_title_phone": "phone",
+    "hero_title_to": "to any computer",
+    "hero_subtitle": "Scan the QR code with your phone. Files arrive in seconds."
+  },
+  "desktop": {
+    "badge": "Desktop Session",
+    "title_connected": "📱 Phone connected!",
+    "title_scan": "Scan to connect your phone",
+    "subtitle_connected": "Files from your phone will appear below instantly.",
+    "subtitle_scan": "Point your phone camera at the QR code, or type the code manually.",
+    "scan_camera": "Scan with your phone camera",
+    "or_type": "Or type this code on your phone",
+    "expires_in": "Expires in",
+    "copy_link": "Copy join link →",
+    "connected": "Phone connected",
+    "download_all": "↓ Download all (ZIP)",
+    "close_session": "Close session",
+    "search": "Search files…",
+    "no_files": "No files yet. Upload from your phone to see them here."
+  },
+  "mobile": {
+    "join_title": "Join Desktop Session",
+    "join_subtitle": "Enter the 8-digit code shown on the computer",
+    "session_code": "Session code",
+    "desktop_screen": "The code is shown on the desktop screen",
+    "connect": "Connect to desktop →",
+    "connecting": "Connecting…",
+    "or": "or",
+    "scan_qr": "📷 Scan QR code",
+    "connected": "Connected to Desktop",
+    "appear_instantly": "Files appear instantly on screen",
+    "close": "Close Session",
+    "tap_choose": "Tap to choose files",
+    "limits": "Images, PDFs, docs — up to 50MB each",
+    "select_files": "Select files",
+    "uploads": "Uploads",
+    "done": "done"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "File Transfer Guides & Tips",
+    "subtitle": "Practical guides to help you move files faster and more securely.",
+    "no_posts": "No posts yet.",
+    "all": "All",
+    "read": "read"
+  }
+}

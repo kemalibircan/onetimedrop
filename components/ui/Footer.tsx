@@ -1,6 +1,11 @@
 import Link from "next/link";
 
-export default function Footer() {
+interface FooterProps {
+  lang: string;
+  dict: any;
+}
+
+export default function Footer({ lang, dict }: FooterProps) {
   const year = new Date().getFullYear();
 
   return (
@@ -9,7 +14,7 @@ export default function Footer() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-10">
           {/* Brand */}
           <div className="col-span-2 md:col-span-1">
-            <Link href="/" className="flex items-center gap-2 mb-3">
+            <Link href={`/${lang}`} className="flex items-center gap-2 mb-3">
               <div className="w-8 h-8 rounded-xl bg-gradient-orange flex items-center justify-center text-white font-bold text-sm">
                 🍊
               </div>
@@ -18,42 +23,42 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm text-[var(--color-muted)] leading-relaxed">
-              Send files from phone to computer in seconds. No app, no account.
+              {dict.slogan}
             </p>
           </div>
 
           {/* Product */}
           <div>
-            <h3 className="font-semibold text-sm mb-3">Product</h3>
+            <h3 className="font-semibold text-sm mb-3">{dict.product}</h3>
             <ul className="space-y-2 text-sm text-[var(--color-muted)]">
-              <li><Link href="/" className="hover:text-[#FF8A3D] transition-colors">Start session</Link></li>
-              <li><Link href="/join" className="hover:text-[#FF8A3D] transition-colors">Join session</Link></li>
-              <li><Link href="/how-it-works" className="hover:text-[#FF8A3D] transition-colors">How it works</Link></li>
+              <li><Link href={`/${lang}`} className="hover:text-[#FF8A3D] transition-colors">{dict.start_session}</Link></li>
+              <li><Link href={`/${lang}/join`} className="hover:text-[#FF8A3D] transition-colors">{dict.join_session}</Link></li>
+              <li><Link href={`/${lang}/how-it-works`} className="hover:text-[#FF8A3D] transition-colors">{dict.how_it_works}</Link></li>
             </ul>
           </div>
 
           {/* Resources */}
           <div>
-            <h3 className="font-semibold text-sm mb-3">Resources</h3>
+            <h3 className="font-semibold text-sm mb-3">{dict.resources}</h3>
             <ul className="space-y-2 text-sm text-[var(--color-muted)]">
-              <li><Link href="/blog" className="hover:text-[#FF8A3D] transition-colors">Blog</Link></li>
-              <li><Link href="/contact" className="hover:text-[#FF8A3D] transition-colors">Contact</Link></li>
+              <li><Link href={`/${lang}/blog`} className="hover:text-[#FF8A3D] transition-colors">{dict.blog}</Link></li>
+              <li><Link href={`/${lang}/contact`} className="hover:text-[#FF8A3D] transition-colors">{dict.contact}</Link></li>
             </ul>
           </div>
 
           {/* Legal */}
           <div>
-            <h3 className="font-semibold text-sm mb-3">Legal</h3>
+            <h3 className="font-semibold text-sm mb-3">{dict.legal}</h3>
             <ul className="space-y-2 text-sm text-[var(--color-muted)]">
-              <li><Link href="/privacy" className="hover:text-[#FF8A3D] transition-colors">Privacy Policy</Link></li>
-              <li><Link href="/terms" className="hover:text-[#FF8A3D] transition-colors">Terms of Service</Link></li>
+              <li><Link href={`/${lang}/privacy`} className="hover:text-[#FF8A3D] transition-colors">{dict.privacy_policy}</Link></li>
+              <li><Link href={`/${lang}/terms`} className="hover:text-[#FF8A3D] transition-colors">{dict.terms_of_service}</Link></li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-[var(--color-border)] pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-[var(--color-muted)]">
-          <p>© {year} OneTimeDrop. Files auto-deleted after 10 minutes.</p>
-          <p>Made with 🍊 for effortless sharing</p>
+          <p>© {year} OneTimeDrop. {dict.auto_delete}</p>
+          <p>{dict.made_with}</p>
         </div>
       </div>
     </footer>

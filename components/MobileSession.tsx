@@ -14,6 +14,7 @@ interface FileUploadState {
 
 interface MobileSessionProps {
   initialCode?: string;
+  dict: any;
 }
 
 function formatBytes(bytes: number): string {
@@ -31,7 +32,7 @@ function fileIcon(mime: string): string {
   return "📎";
 }
 
-export default function MobileSession({ initialCode }: MobileSessionProps) {
+export default function MobileSession({ initialCode, dict }: MobileSessionProps) {
   const [joinCode, setJoinCode] = useState(initialCode || "");
   const [session, setSession] = useState<SessionData | null>(null);
   const [isJoining, setIsJoining] = useState(false);
@@ -194,16 +195,16 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
       <div className="max-w-md mx-auto px-4 py-10 animate-fade-in">
         <div className="text-center mb-8">
           <div className="text-6xl mb-4">🍊</div>
-          <h1 className="text-2xl font-bold">Join Desktop Session</h1>
+          <h1 className="text-2xl font-bold">{dict.join_title}</h1>
           <p className="text-[var(--color-muted)] mt-2">
-            Enter the 8-digit code shown on the computer
+            {dict.join_subtitle}
           </p>
         </div>
 
         <div className="card space-y-5">
           <div>
             <label htmlFor="code-input" className="block text-sm font-medium mb-2">
-              Session code
+              {dict.session_code}
             </label>
             <input
               id="code-input"
@@ -226,7 +227,7 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
               aria-describedby="code-help"
             />
             <p id="code-help" className="text-xs text-[var(--color-muted)] mt-1.5">
-              The code is shown on the desktop screen
+              {dict.desktop_screen}
             </p>
           </div>
 
@@ -238,16 +239,16 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
             {isJoining ? (
               <>
                 <span className="w-4 h-4 border-2 border-white border-t-transparent rounded-full animate-spin" />
-                Connecting…
+                {dict.connecting}
               </>
             ) : (
-              "Connect to desktop →"
+              dict.connect
             )}
           </button>
 
           <div className="relative flex items-center gap-3">
             <div className="flex-1 h-px bg-[var(--color-border)]" />
-            <span className="text-sm text-[var(--color-muted)]">or</span>
+            <span className="text-sm text-[var(--color-muted)]">{dict.or}</span>
             <div className="flex-1 h-px bg-[var(--color-border)]" />
           </div>
 
@@ -255,7 +256,7 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
             href="/join"
             className="btn-secondary w-full text-center"
           >
-            📷 Scan QR code
+            {dict.scan_qr}
           </a>
         </div>
       </div>
@@ -271,17 +272,17 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
           <div className="w-3 h-3 rounded-full bg-emerald-400 animate-pulse-dot flex-shrink-0" />
           <div>
             <p className="font-semibold text-emerald-700 dark:text-emerald-400">
-              Connected to Desktop
+              {dict.connected}
             </p>
-            <p className="text-xs text-[var(--color-muted)]">Files appear instantly on screen</p>
+            <p className="text-xs text-[var(--color-muted)]">{dict.appear_instantly}</p>
           </div>
         </div>
         <button
           onClick={closeSession}
           className="btn-ghost text-xs text-red-500 hover:text-red-600 px-3 py-1.5 min-h-[32px] md:min-h-0"
-          title="Close session"
+          title={dict.close}
         >
-          Close Session
+          {dict.close}
         </button>
       </div>
 
@@ -306,12 +307,12 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
       >
         <div className="text-5xl">{isDragging ? "✨" : "📤"}</div>
         <div className="text-center">
-          <p className="font-semibold">Tap to choose files</p>
+          <p className="font-semibold">{dict.tap_choose}</p>
           <p className="text-sm text-[var(--color-muted)] mt-1">
-            Images, PDFs, docs — up to 50MB each
+            {dict.limits}
           </p>
         </div>
-        <span className="btn-primary pointer-events-none">Select files</span>
+        <span className="btn-primary pointer-events-none">{dict.select_files}</span>
         <input
           ref={fileInputRef}
           type="file"
@@ -326,10 +327,10 @@ export default function MobileSession({ initialCode }: MobileSessionProps) {
       {uploadQueue.length > 0 && (
         <div className="card p-0 overflow-hidden">
           <div className="px-5 py-3 border-b border-[var(--color-border)] flex items-center justify-between">
-            <h2 className="font-semibold text-sm">Uploads</h2>
+            <h2 className="font-semibold text-sm">{dict.uploads}</h2>
             <span className="text-xs text-[var(--color-muted)]">
               {uploadQueue.filter((q) => q.status === "done").length}/
-              {uploadQueue.length} done
+              {uploadQueue.length} {dict.done}
             </span>
           </div>
           {uploadQueue.map((item, i) => (

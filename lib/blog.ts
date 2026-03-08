@@ -13,18 +13,19 @@ export interface BlogPost {
   content: string;
 }
 
-const BLOG_DIR = path.join(process.cwd(), "content/blog");
+const getBlogDir = (lang: string = 'en') => path.join(process.cwd(), `content/blog/${lang}`);
 
-export function getAllPosts(): BlogPost[] {
-  if (!fs.existsSync(BLOG_DIR)) return [];
+export function getAllPosts(lang: string = 'en'): BlogPost[] {
+  const dir = getBlogDir(lang);
+  if (!fs.existsSync(dir)) return [];
 
   const files = fs
-    .readdirSync(BLOG_DIR)
+    .readdirSync(dir)
     .filter((f) => f.endsWith(".md") && !f.startsWith("_"));
 
   return files
     .map((file) => {
-      const raw = fs.readFileSync(path.join(BLOG_DIR, file), "utf-8");
+      const raw = fs.readFileSync(path.join(dir, file), "utf-8");
       const { data, content } = matter(raw);
       return {
         slug: data.slug || file.replace(/\.md$/, ""),
@@ -40,7 +41,7 @@ export function getAllPosts(): BlogPost[] {
     .sort((a, b) => (a.date > b.date ? -1 : 1));
 }
 
-export function getPostBySlug(slug: string): BlogPost | null {
-  const posts = getAllPosts();
+export function getPostBySlug(slug: string, lang: string = 'en'): BlogPost | null {
+  const posts = getAllPosts(lang);
   return posts.find((p) => p.slug === slug) || null;
 }

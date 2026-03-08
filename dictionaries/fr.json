@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "how_it_works": "Comment ça marche",
+    "blog": "Blogue",
+    "privacy": "Confidentialité",
+    "join_session": "Rejoindre la session",
+    "start_session": "Démarrer la session"
+  },
+  "footer": {
+    "slogan": "Envoyez des fichiers du téléphone à l'ordinateur en quelques secondes. Pas d'application, pas de compte.",
+    "product": "Produit",
+    "start_session": "Démarrer la session",
+    "join_session": "Rejoindre la session",
+    "how_it_works": "Comment ça marche",
+    "resources": "Ressources",
+    "blog": "Blogue",
+    "contact": "Contact",
+    "legal": "Légal",
+    "privacy_policy": "politique de confidentialité",
+    "terms_of_service": "Conditions d'utilisation",
+    "auto_delete": "Fichiers supprimés automatiquement après 10 minutes",
+    "made_with": "Fabriqué avec 🍊 pour un partage sans effort"
+  },
+  "home": {
+    "no_account": "Aucun compte requis · Suppression automatique des fichiers en 10 minutes",
+    "hero_title_send": "Envoyez des fichiers depuis votre",
+    "hero_title_phone": "téléphone",
+    "hero_title_to": "à n'importe quel ordinateur",
+    "hero_subtitle": "Scannez le code QR avec votre téléphone. Les fichiers arrivent en quelques secondes."
+  },
+  "desktop": {
+    "badge": "Session de bureau",
+    "title_connected": "📱 Téléphone connecté !",
+    "title_scan": "Scannez pour connecter votre téléphone",
+    "subtitle_connected": "Les fichiers de votre téléphone apparaîtront instantanément ci-dessous.",
+    "subtitle_scan": "Pointez l'appareil photo de votre téléphone vers le code QR ou saisissez le code manuellement.",
+    "scan_camera": "Scannez avec l'appareil photo de votre téléphone",
+    "or_type": "Ou tapez ce code sur votre téléphone",
+    "expires_in": "Expire dans",
+    "copy_link": "Copier le lien de participation →",
+    "connected": "Téléphone connecté",
+    "download_all": "↓ Téléchargez tout (ZIP)",
+    "close_session": "Fermer la session",
+    "search": "Rechercher des fichiers…",
+    "no_files": "Aucun fichier pour l'instant. Téléchargez depuis votre téléphone pour les voir ici."
+  },
+  "mobile": {
+    "join_title": "Rejoindre une session de bureau",
+    "join_subtitle": "Entrez le code à 8 chiffres affiché sur l'ordinateur",
+    "session_code": "Code de séance",
+    "desktop_screen": "Le code est affiché sur l'écran du bureau",
+    "connect": "Connectez-vous au bureau →",
+    "connecting": "De liaison…",
+    "or": "ou",
+    "scan_qr": "📷 Scannez le code QR",
+    "connected": "Connecté au bureau",
+    "appear_instantly": "Les fichiers apparaissent instantanément à l'écran",
+    "close": "Fermer la session",
+    "tap_choose": "Appuyez pour choisir des fichiers",
+    "limits": "Images, PDF, documents — jusqu'à 50 Mo chacun",
+    "select_files": "Sélectionner des fichiers",
+    "uploads": "Téléchargements",
+    "done": "fait"
+  },
+  "blog": {
+    "badge": "Blogue",
+    "title": "Guides et conseils sur le transfert de fichiers",
+    "subtitle": "Des guides pratiques pour vous aider à déplacer des fichiers plus rapidement et de manière plus sécurisée.",
+    "no_posts": "Pas encore de messages.",
+    "all": "Tous",
+    "read": "lire"
+  }
+}

@@ -12,7 +12,11 @@ const BASE_URL =
     ? window.location.origin
     : "https://onetimedrop.io";
 
-export default function DesktopSession() {
+interface DesktopSessionProps {
+  dict: any;
+}
+
+export default function DesktopSession({ dict }: DesktopSessionProps) {
   const [session, setSession] = useState<SessionData | null>(null);
   const [isPaired, setIsPaired] = useState(false);
   const [files, setFiles] = useState<FileRecord[]>([]);
@@ -174,14 +178,14 @@ export default function DesktopSession() {
     <div className="max-w-5xl mx-auto px-4 py-10 animate-fade-in">
       {/* Header */}
       <div className="text-center mb-10">
-        <span className="badge-orange mb-3">Desktop Session</span>
+        <span className="badge-orange mb-3">{dict.badge}</span>
         <h1 className="text-3xl sm:text-4xl font-bold text-[var(--color-text)] mt-2">
-          {isPaired ? "📱 Phone connected!" : "Scan to connect your phone"}
+          {isPaired ? dict.title_connected : dict.title_scan}
         </h1>
         <p className="text-[var(--color-muted)] mt-2">
           {isPaired
-            ? "Files from your phone will appear below instantly."
-            : "Point your phone camera at the QR code, or type the code manually."}
+            ? dict.subtitle_connected
+            : dict.subtitle_scan}
         </p>
       </div>
 
@@ -197,7 +201,7 @@ export default function DesktopSession() {
               </div>
             </div>
             <p className="text-sm text-[var(--color-muted)] text-center">
-              Scan with your phone camera
+              {dict.scan_camera}
             </p>
           </div>
 
@@ -205,7 +209,7 @@ export default function DesktopSession() {
           <div className="card flex flex-col items-center justify-center gap-6 py-10">
             <div>
               <p className="text-sm text-[var(--color-muted)] text-center mb-3 font-medium uppercase tracking-wider">
-                Or type this code on your phone
+                {dict.or_type}
               </p>
               <div className="code-display" aria-label="Session code">
                 {session.code
@@ -216,7 +220,7 @@ export default function DesktopSession() {
 
             <div className="flex items-center gap-2 text-sm text-[var(--color-muted)]">
               <div className="w-2 h-2 rounded-full bg-amber-400 animate-pulse-dot" />
-              <span>Expires in</span>
+              <span>{dict.expires_in}</span>
               <span className="font-mono font-semibold text-[var(--color-text)]">
                 {timeLeft}
               </span>
@@ -228,7 +232,7 @@ export default function DesktopSession() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Copy join link →
+              {dict.copy_link}
             </a>
           </div>
         </div>
@@ -240,10 +244,10 @@ export default function DesktopSession() {
             <div className="flex items-center gap-3">
               <div className="w-3 h-3 rounded-full bg-emerald-400 animate-pulse-dot" />
               <span className="font-semibold text-emerald-700 dark:text-emerald-400">
-                Phone connected
+                {dict.connected}
               </span>
               <span className="text-[var(--color-muted)] text-sm">
-                · Session expires in{" "}
+                · {dict.expires_in}{" "}
                 <span className="font-mono">{timeLeft}</span>
               </span>
             </div>
@@ -251,7 +255,7 @@ export default function DesktopSession() {
             <div className="flex items-center gap-2 flex-wrap">
               {files.length > 1 && (
                 <button onClick={downloadAll} className="btn-secondary text-sm py-2 px-4">
-                  ↓ Download all (ZIP)
+                  {dict.download_all}
                 </button>
               )}
               <button
@@ -260,7 +264,7 @@ export default function DesktopSession() {
                 title="End session and delete all files"
               >
                 <div className="w-2 h-2 rounded-full border-2 border-red-500 shrink-0" />
-                Close session
+                {dict.close_session}
               </button>
             </div>
           </div>
@@ -270,7 +274,7 @@ export default function DesktopSession() {
             <div>
               <input
                 type="search"
-                placeholder="Search files…"
+                placeholder={dict.search}
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 className="input-field"
@@ -284,7 +288,7 @@ export default function DesktopSession() {
             <div className="card flex flex-col items-center gap-4 py-16 text-center">
               <div className="text-5xl opacity-30">📭</div>
               <p className="text-[var(--color-muted)]">
-                No files yet. Upload from your phone to see them here.
+                {dict.no_files}
               </p>
             </div>
           ) : (

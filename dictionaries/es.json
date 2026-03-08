@@ -1,0 +1,73 @@
+{
+  "navbar": {
+    "how_it_works": "como funciona",
+    "blog": "Blog",
+    "privacy": "Privacidad",
+    "join_session": "Unirse a la sesión",
+    "start_session": "Iniciar sesión"
+  },
+  "footer": {
+    "slogan": "Envíe archivos desde el teléfono a la computadora en segundos. Sin aplicación, sin cuenta.",
+    "product": "Producto",
+    "start_session": "Iniciar sesión",
+    "join_session": "Unirse a la sesión",
+    "how_it_works": "como funciona",
+    "resources": "Recursos",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy_policy": "política de privacidad",
+    "terms_of_service": "Términos de servicio",
+    "auto_delete": "Archivos eliminados automáticamente después de 10 minutos",
+    "made_with": "Hecho con 🍊 para compartir sin esfuerzo"
+  },
+  "home": {
+    "no_account": "No se requiere cuenta · Los archivos se eliminan automáticamente en 10 minutos",
+    "hero_title_send": "Envía archivos desde tu",
+    "hero_title_phone": "teléfono",
+    "hero_title_to": "a cualquier computadora",
+    "hero_subtitle": "Escanea el código QR con tu teléfono. Los archivos llegan en segundos."
+  },
+  "desktop": {
+    "badge": "Sesión de escritorio",
+    "title_connected": "📱 ¡Teléfono conectado!",
+    "title_scan": "Escanea para conectar tu teléfono",
+    "subtitle_connected": "Los archivos de su teléfono aparecerán debajo al instante.",
+    "subtitle_scan": "Apunte la cámara de su teléfono al código QR o escriba el código manualmente.",
+    "scan_camera": "Escanea con la cámara de tu teléfono",
+    "or_type": "O escribe este código en tu teléfono",
+    "expires_in": "Vence en",
+    "copy_link": "Copiar enlace para unirse →",
+    "connected": "Teléfono conectado",
+    "download_all": "↓ Descargar todo (ZIP)",
+    "close_session": "Cerrar sesión",
+    "search": "Buscar archivos…",
+    "no_files": "Aún no hay archivos. Sube desde tu teléfono para verlos aquí."
+  },
+  "mobile": {
+    "join_title": "Unirse a la sesión de escritorio",
+    "join_subtitle": "Ingrese el código de 8 dígitos que se muestra en la computadora",
+    "session_code": "código de sesión",
+    "desktop_screen": "El código se muestra en la pantalla del escritorio.",
+    "connect": "Conectarse al escritorio →",
+    "connecting": "Conectando…",
+    "or": "o",
+    "scan_qr": "📷 Escanear código QR",
+    "connected": "Conectado al escritorio",
+    "appear_instantly": "Los archivos aparecen instantáneamente en la pantalla",
+    "close": "Cerrar sesión",
+    "tap_choose": "Toca para elegir archivos",
+    "limits": "Imágenes, archivos PDF y documentos: hasta 50 MB cada uno",
+    "select_files": "Seleccionar archivos",
+    "uploads": "Subidas",
+    "done": "hecho"
+  },
+  "blog": {
+    "badge": "Blog",
+    "title": "Guías y consejos para la transferencia de archivos",
+    "subtitle": "Guías prácticas que le ayudarán a mover archivos de forma más rápida y segura.",
+    "no_posts": "Aún no hay publicaciones.",
+    "all": "Todo",
+    "read": "leer"
+  }
+}
