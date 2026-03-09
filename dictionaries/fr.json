@@ -57,7 +57,7 @@
     "appear_instantly": "Les fichiers apparaissent instantanément à l'écran",
     "close": "Fermer la session",
     "tap_choose": "Appuyez pour choisir des fichiers",
-    "limits": "Images, PDF, documents — jusqu'à 50 Mo chacun",
+    "limits": "Images, PDF, documents — jusqu'à 250 Mo chacun",
     "select_files": "Sélectionner des fichiers",
     "uploads": "Envois",
     "done": "terminé"
@@ -113,7 +113,7 @@
       },
       {
         "q": "Quelle est la taille maximale des fichiers ?",
-        "a": "Chaque fichier doit faire moins de 50 Mo. Vous pouvez envoyer jusqu'à 20 fichiers par session."
+        "a": "Chaque fichier doit faire moins de 250 Mo. Vous pouvez envoyer jusqu'à 20 fichiers par session."
       },
       {
         "q": "Mes données sont-elles sécurisées ?",

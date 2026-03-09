@@ -57,7 +57,7 @@
     "appear_instantly": "Dateien werden sofort auf dem Bildschirm angezeigt",
     "close": "Sitzung schließen",
     "tap_choose": "Tippen Sie, um Dateien auszuwählen",
-    "limits": "Bilder, PDFs, Dokumente – jeweils bis zu 50 MB",
+    "limits": "Bilder, PDFs, Dokumente – jeweils bis zu 250 MB",
     "select_files": "Dateien auswählen",
     "uploads": "Uploads",
     "done": "fertig"
@@ -113,7 +113,7 @@
       },
       {
         "q": "Was ist die maximale Dateigröße?",
-        "a": "Jede Datei muss kleiner als 50 MB sein. Sie können bis zu 20 Dateien pro Sitzung hochladen."
+        "a": "Jede Datei muss kleiner als 250 MB sein. Sie können bis zu 20 Dateien pro Sitzung hochladen."
       },
       {
         "q": "Sind meine Daten sicher?",

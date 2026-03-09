@@ -57,7 +57,7 @@
     "appear_instantly": "Los archivos aparecen instantáneamente en la pantalla",
     "close": "Cerrar sesión",
     "tap_choose": "Toca para elegir archivos",
-    "limits": "Imágenes, archivos PDF y documentos: hasta 50 MB cada uno",
+    "limits": "Imágenes, archivos PDF y documentos: hasta 250 MB cada uno",
     "select_files": "Seleccionar archivos",
     "uploads": "Subidas",
     "done": "listo"
@@ -113,7 +113,7 @@
       },
       {
         "q": "¿Cuál es el tamaño máximo de archivo?",
-        "a": "Cada archivo debe ser menor de 50 MB. Puedes subir hasta 20 archivos por sesión."
+        "a": "Cada archivo debe ser menor de 250 MB. Puedes subir hasta 20 archivos por sesión."
       },
       {
         "q": "¿Están seguros mis datos?",

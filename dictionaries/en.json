@@ -57,7 +57,7 @@
     "appear_instantly": "Files appear instantly on screen",
     "close": "Close Session",
     "tap_choose": "Tap to choose files",
-    "limits": "Images, PDFs, docs — up to 50MB each",
+    "limits": "Images, PDFs, docs — up to 250MB each",
     "select_files": "Select files",
     "uploads": "Uploads",
     "done": "done"
@@ -113,7 +113,7 @@
       },
       {
         "q": "What is the maximum file size?",
-        "a": "Each file must be under 50MB. You can upload up to 20 files per session."
+        "a": "Each file must be under 250MB. You can upload up to 20 files per session."
       },
       {
         "q": "Is my data secure?",

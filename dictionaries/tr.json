@@ -57,7 +57,7 @@
     "appear_instantly": "Dosyalar anında ekranda görünüyor",
     "close": "Oturumu Kapat",
     "tap_choose": "Dosyaları seçmek için dokunun",
-    "limits": "Resimler, PDF'ler, belgeler — her biri en fazla 50 MB",
+    "limits": "Resimler, PDF'ler, belgeler — her biri en fazla 250 MB",
     "select_files": "Dosyaları seç",
     "uploads": "Yüklemeler",
     "done": "tamamlandı"
@@ -113,7 +113,7 @@
       },
       {
         "q": "Maksimum dosya boyutu nedir?",
-        "a": "Her dosya 50 MB'tan küçük olmalıdır. Oturum başına 20 dosyaya kadar yükleyebilirsiniz."
+        "a": "Her dosya 250 MB'tan küçük olmalıdır. Oturum başına 20 dosyaya kadar yükleyebilirsiniz."
       },
       {
         "q": "Verilerim güvende mi?",

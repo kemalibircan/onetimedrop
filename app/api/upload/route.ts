@@ -4,7 +4,7 @@ import path from "path";
 import { randomBytes } from "crypto";
 import { sessionManager } from "@/lib/sessionManager";
 
-const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
+const MAX_FILE_SIZE = 250 * 1024 * 1024; // 250MB
 const ALLOWED_MIME_PREFIXES = [
   "image/",
   "application/pdf",
@@ -64,7 +64,7 @@ export async function POST(req: NextRequest) {
         addedFiles.push({
           name: file.name,
           status: "failed",
-          error: "File exceeds 50MB limit",
+          error: "File exceeds 250MB limit",
         });
         continue;
       }
