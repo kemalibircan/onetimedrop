@@ -1,13 +1,13 @@
 ---
 title: Cómo enviar escaneos desde su teléfono a su computadora
-slug: send-scans-phone-to-computer
+slug: como-enviar-escaneos-desde-su-telefono-a-su-computadora
 description: >-
   ¿Escaneaste un documento con tu teléfono? Esta es la forma más rápida de
   instalarlo en tu computadora sin cables ni cuentas en la nube.
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/send-scans-phone-to-computer'
+translationKey: send-scans-phone-to-computer
 ---
 ## El escaneo del teléfono ha mejorado mucho
 

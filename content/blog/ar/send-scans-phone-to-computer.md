@@ -1,13 +1,13 @@
 ---
 title: كيفية إرسال عمليات المسح من هاتفك إلى جهاز الكمبيوتر الخاص بك
-slug: send-scans-phone-to-computer
+slug: '-'
 description: >-
   هل قمت بمسح مستند ضوئيًا بهاتفك؟ إليك أسرع طريقة لتوصيله إلى جهاز الكمبيوتر
   الخاص بك بدون كبلات أو حسابات سحابية.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/send-scans-phone-to-computer'
+translationKey: send-scans-phone-to-computer
 ---
 ## أصبح فحص الهاتف جيدًا جدًا
 

@@ -1,11 +1,13 @@
 ---
-title: "How to Share a File With a One-Time Code (Step-by-Step)"
-slug: "share-file-one-time-code"
-description: "A one-time code protects your files from unauthorized access. Here's how code-based file transfer works and how to use it."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/share-file-one-time-code"
+title: How to Share a File With a One-Time Code (Step-by-Step)
+slug: share-file-one-time-code
+description: >-
+  A one-time code protects your files from unauthorized access. Here's how
+  code-based file transfer works and how to use it.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: share-file-one-time-code
 ---
 
 ## What Is a One-Time Code for File Sharing?

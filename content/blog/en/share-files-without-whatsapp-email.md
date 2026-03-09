@@ -1,11 +1,13 @@
 ---
-title: "Share Files Without WhatsApp or Email: 5 Better Options"
-slug: "share-files-without-whatsapp-email"
-description: "WhatsApp compresses files, email has size limits. Here are 5 better ways to share files — fast, private, and without an account."
-date: "2026-03-08"
-category: "Comparison"
-readingTime: "7 min read"
-canonical: "https://onetimedrop.io/blog/share-files-without-whatsapp-email"
+title: 'Share Files Without WhatsApp or Email: 5 Better Options'
+slug: share-files-without-whatsapp-email
+description: >-
+  WhatsApp compresses files, email has size limits. Here are 5 better ways to
+  share files — fast, private, and without an account.
+date: '2026-03-08'
+category: Comparison
+readingTime: 7 min read
+translationKey: share-files-without-whatsapp-email
 ---
 
 ## Why WhatsApp and Email Are Bad at File Transfer

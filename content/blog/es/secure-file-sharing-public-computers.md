@@ -2,7 +2,8 @@
 title: >-
   Uso compartido seguro de archivos en computadoras públicas: una lista de
   verificación práctica
-slug: secure-file-sharing-public-computers
+slug: >-
+  uso-compartido-seguro-de-archivos-en-computadoras-publicas-una-lista-de-verificacion-practica
 description: >-
   Las computadoras públicas en bibliotecas, hoteles y aeropuertos son riesgosas.
   Aquí hay una lista de verificación de seguridad para transferir archivos sin
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Seguridad
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/es/blog/secure-file-sharing-public-computers'
+translationKey: secure-file-sharing-public-computers
 ---
 ## Los riesgos de las computadoras públicas
 

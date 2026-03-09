@@ -2,7 +2,8 @@
 title: >-
   Solucionar problemas de "No se pueden enviar archivos grandes" (soluciones
   simples)
-slug: fix-cant-send-large-files
+slug: >-
+  solucionar-problemas-de-no-se-pueden-enviar-archivos-grandes-soluciones-simples
 description: >-
   ¿El archivo adjunto del correo electrónico es demasiado grande? ¿WhatsApp
   rechaza tu vídeo? A continuación se ofrecen soluciones sencillas para
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Consejos
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/es/blog/fix-cant-send-large-files'
+translationKey: fix-cant-send-large-files
 ---
 ## ¿Por qué no puedo enviar archivos grandes?
 

@@ -1,6 +1,6 @@
 ---
 title: 'Compartir archivos sin WhatsApp ni correo electrónico: 5 mejores opciones'
-slug: share-files-without-whatsapp-email
+slug: compartir-archivos-sin-whatsapp-ni-correo-electronico-5-mejores-opciones
 description: >-
   WhatsApp comprime archivos, el correo electrónico tiene límites de tamaño.
   Aquí hay cinco formas mejores de compartir archivos: rápido, privado y sin una
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Comparación
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/es/blog/share-files-without-whatsapp-email'
+translationKey: share-files-without-whatsapp-email
 ---
 ## Por qué WhatsApp y el correo electrónico son malos para la transferencia de archivos
 

@@ -2,7 +2,8 @@
 title: >-
   Einfache Möglichkeiten zum Teilen von Dateien mit technisch nicht versierten
   Benutzern
-slug: share-files-non-tech-users
+slug: >-
+  einfache-moglichkeiten-zum-teilen-von-dateien-mit-technisch-nicht-versierten-benutzern
 description: >-
   Müssen Sie einer technisch nicht versierten Person helfen, eine Datei zu
   erhalten? Hier sind die einfachsten und sichersten Methoden, die keine
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Tipps
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/share-files-non-tech-users'
+translationKey: share-files-non-tech-users
 ---
 ## Die Herausforderung: Nicht-technischen Benutzern beim Empfang von Dateien helfen
 

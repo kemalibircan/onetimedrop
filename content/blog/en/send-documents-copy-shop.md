@@ -1,11 +1,13 @@
 ---
-title: "How to Send Documents From Phone to PC at a Copy Shop"
-slug: "send-documents-copy-shop"
-description: "Sending a document to print at a copy shop without bringing your laptop? Here's the quickest way to get your file onto their computer."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/send-documents-copy-shop"
+title: How to Send Documents From Phone to PC at a Copy Shop
+slug: send-documents-copy-shop
+description: >-
+  Sending a document to print at a copy shop without bringing your laptop?
+  Here's the quickest way to get your file onto their computer.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: send-documents-copy-shop
 ---
 
 ## The Copy Shop Challenge

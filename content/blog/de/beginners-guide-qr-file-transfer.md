@@ -2,7 +2,8 @@
 title: >-
   Ein Leitfaden für Einsteiger zur schnellen Dateiübertragung mithilfe von
   QR-Codes
-slug: beginners-guide-qr-file-transfer
+slug: >-
+  ein-leitfaden-fur-einsteiger-zur-schnellen-dateiubertragung-mithilfe-von-qr-codes
 description: >-
   Ganz neu bei der QR-Code-Dateiübertragung? Diese Schritt-für-Schritt-Anleitung
   für Anfänger deckt alles ab, vom Scannen bis zum Herunterladen Ihrer ersten
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Anleitung
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/beginners-guide-qr-file-transfer'
+translationKey: beginners-guide-qr-file-transfer
 ---
 ## Was ist ein QR-Code?
 

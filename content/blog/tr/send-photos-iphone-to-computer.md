@@ -1,6 +1,6 @@
 ---
 title: iPhone'dan Herhangi Bir Bilgisayara Fotoğraf Gönderin (AirDrop'a Gerek Yok)
-slug: send-photos-iphone-to-computer
+slug: iphonedan-herhangi-bir-bilgisayara-fotograf-gonderin-airdropa-gerek-yok
 description: >-
   AirDrop Windows'ta veya bilinmeyen Mac'lerde çalışmaz. Bir tarayıcı kullanarak
   iPhone fotoğraflarını herhangi bir bilgisayara saniyeler içinde nasıl
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/send-photos-iphone-to-computer'
+translationKey: send-photos-iphone-to-computer
 ---
 ## AirDrop Yalnızca Apple Cihazları Arasında Çalışır
 

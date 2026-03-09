@@ -1,13 +1,13 @@
 ---
 title: كيفية نقل الملفات عندما لا يكون محرك أقراص USB متاحًا
-slug: transfer-files-without-usb
+slug: '-usb-'
 description: >-
   هل نسيت محرك أقراص USB الخاص بك؟ لا مشكلة. فيما يلي أفضل الطرق اللاسلكية لنقل
   الملفات دون أي وسائط فعلية.
 date: '2026-03-08'
 category: نصائح
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/transfer-files-without-usb'
+translationKey: transfer-files-without-usb
 ---
 ## محركات أقراص USB: مريحة حتى تنسى واحدًا
 

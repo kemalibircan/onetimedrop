@@ -2,7 +2,8 @@
 title: >-
   Birden Fazla Fotoğraf Hızlı Bir Şekilde Nasıl Paylaşılır (Toplu Aktarım
   Kılavuzu)
-slug: share-multiple-photos-batch
+slug: >-
+  birden-fazla-fotograf-hizli-bir-sekilde-nasil-paylasilir-toplu-aktarim-kilavuzu
 description: >-
   Telefonunuzdan aynı anda 10, 20 veya daha fazla fotoğraf mı göndermeniz
   gerekiyor? Toplu fotoğraf aktarımlarını sıkıştırma olmadan hızlı bir şekilde
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/share-multiple-photos-batch'
+translationKey: share-multiple-photos-batch
 ---
 ## Toplu Fotoğraf Aktarımı Neden Zordur?
 

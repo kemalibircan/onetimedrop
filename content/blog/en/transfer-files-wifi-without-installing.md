@@ -1,11 +1,13 @@
 ---
-title: "How to Transfer Files Over Wi-Fi Without Installing Anything"
-slug: "transfer-files-wifi-without-installing"
-description: "You don't need apps or cables to move files over Wi-Fi. Discover browser-based tools that work on any device, instantly."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/transfer-files-wifi-without-installing"
+title: How to Transfer Files Over Wi-Fi Without Installing Anything
+slug: transfer-files-wifi-without-installing
+description: >-
+  You don't need apps or cables to move files over Wi-Fi. Discover browser-based
+  tools that work on any device, instantly.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: transfer-files-wifi-without-installing
 ---
 
 ## Wi-Fi File Transfer: Why "No Install" Matters

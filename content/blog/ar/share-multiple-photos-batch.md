@@ -1,13 +1,13 @@
 ---
 title: كيفية مشاركة صور متعددة بسرعة (دليل النقل المجمع)
-slug: share-multiple-photos-batch
+slug: '-'
 description: >-
   هل تحتاج إلى إرسال 10 أو 20 صورة أو أكثر من هاتفك مرة واحدة؟ فيما يلي كيفية
   إجراء عمليات نقل الصور المجمعة بسرعة دون ضغط.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/share-multiple-photos-batch'
+translationKey: share-multiple-photos-batch
 ---
 ## لماذا يعد نقل الصور المجمعة أمرًا صعبًا
 

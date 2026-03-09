@@ -1,6 +1,6 @@
 ---
 title: Başka Birinin Bilgisayarındaki Telefonunuzdan Nasıl Yazdırma Yapılır?
-slug: print-from-phone-on-others-computer
+slug: baska-birinin-bilgisayarindaki-telefonunuzdan-nasil-yazdirma-yapilir
 description: >-
   Bir kütüphanede, fotokopi dükkanında veya işyerinde telefonunuzdan bir belge
   yazdırmanız mı gerekiyor? İşte dosyanızı bilgisayarlarına aktarmanın en kolay
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/print-from-phone-on-others-computer'
+translationKey: print-from-phone-on-others-computer
 ---
 ## Fotokopi Dükkanı Sorunu
 

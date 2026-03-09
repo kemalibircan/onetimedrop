@@ -1,13 +1,13 @@
 ---
 title: Taramaları Telefonunuzdan Bilgisayarınıza Nasıl Gönderirsiniz?
-slug: send-scans-phone-to-computer
+slug: taramalari-telefonunuzdan-bilgisayariniza-nasil-gonderirsiniz
 description: >-
   Telefonunuzla bir belge mi taradınız? Kablolar veya bulut hesapları olmadan
   bilgisayarınıza aktarmanın en hızlı yolu burada.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/send-scans-phone-to-computer'
+translationKey: send-scans-phone-to-computer
 ---
 ## Telefon Taraması Çok İyileşti
 

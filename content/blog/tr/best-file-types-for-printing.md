@@ -1,6 +1,6 @@
 ---
 title: 'Yazdırma için En İyi Dosya Türleri (PDF, JPG ve PNG)'
-slug: best-file-types-for-printing
+slug: yazdirma-icin-en-iyi-dosya-turleri-pdf-jpg-ve-png
 description: >-
   Tüm dosya formatları eşit şekilde yazdırılmaz. Burada, yazdırma işiniz için
   doğru dosya türünü seçmenize ve telefonunuzda nasıl dönüştüreceğinize ilişkin
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: İpuçları
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/best-file-types-for-printing'
+translationKey: best-file-types-for-printing
 ---
 ## Yazdırma İçin Format Önemlidir
 

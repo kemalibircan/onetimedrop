@@ -1,13 +1,13 @@
 ---
 title: So senden Sie vor einem Meeting eine Präsentation vom Telefon an den Laptop
-slug: send-presentation-phone-to-laptop
+slug: so-senden-sie-vor-einem-meeting-eine-prasentation-vom-telefon-an-den-laptop
 description: >-
   Müssen Sie Ihr Foliendeck wenige Minuten vor einem Meeting vom Telefon auf den
   Laptop übertragen? Hier ist der schnellste Weg ohne Einrichtung.
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/send-presentation-phone-to-laptop'
+translationKey: send-presentation-phone-to-laptop
 ---
 ## Die Panik vor dem Meeting
 

@@ -1,13 +1,13 @@
 ---
 title: Yeni Başlayanlar İçin QR Kodlarını Kullanarak Hızlı Dosya Aktarımı Kılavuzu
-slug: beginners-guide-qr-file-transfer
+slug: yeni-baslayanlar-icin-qr-kodlarini-kullanarak-hizli-dosya-aktarimi-kilavuzu
 description: >-
   QR kodlu dosya aktarımında yeni misiniz? Bu adım adım başlangıç ​​kılavuzu,
   taramadan ilk dosyanızı indirmeye kadar her şeyi kapsar.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/beginners-guide-qr-file-transfer'
+translationKey: beginners-guide-qr-file-transfer
 ---
 ## QR Kodu Nedir?
 

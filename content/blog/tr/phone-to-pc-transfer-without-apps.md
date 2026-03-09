@@ -1,13 +1,13 @@
 ---
 title: 'Uygulamalar Olmadan Telefondan PC''ye Dosya Aktarımı: En Hızlı Yöntem'
-slug: phone-to-pc-transfer-without-apps
+slug: uygulamalar-olmadan-telefondan-pcye-dosya-aktarimi-en-hizli-yontem
 description: >-
   Bir tarayıcı ve QR kodu kullanarak, herhangi bir uygulama yüklemeden
   telefonunuzdan PC'nize dosya göndermenin en hızlı yollarını keşfedin.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/phone-to-pc-transfer-without-apps'
+translationKey: phone-to-pc-transfer-without-apps
 ---
 ## Geleneksel Dosya Aktarım Yöntemleriyle İlgili Sorun
 

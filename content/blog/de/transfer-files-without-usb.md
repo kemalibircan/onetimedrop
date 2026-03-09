@@ -1,13 +1,13 @@
 ---
 title: 'So übertragen Sie Dateien, wenn Ihr USB-Laufwerk nicht verfügbar ist'
-slug: transfer-files-without-usb
+slug: so-ubertragen-sie-dateien-wenn-ihr-usb-laufwerk-nicht-verfugbar-ist
 description: >-
   Haben Sie Ihr USB-Laufwerk vergessen? Kein Problem. Hier sind die besten
   drahtlosen Methoden zum Übertragen von Dateien ohne physische Medien.
 date: '2026-03-08'
 category: Tipps
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/transfer-files-without-usb'
+translationKey: transfer-files-without-usb
 ---
 ## USB-Laufwerke: Praktisch, bis Sie eines vergessen
 

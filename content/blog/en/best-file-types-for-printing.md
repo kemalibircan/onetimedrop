@@ -1,11 +1,13 @@
 ---
-title: "Best File Types for Printing (PDF vs JPG vs PNG)"
-slug: "best-file-types-for-printing"
-description: "Not all file formats print equally. Here's a quick guide on choosing the right file type for your print job — and how to convert on your phone."
-date: "2026-03-08"
-category: "Tips"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/best-file-types-for-printing"
+title: Best File Types for Printing (PDF vs JPG vs PNG)
+slug: best-file-types-for-printing
+description: >-
+  Not all file formats print equally. Here's a quick guide on choosing the right
+  file type for your print job — and how to convert on your phone.
+date: '2026-03-08'
+category: Tips
+readingTime: 5 min read
+translationKey: best-file-types-for-printing
 ---
 
 ## The Format Matters for Printing

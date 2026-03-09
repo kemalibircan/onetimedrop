@@ -1,6 +1,6 @@
 ---
 title: 'Temporäre Dateifreigabe erklärt: Was „automatisches Löschen“ wirklich bedeutet'
-slug: temporary-file-sharing-auto-delete
+slug: temporare-dateifreigabe-erklart-was-automatisches-loschen-wirklich-bedeutet
 description: >-
   Automatisches Löschen bei der Dateifreigabe bedeutet, dass Ihre Dateien nach
   einer festgelegten Zeit verschwinden. Aber wie funktioniert es eigentlich –
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Sicherheit
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/temporary-file-sharing-auto-delete'
+translationKey: temporary-file-sharing-auto-delete
 ---
 ## Was ist temporäre Dateifreigabe?
 

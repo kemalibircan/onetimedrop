@@ -2,12 +2,13 @@
 title: >-
   Comment envoyer une présentation d'un téléphone à un ordinateur portable avant
   une réunion
-slug: send-presentation-phone-to-laptop
+slug: >-
+  comment-envoyer-une-presentation-dun-telephone-a-un-ordinateur-portable-avant-une-reunion
 description: "Besoin de transférer votre diaporama du téléphone vers l'ordinateur portable quelques minutes avant une réunion\_? Voici le moyen le plus rapide sans configuration."
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/send-presentation-phone-to-laptop'
+translationKey: send-presentation-phone-to-laptop
 ---
 ## La panique avant la réunion
 

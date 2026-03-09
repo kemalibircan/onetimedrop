@@ -1,13 +1,13 @@
 ---
 title: Cómo descargar archivos de forma segura en una computadora desconocida
-slug: download-files-safely-unknown-computer
+slug: como-descargar-archivos-de-forma-segura-en-una-computadora-desconocida
 description: >-
   ¿Necesita descargar un archivo en una computadora que no es de su propiedad?
   Sigue estos pasos para mantenerte seguro y no dejar rastro.
 date: '2026-03-08'
 category: Seguridad
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/es/blog/download-files-safely-unknown-computer'
+translationKey: download-files-safely-unknown-computer
 ---
 ## ¿Qué hace que una computadora sea "desconocida"?
 

@@ -1,13 +1,13 @@
 ---
 title: أسهل طريقة لنقل الملفات من الهاتف إلى سطح المكتب للطباعة
-slug: move-files-phone-to-desktop-printing
+slug: '-'
 description: >-
   هل تحتاج إلى طباعة شيء ما من هاتفك؟ إليك أبسط وأسرع طريقة تعمل على أي جهاز
   كمبيوتر - دون الحاجة إلى أي إعداد.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/move-files-phone-to-desktop-printing'
+translationKey: move-files-phone-to-desktop-printing
 ---
 ## الطباعة من هاتفك: لماذا لا تزال مزعجة
 

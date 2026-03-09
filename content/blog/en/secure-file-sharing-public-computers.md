@@ -1,11 +1,13 @@
 ---
-title: "Secure File Sharing on Public Computers: A Practical Checklist"
-slug: "secure-file-sharing-public-computers"
-description: "Public computers at libraries, hotels, and airports are risky. Here's a safety checklist for transferring files without leaving traces."
-date: "2026-03-08"
-category: "Security"
-readingTime: "7 min read"
-canonical: "https://onetimedrop.io/blog/secure-file-sharing-public-computers"
+title: 'Secure File Sharing on Public Computers: A Practical Checklist'
+slug: secure-file-sharing-public-computers
+description: >-
+  Public computers at libraries, hotels, and airports are risky. Here's a safety
+  checklist for transferring files without leaving traces.
+date: '2026-03-08'
+category: Security
+readingTime: 7 min read
+translationKey: secure-file-sharing-public-computers
 ---
 
 ## The Risks of Public Computers

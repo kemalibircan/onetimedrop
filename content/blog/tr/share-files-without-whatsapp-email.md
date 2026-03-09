@@ -1,13 +1,13 @@
 ---
 title: 'Dosyaları WhatsApp veya E-posta Olmadan Paylaşın: 5 Daha İyi Seçenek'
-slug: share-files-without-whatsapp-email
+slug: dosyalari-whatsapp-veya-e-posta-olmadan-paylasin-5-daha-iyi-secenek
 description: >-
   WhatsApp dosyaları sıkıştırır, e-postanın boyut sınırları vardır. Dosyaları
   paylaşmanın daha iyi 5 yolu: hızlı, özel ve hesap olmadan.
 date: '2026-03-08'
 category: Karşılaştırmak
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/tr/blog/share-files-without-whatsapp-email'
+translationKey: share-files-without-whatsapp-email
 ---
 ## WhatsApp ve E-posta Dosya Aktarımında Neden Kötü?
 

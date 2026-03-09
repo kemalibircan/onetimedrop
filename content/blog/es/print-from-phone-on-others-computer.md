@@ -1,6 +1,6 @@
 ---
 title: Cómo imprimir desde su teléfono en la computadora de otra persona
-slug: print-from-phone-on-others-computer
+slug: como-imprimir-desde-su-telefono-en-la-computadora-de-otra-persona
 description: >-
   ¿Necesita imprimir un documento desde su teléfono en una biblioteca,
   copistería o trabajo? Esta es la forma más sencilla de transferir su archivo a
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/print-from-phone-on-others-computer'
+translationKey: print-from-phone-on-others-computer
 ---
 ## El problema de la copistería
 

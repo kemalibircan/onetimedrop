@@ -1,13 +1,13 @@
 ---
 title: كيفية الطباعة من هاتفك على كمبيوتر شخص آخر
-slug: print-from-phone-on-others-computer
+slug: '-'
 description: >-
   هل تحتاج إلى طباعة مستند من هاتفك في المكتبة أو محل النسخ أو العمل؟ إليك أسهل
   طريقة لوضع ملفك على أجهزة الكمبيوتر الخاصة بهم.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/print-from-phone-on-others-computer'
+translationKey: print-from-phone-on-others-computer
 ---
 ## مشكلة محل النسخ
 

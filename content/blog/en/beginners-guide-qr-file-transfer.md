@@ -1,11 +1,13 @@
 ---
-title: "A Beginner's Guide to Fast File Transfer Using QR Codes"
-slug: "beginners-guide-qr-file-transfer"
-description: "Brand new to QR code file transfer? This step-by-step beginner's guide covers everything from scanning to downloading your first file."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/beginners-guide-qr-file-transfer"
+title: A Beginner's Guide to Fast File Transfer Using QR Codes
+slug: beginners-guide-qr-file-transfer
+description: >-
+  Brand new to QR code file transfer? This step-by-step beginner's guide covers
+  everything from scanning to downloading your first file.
+date: '2026-03-08'
+category: How-To
+readingTime: 6 min read
+translationKey: beginners-guide-qr-file-transfer
 ---
 
 ## What Is a QR Code?

@@ -1,13 +1,13 @@
 ---
 title: دليل المبتدئين لنقل الملفات بسرعة باستخدام رموز QR
-slug: beginners-guide-qr-file-transfer
+slug: '-qr'
 description: >-
   هل أنت جديد في نقل ملفات رمز الاستجابة السريعة؟ يغطي دليل المبتدئين هذا خطوة
   بخطوة كل شيء بدءًا من المسح الضوئي وحتى تنزيل ملفك الأول.
 date: '2026-03-08'
 category: كيف
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/beginners-guide-qr-file-transfer'
+translationKey: beginners-guide-qr-file-transfer
 ---
 ## ما هو رمز الاستجابة السريعة؟
 

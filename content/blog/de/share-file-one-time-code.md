@@ -1,13 +1,13 @@
 ---
 title: So teilen Sie eine Datei mit einem Einmalcode (Schritt für Schritt)
-slug: share-file-one-time-code
+slug: so-teilen-sie-eine-datei-mit-einem-einmalcode-schritt-fur-schritt
 description: >-
   Ein Einmalcode schützt Ihre Dateien vor unbefugtem Zugriff. Hier erfahren Sie,
   wie die codebasierte Dateiübertragung funktioniert und wie Sie sie verwenden.
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/share-file-one-time-code'
+translationKey: share-file-one-time-code
 ---
 ## Was ist ein Einmalcode für die Dateifreigabe?
 

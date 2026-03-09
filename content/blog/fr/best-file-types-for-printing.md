@@ -1,6 +1,6 @@
 ---
 title: Meilleurs types de fichiers pour l'impression (PDF vs JPG vs PNG)
-slug: best-file-types-for-printing
+slug: meilleurs-types-de-fichiers-pour-limpression-pdf-vs-jpg-vs-png
 description: >-
   Tous les formats de fichiers ne s'impriment pas de la même manière. Voici un
   guide rapide pour choisir le type de fichier approprié pour votre travail
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Conseils
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/best-file-types-for-printing'
+translationKey: best-file-types-for-printing
 ---
 ## Le format est important pour l'impression
 

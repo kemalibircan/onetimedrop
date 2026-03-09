@@ -1,11 +1,13 @@
 ---
-title: "Private File Sharing: What to Avoid on Shared Networks"
-slug: "private-file-sharing-shared-networks"
-description: "Shared Wi-Fi at hotels, cafes, or schools puts your file transfers at risk. Know what to avoid and how to stay private."
-date: "2026-03-08"
-category: "Security"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/private-file-sharing-shared-networks"
+title: 'Private File Sharing: What to Avoid on Shared Networks'
+slug: private-file-sharing-shared-networks
+description: >-
+  Shared Wi-Fi at hotels, cafes, or schools puts your file transfers at risk.
+  Know what to avoid and how to stay private.
+date: '2026-03-08'
+category: Security
+readingTime: 6 min read
+translationKey: private-file-sharing-shared-networks
 ---
 
 ## Is File Transfer Safe on Public Wi-Fi?

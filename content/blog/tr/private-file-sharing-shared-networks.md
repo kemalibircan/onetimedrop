@@ -1,13 +1,13 @@
 ---
 title: 'Özel Dosya Paylaşımı: Paylaşılan Ağlarda Nelerden Kaçınılmalı?'
-slug: private-file-sharing-shared-networks
+slug: ozel-dosya-paylasimi-paylasilan-aglarda-nelerden-kacinilmali
 description: >-
   Otellerde, kafelerde veya okullarda paylaşılan Wi-Fi, dosya aktarımlarınızı
   riske atar. Nelerden kaçınmanız gerektiğini ve nasıl gizli kalacağınızı bilin.
 date: '2026-03-08'
 category: Güvenlik
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/private-file-sharing-shared-networks'
+translationKey: private-file-sharing-shared-networks
 ---
 ## Herkese Açık Wi-Fi Üzerinde Dosya Aktarımı Güvenli mi?
 

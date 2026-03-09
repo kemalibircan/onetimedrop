@@ -1,6 +1,7 @@
 ---
 title: "Partage de fichiers sécurisé sur les ordinateurs publics\_: une liste de contrôle pratique"
-slug: secure-file-sharing-public-computers
+slug: >-
+  partage-de-fichiers-securise-sur-les-ordinateurs-publics-une-liste-de-controle-pratique
 description: >-
   Les ordinateurs publics dans les bibliothèques, les hôtels et les aéroports
   présentent des risques. Voici une liste de contrôle de sécurité pour
@@ -8,7 +9,7 @@ description: >-
 date: '2026-03-08'
 category: Sécurité
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/fr/blog/secure-file-sharing-public-computers'
+translationKey: secure-file-sharing-public-computers
 ---
 ## Les risques des ordinateurs publics
 

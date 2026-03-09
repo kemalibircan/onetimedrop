@@ -1,0 +1,163 @@
+import * as Localization from 'expo-localization';
+import { I18n } from 'i18n-js';
+
+const tr = {
+  home: {
+    heroTitle: 'Dosyalarınızı Anında Aktarın',
+    heroTagline: 'Cihazlarınız arasında hızlı, güvenli ve\nkablosuz dosya transferi',
+    enterCode: 'Bağlantı Kodunu Girin',
+    openDesktop: 'Masaüstünüzde onetimedrop.com adresini açarak kodu alın',
+    connect: 'Bağlan',
+    connecting: 'Bağlanıyor...',
+    manageFiles: '📁 Kayıtlı Dosyaları Yönet',
+    or: 'veya',
+    howItWorks: 'Nasıl Çalışır?',
+    step1: 'Dosyalarınızı aşağıdaki kütüphaneye ekleyin',
+    step2: 'Masaüstünde onetimedrop.com sitesini açın',
+    step3: 'Ekranda görünen kodu buraya girin',
+    step4: 'Dosyalarınızı tek tıkla gönderin',
+  },
+  fileManager: {
+    title: 'Dosya Kütüphanesi',
+    filesSaved: 'Kayıtlı dosya',
+    totalSize: 'Toplam boyut',
+    maxPerFile: 'Dosya başı limit',
+    addFilesText: 'Kütüphaneye Dosya Ekle',
+    addFilesSub: 'Dosyalarınız siz silene kadar burada kalır, internet kotanızı harcamaz',
+    chooseFilesBtn: '+ Dosya Seç',
+    selecting: 'Dosyalar seçiliyor...',
+    savedTitle: 'Seçili Dosyalarınız',
+    clearAll: 'Tümünü Temizle',
+    emptyTitle: 'Henüz dosya eklemediniz',
+    emptySub: 'Hızlıca göndermek istediğiniz dosyaları buradan ekleyebilirsiniz.',
+    goConnect: '📤 Bağlan ve Gönder',
+  },
+  send: {
+    title: 'Gönder',
+    connected: 'Masaüstüne Bağlı',
+    disconnected: 'Bağlantı Kesildi',
+    expiresIn: 'Oturum süresi',
+    endSession: 'Bitir',
+    yourFiles: 'Dosyalarınız',
+    selected: 'seçili',
+    all: 'Tümü',
+    none: 'Hiçbiri',
+    noFilesTitle: 'Kütüphanede dosya yok',
+    noFilesSub: 'Göndermeden önce Dosya Kütüphanesine gidip dosya ekleyin.',
+    openManager: 'Dosya Kütüphanesini Aç',
+    sentCount: 'dosya masaüstüne gönderildi!',
+    sendBtn: 'Gönder',
+  },
+  settings: {
+    title: 'Ayarlar',
+    library: '📁 Dosya Kütüphanesi',
+    librarySub: 'Önceden yüklediğiniz dosyaları yönetin',
+    clearFilesBtn: 'Tüm Kayıtlı Dosyaları Temizle',
+    faq: '❓ Sıkça Sorulan Sorular (SSS)',
+    about: 'ℹ️ Hakkında',
+    version: 'Sürüm',
+    service: 'Servis',
+    limit: 'Dosya Limiti',
+    disclaimer: 'Dosyalarınız oturumunuz üzerinden cihazdan cihaza (peer-to-peer) aktarılır. Sunucuda saklanmaz ve oturum bitince otomatik silinir.',
+  },
+  faq: {
+    title: 'Sıkça Sorulan Sorular',
+    q1: 'Dosyalarım nerede saklanıyor?',
+    a1: 'Uygulamaya eklediğiniz dosyalar sadece telefonunuzda kalır. Masaüstüne gönderildiğinde aracı sunucularda saklanmaz, doğrudan peer-to-peer (uçtan uca) aktarılır.',
+    q2: 'İnternet bağlantısı gerekli mi?',
+    a2: 'Evet, her iki cihazın da internete bağlı olması gerekir. Fakat cihazlar aynı Wi-Fi ağındaysa transfer çok daha hızlı gerçekleşir.',
+    q3: 'Boyut limiti nedir?',
+    a3: 'Tek seferde yükleyebileceğiniz maksimum dosya boyutu 250 MB\'tır.',
+  },
+  common: {
+    success: 'Başarılı',
+    error: 'Hata',
+    cancel: 'İptal',
+    clear: 'Temizle',
+  }
+};
+
+const en = {
+  home: {
+    heroTitle: 'Transfer Files Instantly',
+    heroTagline: 'Fast, secure, and wireless file transfer\nbetween your devices',
+    enterCode: 'Enter Session Code',
+    openDesktop: 'Open onetimedrop.com on your desktop to get the code',
+    connect: 'Connect',
+    connecting: 'Connecting...',
+    manageFiles: '📁 Manage Saved Files',
+    or: 'or',
+    howItWorks: 'How it works',
+    step1: 'Add files to your library below',
+    step2: 'Open onetimedrop.com on desktop',
+    step3: 'Enter the code here and connect',
+    step4: 'Send files with one tap',
+  },
+  fileManager: {
+    title: 'File Library',
+    filesSaved: 'Files saved',
+    totalSize: 'Total size',
+    maxPerFile: 'Max per file',
+    addFilesText: 'Add Files to Library',
+    addFilesSub: 'Files stay saved until you remove them. No internet data used yet.',
+    chooseFilesBtn: '+ Choose Files',
+    selecting: 'Selecting files...',
+    savedTitle: 'Your Saved Files',
+    clearAll: 'Clear All',
+    emptyTitle: 'No files saved yet',
+    emptySub: 'Add files here to keep them ready for quick sending.',
+    goConnect: '📤 Go Connect & Send',
+  },
+  send: {
+    title: 'Send Files',
+    connected: 'Connected to Desktop',
+    disconnected: 'Disconnected',
+    expiresIn: 'Session expires in',
+    endSession: 'End',
+    yourFiles: 'Your Files',
+    selected: 'selected',
+    all: 'All',
+    none: 'None',
+    noFilesTitle: 'No files in library',
+    noFilesSub: 'Go to File Library to add files before sending.',
+    openManager: 'Open File Library',
+    sentCount: 'files sent to desktop!',
+    sendBtn: 'Send',
+  },
+  settings: {
+    title: 'Settings',
+    library: '📁 File Library',
+    librarySub: 'Manage your pre-loaded files',
+    clearFilesBtn: 'Clear All Saved Files',
+    faq: '❓ Frequently Asked Questions',
+    about: 'ℹ️ About FileFast',
+    version: 'Version',
+    service: 'Service',
+    limit: 'File limit',
+    disclaimer: 'Files are transferred peer-to-peer via your session and are automatically deleted after the session ends.',
+  },
+  faq: {
+    title: 'Frequently Asked Questions',
+    q1: 'Where are my files stored?',
+    a1: 'Files added to the app stay only on your phone. When sent to desktop, they are transferred peer-to-peer and are never stored on intermediate servers.',
+    q2: 'Do I need internet connection?',
+    a2: 'Yes, both devices must be connected to the internet. However, if they are on the same Wi-Fi network, the transfer will be much faster.',
+    q3: 'What is the size limit?',
+    a3: 'The maximum file size per upload is currently 250 MB.',
+  },
+  common: {
+    success: 'Success',
+    error: 'Error',
+    cancel: 'Cancel',
+    clear: 'Clear',
+  }
+};
+
+const i18n = new I18n({ en, tr });
+
+// Set the locale once at the beginning of your app.
+i18n.locale = Localization.getLocales()[0].languageCode ?? 'en';
+i18n.enableFallback = true;
+i18n.defaultLocale = 'en';
+
+export default i18n;

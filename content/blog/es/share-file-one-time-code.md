@@ -1,13 +1,13 @@
 ---
 title: Cómo compartir un archivo con un código de un solo uso (paso a paso)
-slug: share-file-one-time-code
+slug: como-compartir-un-archivo-con-un-codigo-de-un-solo-uso-paso-a-paso
 description: >-
   Un código de un solo uso protege sus archivos del acceso no autorizado. Así es
   como funciona la transferencia de archivos basada en código y cómo utilizarla.
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/share-file-one-time-code'
+translationKey: share-file-one-time-code
 ---
 ## ¿Qué es un código de un solo uso para compartir archivos?
 

@@ -1,11 +1,12 @@
 ---
 title: "Résoudre les problèmes «\_Impossible d'envoyer des fichiers volumineux\_» (solutions simples)"
-slug: fix-cant-send-large-files
+slug: >-
+  resoudre-les-problemes-impossible-denvoyer-des-fichiers-volumineux-solutions-simples
 description: "La pièce jointe d'un e-mail est trop volumineuse\_? WhatsApp rejette votre vidéo ? Voici des solutions simples aux problèmes courants de transfert de fichiers volumineux."
 date: '2026-03-08'
 category: Conseils
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/fr/blog/fix-cant-send-large-files'
+translationKey: fix-cant-send-large-files
 ---
 ## Pourquoi ne puis-je pas envoyer de fichiers volumineux ?
 

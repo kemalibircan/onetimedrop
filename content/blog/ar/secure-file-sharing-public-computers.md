@@ -1,13 +1,13 @@
 ---
 title: 'مشاركة الملفات بشكل آمن على أجهزة الكمبيوتر العامة: قائمة مرجعية عملية'
-slug: secure-file-sharing-public-computers
+slug: '-'
 description: >-
   تعد أجهزة الكمبيوتر العامة في المكتبات والفنادق والمطارات محفوفة بالمخاطر.
   فيما يلي قائمة التحقق من السلامة لنقل الملفات دون ترك أي أثر.
 date: '2026-03-08'
 category: حماية
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/ar/blog/secure-file-sharing-public-computers'
+translationKey: secure-file-sharing-public-computers
 ---
 ## مخاطر أجهزة الكمبيوتر العامة
 

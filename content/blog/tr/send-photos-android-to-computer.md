@@ -1,6 +1,6 @@
 ---
 title: Android'den Herhangi Bir Bilgisayara Saniyeler İçinde Fotoğraf Gönderin
-slug: send-photos-android-to-computer
+slug: androidden-herhangi-bir-bilgisayara-saniyeler-icinde-fotograf-gonderin
 description: >-
   Kabloları ve Bluetooth'u atlayın. Android fotoğraflarını herhangi bir
   uygulamaya gerek kalmadan QR kodunu kullanarak herhangi bir bilgisayara
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/send-photos-android-to-computer'
+translationKey: send-photos-android-to-computer
 ---
 ## Android Dosya Aktarımı: Hala Olması Gerektiğinden Daha Acı verici
 

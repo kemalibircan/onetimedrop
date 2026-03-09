@@ -1,11 +1,13 @@
 ---
-title: "How to Print From Your Phone on Someone Else's Computer"
-slug: "print-from-phone-on-others-computer"
-description: "Need to print a document from your phone at a library, copy shop, or work? Here's the easiest way to get your file onto their computer."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/print-from-phone-on-others-computer"
+title: How to Print From Your Phone on Someone Else's Computer
+slug: print-from-phone-on-others-computer
+description: >-
+  Need to print a document from your phone at a library, copy shop, or work?
+  Here's the easiest way to get your file onto their computer.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: print-from-phone-on-others-computer
 ---
 
 ## The Copy Shop Problem

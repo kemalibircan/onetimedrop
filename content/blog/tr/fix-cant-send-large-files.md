@@ -1,6 +1,6 @@
 ---
 title: '''Büyük Dosyalar Gönderilemiyor'' Sorunlarını Düzeltme (Basit Çözümler)'
-slug: fix-cant-send-large-files
+slug: buyuk-dosyalar-gonderilemiyor-sorunlarini-duzeltme-basit-cozumler
 description: >-
   E-posta eki çok mu büyük? WhatsApp videonuzu reddediyor mu? Burada sık
   karşılaşılan büyük dosya aktarımı sorunlarına yönelik basit düzeltmeler
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: İpuçları
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/fix-cant-send-large-files'
+translationKey: fix-cant-send-large-files
 ---
 ## Neden Büyük Dosyalar Gönderemiyorum?
 

@@ -1,6 +1,6 @@
 ---
 title: Tek Kullanımlık Kodla Dosya Nasıl Paylaşılır (Adım Adım)
-slug: share-file-one-time-code
+slug: tek-kullanimlik-kodla-dosya-nasil-paylasilir-adim-adim
 description: >-
   Tek kullanımlık kod, dosyalarınızı yetkisiz erişime karşı korur. Kod tabanlı
   dosya aktarımının nasıl çalıştığını ve nasıl kullanılacağını burada
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/share-file-one-time-code'
+translationKey: share-file-one-time-code
 ---
 ## Dosya Paylaşımı için Tek Kullanımlık Kod Nedir?
 

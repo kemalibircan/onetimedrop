@@ -1,11 +1,13 @@
 ---
-title: "Phone to PC File Transfer Without Apps: The Quickest Method"
-slug: "phone-to-pc-transfer-without-apps"
-description: "Discover the fastest ways to send files from your phone to PC without installing any apps — using a browser and QR code."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/phone-to-pc-transfer-without-apps"
+title: 'Phone to PC File Transfer Without Apps: The Quickest Method'
+slug: phone-to-pc-transfer-without-apps
+description: >-
+  Discover the fastest ways to send files from your phone to PC without
+  installing any apps — using a browser and QR code.
+date: '2026-03-08'
+category: How-To
+readingTime: 6 min read
+translationKey: phone-to-pc-transfer-without-apps
 ---
 
 ## The Problem With Traditional File Transfer Methods

@@ -1,13 +1,13 @@
 ---
 title: Comment transférer des fichiers lorsque votre clé USB n'est pas disponible
-slug: transfer-files-without-usb
+slug: comment-transferer-des-fichiers-lorsque-votre-cle-usb-nest-pas-disponible
 description: >-
   Vous avez oublié votre clé USB ? Aucun problème. Voici les meilleures méthodes
   sans fil pour transférer des fichiers sans aucun support physique.
 date: '2026-03-08'
 category: Conseils
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/transfer-files-without-usb'
+translationKey: transfer-files-without-usb
 ---
 ## Clés USB : pratiques jusqu'à ce que vous en oubliiez une
 

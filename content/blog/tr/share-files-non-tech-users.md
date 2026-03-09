@@ -1,13 +1,13 @@
 ---
 title: Teknolojiyle İlgili Olmayan Kullanıcılarla Dosya Paylaşmanın Basit Yolları
-slug: share-files-non-tech-users
+slug: teknolojiyle-ilgili-olmayan-kullanicilarla-dosya-paylasmanin-basit-yollari
 description: >-
   Teknik olmayan bir kişinin dosya almasına yardım etmeniz mi gerekiyor? İşte
   teknik bilgi gerektirmeyen en basit, en kusursuz yöntemler.
 date: '2026-03-08'
 category: İpuçları
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/share-files-non-tech-users'
+translationKey: share-files-non-tech-users
 ---
 ## Zorluk: Teknolojiyle İlgili Olmayan Kullanıcıların Dosya Almasına Yardımcı Olmak
 

@@ -1,11 +1,13 @@
 ---
-title: "Send Photos From Android to Any Computer in Seconds"
-slug: "send-photos-android-to-computer"
-description: "Skip cables and Bluetooth. Learn how to wirelessly transfer Android photos to any computer using a QR code — no app required."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/send-photos-android-to-computer"
+title: Send Photos From Android to Any Computer in Seconds
+slug: send-photos-android-to-computer
+description: >-
+  Skip cables and Bluetooth. Learn how to wirelessly transfer Android photos to
+  any computer using a QR code — no app required.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: send-photos-android-to-computer
 ---
 
 ## Android File Transfer: Still More Painful Than It Should Be

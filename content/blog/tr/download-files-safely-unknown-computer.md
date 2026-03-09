@@ -1,13 +1,13 @@
 ---
 title: Bilinmeyen Bir Bilgisayara Güvenli Bir Şekilde Dosya Nasıl İndirilir
-slug: download-files-safely-unknown-computer
+slug: bilinmeyen-bir-bilgisayara-guvenli-bir-sekilde-dosya-nasil-indirilir
 description: >-
   Sahibi olmadığınız bir bilgisayara dosya mı indirmeniz gerekiyor? Güvende
   kalmak ve iz bırakmamak için bu adımları izleyin.
 date: '2026-03-08'
 category: Güvenlik
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/download-files-safely-unknown-computer'
+translationKey: download-files-safely-unknown-computer
 ---
 ## Bir Bilgisayarı "Bilinmeyen" Yapan Nedir?
 

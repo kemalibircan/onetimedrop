@@ -3,34 +3,49 @@ import type { Metadata } from "next";
 import Navbar from "@/components/ui/Navbar";
 import Footer from "@/components/ui/Footer";
 import { getDictionary } from "@/lib/dictionaries";
-import { getAllPosts, getPostBySlug } from "@/lib/blog";
+import { getAllPosts, getPostBySlug, getPostAlternateSlugs } from "@/lib/blog";
 import { remark } from "remark";
 import remarkHtml from "remark-html";
 import Link from "next/link";
+import fs from "fs";
+import path from "path";
 
 export async function generateStaticParams() {
-  const posts = getAllPosts();
-  return posts.map((p) => ({ slug: p.slug }));
+  const contentDir = path.join(process.cwd(), "content/blog");
+  const locales = fs.readdirSync(contentDir).filter(d => fs.statSync(path.join(contentDir, d)).isDirectory());
+  
+  const paths: { lang: string; slug: string }[] = [];
+  for (const lang of locales) {
+    const posts = getAllPosts(lang);
+    for (const post of posts) {
+      paths.push({ lang, slug: post.slug });
+    }
+  }
+  return paths;
 }
 
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ slug: string }>;
+  params: Promise<{ slug: string; lang: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
-  const post = getPostBySlug(slug);
+  const { slug, lang } = await params;
+  const post = getPostBySlug(slug, lang);
   if (!post) return {};
+  
+  // Use `post.canonical` if provided, otherwise reconstruct the permalink
+  const canonical = post.canonical || (lang === "en" ? `https://onetimedrop.io/blog/${slug}` : `https://onetimedrop.io/${lang}/blog/${slug}`);
+
   return {
     title: post.title,
     description: post.description,
     alternates: {
-      canonical: post.canonical || `https://onetimedrop.io/blog/${slug}`,
+      canonical,
     },
     openGraph: {
       title: post.title,
       description: post.description,
-      url: `https://onetimedrop.io/blog/${slug}`,
+      url: canonical,
       type: "article",
     },
   };
@@ -49,12 +64,13 @@ export default async function BlogPostPage({
   const processed = await remark().use(remarkHtml).process(post.content);
   const html = processed.toString();
 
-  const allPosts = getAllPosts();
+  const allPosts = getAllPosts(lang);
   const related = allPosts.filter((p) => p.slug !== slug).slice(0, 3);
+  const altSlugs = getPostAlternateSlugs(post.translationKey);
 
   return (
     <>
-      <Navbar lang={lang} dict={dict.navbar} />
+      <Navbar lang={lang} dict={dict.navbar} altSlugs={altSlugs} />
       <main className="max-w-3xl mx-auto px-4 py-16">
         {/* Article header */}
         <div className="mb-10">

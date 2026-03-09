@@ -1,6 +1,6 @@
 ---
 title: So laden Sie Dateien sicher auf einen unbekannten Computer herunter
-slug: download-files-safely-unknown-computer
+slug: so-laden-sie-dateien-sicher-auf-einen-unbekannten-computer-herunter
 description: >-
   Müssen Sie eine Datei auf einen Computer herunterladen, der Ihnen nicht
   gehört? Befolgen Sie diese Schritte, um sicher zu bleiben und keine Spuren zu
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Sicherheit
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/download-files-safely-unknown-computer'
+translationKey: download-files-safely-unknown-computer
 ---
 ## Was macht einen Computer „unbekannt“?
 

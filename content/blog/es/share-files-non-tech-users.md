@@ -1,13 +1,13 @@
 ---
 title: Formas sencillas de compartir archivos con usuarios sin conocimientos técnicos
-slug: share-files-non-tech-users
+slug: formas-sencillas-de-compartir-archivos-con-usuarios-sin-conocimientos-tecnicos
 description: >-
   ¿Necesita ayudar a una persona no técnica a recibir un archivo? Estos son los
   métodos más simples e infalibles que no requieren conocimientos técnicos.
 date: '2026-03-08'
 category: Consejos
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/share-files-non-tech-users'
+translationKey: share-files-non-tech-users
 ---
 ## El desafío: ayudar a los usuarios sin conocimientos técnicos a recibir archivos
 

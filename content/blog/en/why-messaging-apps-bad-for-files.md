@@ -1,11 +1,13 @@
 ---
-title: "Why Messaging Apps Are Bad for File Transfer (Quality + Privacy)"
-slug: "why-messaging-apps-bad-for-files"
-description: "WhatsApp, Telegram, and iMessage all compress files and store them on their servers. Here's why that matters and what to use instead."
-date: "2026-03-08"
-category: "Comparison"
-readingTime: "7 min read"
-canonical: "https://onetimedrop.io/blog/why-messaging-apps-bad-for-files"
+title: Why Messaging Apps Are Bad for File Transfer (Quality + Privacy)
+slug: why-messaging-apps-bad-for-files
+description: >-
+  WhatsApp, Telegram, and iMessage all compress files and store them on their
+  servers. Here's why that matters and what to use instead.
+date: '2026-03-08'
+category: Comparison
+readingTime: 7 min read
+translationKey: why-messaging-apps-bad-for-files
 ---
 
 ## The Illusion of "Just Send It on WhatsApp"

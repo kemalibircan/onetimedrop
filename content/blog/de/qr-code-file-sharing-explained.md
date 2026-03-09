@@ -1,13 +1,13 @@
 ---
 title: 'QR-Code-Dateifreigabe: Wie es funktioniert (und warum es schnell ist)'
-slug: qr-code-file-sharing-explained
+slug: qr-code-dateifreigabe-wie-es-funktioniert-und-warum-es-schnell-ist
 description: >-
   Die Dateifreigabe über QR-Code ist schneller als über USB und erfordert keine
   Konten. Erfahren Sie genau, wie es unter der Haube funktioniert.
 date: '2026-03-08'
 category: Anleitung
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/qr-code-file-sharing-explained'
+translationKey: qr-code-file-sharing-explained
 ---
 ## Was ist QR-Code-Dateifreigabe?
 

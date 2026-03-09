@@ -1,11 +1,13 @@
 ---
-title: "How to Send Scans From Your Phone to Your Computer"
-slug: "send-scans-phone-to-computer"
-description: "Scanned a document with your phone? Here's the fastest way to get it onto your computer without cables or cloud accounts."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/send-scans-phone-to-computer"
+title: How to Send Scans From Your Phone to Your Computer
+slug: send-scans-phone-to-computer
+description: >-
+  Scanned a document with your phone? Here's the fastest way to get it onto your
+  computer without cables or cloud accounts.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: send-scans-phone-to-computer
 ---
 
 ## Phone Scanning Has Gotten Very Good

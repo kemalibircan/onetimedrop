@@ -1,13 +1,13 @@
 ---
 title: 'Telefon-zu-PC-Dateiübertragung ohne Apps: Die schnellste Methode'
-slug: phone-to-pc-transfer-without-apps
+slug: telefon-zu-pc-dateiubertragung-ohne-apps-die-schnellste-methode
 description: >-
   Entdecken Sie die schnellsten Möglichkeiten, Dateien von Ihrem Telefon an den
   PC zu senden, ohne Apps zu installieren – mit einem Browser und QR-Code.
 date: '2026-03-08'
 category: Anleitung
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/phone-to-pc-transfer-without-apps'
+translationKey: phone-to-pc-transfer-without-apps
 ---
 ## Das Problem mit herkömmlichen Dateiübertragungsmethoden
 

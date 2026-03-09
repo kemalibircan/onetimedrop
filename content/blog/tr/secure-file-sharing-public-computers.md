@@ -2,7 +2,8 @@
 title: >-
   Herkese Açık Bilgisayarlarda Güvenli Dosya Paylaşımı: Pratik Bir Kontrol
   Listesi
-slug: secure-file-sharing-public-computers
+slug: >-
+  herkese-acik-bilgisayarlarda-guvenli-dosya-paylasimi-pratik-bir-kontrol-listesi
 description: >-
   Kütüphanelerdeki, otellerdeki ve havalimanlarındaki halka açık bilgisayarlar
   risklidir. Dosyaları iz bırakmadan aktarmak için bir güvenlik kontrol
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Güvenlik
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/tr/blog/secure-file-sharing-public-computers'
+translationKey: secure-file-sharing-public-computers
 ---
 ## Herkese Açık Bilgisayarların Riskleri
 

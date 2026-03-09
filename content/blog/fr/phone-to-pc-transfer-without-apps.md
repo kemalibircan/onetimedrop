@@ -1,6 +1,7 @@
 ---
 title: "Transfert de fichiers téléphone vers PC sans applications\_: la méthode la plus rapide"
-slug: phone-to-pc-transfer-without-apps
+slug: >-
+  transfert-de-fichiers-telephone-vers-pc-sans-applications-la-methode-la-plus-rapide
 description: >-
   Découvrez les moyens les plus rapides d'envoyer des fichiers de votre
   téléphone vers un PC sans installer d'applications, à l'aide d'un navigateur
@@ -8,7 +9,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/fr/blog/phone-to-pc-transfer-without-apps'
+translationKey: phone-to-pc-transfer-without-apps
 ---
 ## Le problème avec les méthodes traditionnelles de transfert de fichiers
 

@@ -2,7 +2,8 @@
 title: >-
   Cómo enviar una presentación desde el teléfono a la computadora portátil antes
   de una reunión
-slug: send-presentation-phone-to-laptop
+slug: >-
+  como-enviar-una-presentacion-desde-el-telefono-a-la-computadora-portatil-antes-de-una-reunion
 description: >-
   ¿Necesita transferir su presentación de diapositivas del teléfono a la
   computadora portátil minutos antes de una reunión? Esta es la forma más rápida
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/send-presentation-phone-to-laptop'
+translationKey: send-presentation-phone-to-laptop
 ---
 ## El pánico previo a la reunión
 

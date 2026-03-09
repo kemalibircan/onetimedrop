@@ -1,13 +1,13 @@
 ---
 title: إرسال الصور من iPhone إلى أي جهاز كمبيوتر (لا حاجة إلى AirDrop)
-slug: send-photos-iphone-to-computer
+slug: '-iphone-airdrop'
 description: >-
   لا يعمل AirDrop على نظام التشغيل Windows أو أجهزة Mac غير المعروفة. إليك كيفية
   إرسال صور iPhone إلى أي جهاز كمبيوتر في ثوانٍ باستخدام المتصفح.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/send-photos-iphone-to-computer'
+translationKey: send-photos-iphone-to-computer
 ---
 ## يعمل AirDrop فقط بين أجهزة Apple
 

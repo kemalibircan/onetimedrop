@@ -1,13 +1,13 @@
 ---
 title: 'مشاركة الملفات الخاصة: ما يجب تجنبه على الشبكات المشتركة'
-slug: private-file-sharing-shared-networks
+slug: '-'
 description: >-
   تعرض شبكة Wi-Fi المشتركة في الفنادق أو المقاهي أو المدارس عمليات نقل ملفاتك
   للخطر. تعرف على ما يجب تجنبه وكيفية الحفاظ على خصوصيتك.
 date: '2026-03-08'
 category: حماية
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/private-file-sharing-shared-networks'
+translationKey: private-file-sharing-shared-networks
 ---
 ## هل نقل الملفات آمن على شبكة Wi-Fi العامة؟
 

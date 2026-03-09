@@ -2,14 +2,14 @@
 title: >-
   Geçici Dosya Paylaşımının Açıklaması: 'Otomatik Silme' Gerçekte Ne Anlama
   Geliyor?
-slug: temporary-file-sharing-auto-delete
+slug: gecici-dosya-paylasiminin-aciklamasi-otomatik-silme-gercekte-ne-anlama-geliyor
 description: >-
   Dosya paylaşımında otomatik silme, dosyalarınızın belirli bir süre sonra
   kaybolması anlamına gelir. Peki gerçekte nasıl çalışıyor ve gerçekten özel mi?
 date: '2026-03-08'
 category: Güvenlik
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/temporary-file-sharing-auto-delete'
+translationKey: temporary-file-sharing-auto-delete
 ---
 ## Geçici Dosya Paylaşımı Nedir?
 

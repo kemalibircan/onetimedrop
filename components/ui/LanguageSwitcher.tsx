@@ -14,9 +14,10 @@ const LANGUAGES = [
 
 interface LanguageSwitcherProps {
   lang: string;
+  altSlugs?: Record<string, string>;
 }
 
-export default function LanguageSwitcher({ lang }: LanguageSwitcherProps) {
+export default function LanguageSwitcher({ lang, altSlugs }: LanguageSwitcherProps) {
   const router = useRouter();
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
@@ -35,6 +36,17 @@ export default function LanguageSwitcher({ lang }: LanguageSwitcherProps) {
   }, []);
 
   function switchLang(newLang: string) {
+    if (altSlugs && altSlugs[newLang]) {
+      const segments = pathname.split("/");
+      if (segments.length >= 4 && segments[2] === "blog") {
+        segments[1] = newLang;
+        segments[3] = altSlugs[newLang];
+        router.push(segments.join("/"));
+        setOpen(false);
+        return;
+      }
+    }
+
     // Replace the current lang segment in the path
     const segments = pathname.split("/");
     // segments[0] = "", segments[1] = lang code

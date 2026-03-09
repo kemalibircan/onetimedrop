@@ -1,6 +1,6 @@
 ---
 title: Comment partager un fichier avec un code à usage unique (étape par étape)
-slug: share-file-one-time-code
+slug: comment-partager-un-fichier-avec-un-code-a-usage-unique-etape-par-etape
 description: >-
   Un code à usage unique protège vos fichiers contre tout accès non autorisé.
   Voici comment fonctionne le transfert de fichiers basé sur du code et comment
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/share-file-one-time-code'
+translationKey: share-file-one-time-code
 ---
 ## Qu'est-ce qu'un code à usage unique pour le partage de fichiers ?
 

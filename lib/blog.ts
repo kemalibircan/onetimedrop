@@ -10,6 +10,7 @@ export interface BlogPost {
   category: string;
   readingTime: string;
   canonical?: string;
+  translationKey: string;
   content: string;
 }
 
@@ -35,6 +36,7 @@ export function getAllPosts(lang: string = 'en'): BlogPost[] {
         category: data.category || "General",
         readingTime: data.readingTime || "5 min read",
         canonical: data.canonical || "",
+        translationKey: data.translationKey || "",
         content,
       } as BlogPost;
     })
@@ -44,4 +46,20 @@ export function getAllPosts(lang: string = 'en'): BlogPost[] {
 export function getPostBySlug(slug: string, lang: string = 'en'): BlogPost | null {
   const posts = getAllPosts(lang);
   return posts.find((p) => p.slug === slug) || null;
+}
+
+export function getPostAlternateSlugs(translationKey: string): Record<string, string> {
+  const dir = path.join(process.cwd(), "content/blog");
+  if (!fs.existsSync(dir)) return {};
+  const langs = fs.readdirSync(dir).filter(d => fs.statSync(path.join(dir, d)).isDirectory());
+  
+  const altSlugs: Record<string, string> = {};
+  for (const lang of langs) {
+    const posts = getAllPosts(lang);
+    const post = posts.find(p => p.translationKey === translationKey);
+    if (post) {
+      altSlugs[lang] = post.slug;
+    }
+  }
+  return altSlugs;
 }

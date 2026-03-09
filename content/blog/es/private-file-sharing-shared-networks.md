@@ -1,13 +1,13 @@
 ---
 title: 'Compartir archivos privados: qué evitar en redes compartidas'
-slug: private-file-sharing-shared-networks
+slug: compartir-archivos-privados-que-evitar-en-redes-compartidas
 description: >-
   El Wi-Fi compartido en hoteles, cafeterías o escuelas pone en riesgo sus
   transferencias de archivos. Sepa qué evitar y cómo mantener la privacidad.
 date: '2026-03-08'
 category: Seguridad
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/es/blog/private-file-sharing-shared-networks'
+translationKey: private-file-sharing-shared-networks
 ---
 ## ¿Es segura la transferencia de archivos en una red Wi-Fi pública?
 

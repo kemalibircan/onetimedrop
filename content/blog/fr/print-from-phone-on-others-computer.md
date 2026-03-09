@@ -1,11 +1,11 @@
 ---
 title: Comment imprimer depuis votre téléphone sur l'ordinateur de quelqu'un d'autre
-slug: print-from-phone-on-others-computer
+slug: comment-imprimer-depuis-votre-telephone-sur-lordinateur-de-quelquun-dautre
 description: "Besoin d'imprimer un document depuis votre téléphone dans une bibliothèque, un photocopieur ou au travail\_? Voici le moyen le plus simple de transférer votre fichier sur leur ordinateur."
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/print-from-phone-on-others-computer'
+translationKey: print-from-phone-on-others-computer
 ---
 ## Le problème du Copy Shop
 

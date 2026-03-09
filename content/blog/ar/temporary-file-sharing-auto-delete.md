@@ -1,13 +1,13 @@
 ---
 title: 'شرح مشاركة الملفات المؤقتة: ماذا يعني "الحذف التلقائي" حقًا'
-slug: temporary-file-sharing-auto-delete
+slug: '-'
 description: >-
   الحذف التلقائي في مشاركة الملفات يعني اختفاء ملفاتك بعد فترة زمنية محددة. ولكن
   كيف يعمل هذا الأمر بالفعل، وهل هو خاص حقًا؟
 date: '2026-03-08'
 category: حماية
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/temporary-file-sharing-auto-delete'
+translationKey: temporary-file-sharing-auto-delete
 ---
 ## ما هي مشاركة الملفات المؤقتة؟
 

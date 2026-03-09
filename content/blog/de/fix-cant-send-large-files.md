@@ -2,14 +2,15 @@
 title: >-
   Beheben Sie das Problem „Große Dateien können nicht gesendet werden“ (einfache
   Lösungen)
-slug: fix-cant-send-large-files
+slug: >-
+  beheben-sie-das-problem-grosse-dateien-konnen-nicht-gesendet-werden-einfache-losungen
 description: >-
   E-Mail-Anhang zu groß? WhatsApp lehnt Ihr Video ab? Hier finden Sie einfache
   Lösungen für häufig auftretende Probleme bei der Übertragung großer Dateien.
 date: '2026-03-08'
 category: Tipps
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/fix-cant-send-large-files'
+translationKey: fix-cant-send-large-files
 ---
 ## Warum kann ich keine großen Dateien senden?
 

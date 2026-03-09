@@ -1,13 +1,13 @@
 ---
 title: 'So übertragen Sie Dateien über WLAN, ohne etwas zu installieren'
-slug: transfer-files-wifi-without-installing
+slug: so-ubertragen-sie-dateien-uber-wlan-ohne-etwas-zu-installieren
 description: >-
   Sie benötigen keine Apps oder Kabel, um Dateien über WLAN zu übertragen.
   Entdecken Sie browserbasierte Tools, die sofort auf jedem Gerät funktionieren.
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/transfer-files-wifi-without-installing'
+translationKey: transfer-files-wifi-without-installing
 ---
 ## Wi-Fi-Dateiübertragung: Warum „Keine Installation“ wichtig ist
 

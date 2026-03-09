@@ -1,11 +1,13 @@
 ---
-title: "QR Code File Sharing: How It Works (And Why It's Fast)"
-slug: "qr-code-file-sharing-explained"
-description: "QR code file sharing is faster than USB and doesn't require accounts. Learn exactly how it works under the hood."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/qr-code-file-sharing-explained"
+title: 'QR Code File Sharing: How It Works (And Why It''s Fast)'
+slug: qr-code-file-sharing-explained
+description: >-
+  QR code file sharing is faster than USB and doesn't require accounts. Learn
+  exactly how it works under the hood.
+date: '2026-03-08'
+category: How-To
+readingTime: 6 min read
+translationKey: qr-code-file-sharing-explained
 ---
 
 ## What Is QR Code File Sharing?

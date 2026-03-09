@@ -1,13 +1,13 @@
 ---
 title: 'Teilen Sie Dateien ohne WhatsApp oder E-Mail: 5 bessere Optionen'
-slug: share-files-without-whatsapp-email
+slug: teilen-sie-dateien-ohne-whatsapp-oder-e-mail-5-bessere-optionen
 description: >-
   WhatsApp komprimiert Dateien, E-Mails haben Größenbeschränkungen. Hier sind 5
   bessere Möglichkeiten, Dateien zu teilen – schnell, privat und ohne Konto.
 date: '2026-03-08'
 category: Vergleich
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/de/blog/share-files-without-whatsapp-email'
+translationKey: share-files-without-whatsapp-email
 ---
 ## Warum WhatsApp und E-Mail bei der Dateiübertragung schlecht sind
 

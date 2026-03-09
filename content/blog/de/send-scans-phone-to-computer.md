@@ -1,13 +1,13 @@
 ---
 title: So senden Sie Scans von Ihrem Telefon an Ihren Computer
-slug: send-scans-phone-to-computer
+slug: so-senden-sie-scans-von-ihrem-telefon-an-ihren-computer
 description: >-
   Ein Dokument mit Ihrem Telefon gescannt? Hier ist der schnellste Weg, es ohne
   Kabel oder Cloud-Konten auf Ihren Computer zu übertragen.
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/send-scans-phone-to-computer'
+translationKey: send-scans-phone-to-computer
 ---
 ## Das Scannen von Telefonen ist sehr gut geworden
 

@@ -2,12 +2,13 @@
 title: >-
   Comment envoyer des documents d'un téléphone à un PC dans un magasin de
   photocopie
-slug: send-documents-copy-shop
+slug: >-
+  comment-envoyer-des-documents-dun-telephone-a-un-pc-dans-un-magasin-de-photocopie
 description: "Vous envoyez un document à imprimer dans un magasin de photocopie sans apporter votre ordinateur portable\_? Voici le moyen le plus rapide de transférer votre fichier sur leur ordinateur."
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/send-documents-copy-shop'
+translationKey: send-documents-copy-shop
 ---
 ## Le défi du Copy Shop
 

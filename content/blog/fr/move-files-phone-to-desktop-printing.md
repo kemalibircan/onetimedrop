@@ -2,7 +2,8 @@
 title: >-
   Le moyen le plus simple de déplacer des fichiers du téléphone vers le bureau
   pour les imprimer
-slug: move-files-phone-to-desktop-printing
+slug: >-
+  le-moyen-le-plus-simple-de-deplacer-des-fichiers-du-telephone-vers-le-bureau-pour-les-imprimer
 description: >-
   Besoin d'imprimer quelque chose depuis votre téléphone ? Voici la méthode la
   plus simple et la plus rapide qui fonctionne sur n’importe quel ordinateur –
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/move-files-phone-to-desktop-printing'
+translationKey: move-files-phone-to-desktop-printing
 ---
 ## Imprimer depuis son téléphone : pourquoi c'est toujours ennuyeux
 

@@ -1,13 +1,13 @@
 ---
 title: أرسل الصور من Android إلى أي جهاز كمبيوتر في ثوانٍ
-slug: send-photos-android-to-computer
+slug: '-android-'
 description: >-
   تخطي الكابلات والبلوتوث. تعرف على كيفية نقل صور Android لاسلكيًا إلى أي جهاز
   كمبيوتر باستخدام رمز الاستجابة السريعة - لا يلزم وجود تطبيق.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/send-photos-android-to-computer'
+translationKey: send-photos-android-to-computer
 ---
 ## نقل ملفات Android: لا يزال أكثر إيلامًا مما ينبغي
 

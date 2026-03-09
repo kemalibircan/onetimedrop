@@ -1,6 +1,6 @@
 ---
 title: Fotokopi Dükkanında Telefondan PC'ye Belgeler Nasıl Gönderilir
-slug: send-documents-copy-shop
+slug: fotokopi-dukkaninda-telefondan-pcye-belgeler-nasil-gonderilir
 description: >-
   Dizüstü bilgisayarınızı yanınızda getirmeden bir belgeyi yazdırmak üzere bir
   fotokopi dükkanına mı gönderiyorsunuz? İşte dosyanızı bilgisayarlarına
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/send-documents-copy-shop'
+translationKey: send-documents-copy-shop
 ---
 ## Fotokopi Dükkanı Mücadelesi
 

@@ -1,6 +1,6 @@
 ---
 title: Hiçbir Şey Yüklemeden Dosyaları Wi-Fi Üzerinden Aktarma
-slug: transfer-files-wifi-without-installing
+slug: hicbir-sey-yuklemeden-dosyalari-wi-fi-uzerinden-aktarma
 description: >-
   Dosyaları Wi-Fi üzerinden taşımak için uygulamalara veya kablolara ihtiyacınız
   yoktur. Herhangi bir cihazda çalışan tarayıcı tabanlı araçları anında
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/transfer-files-wifi-without-installing'
+translationKey: transfer-files-wifi-without-installing
 ---
 ## Wi-Fi Dosya Aktarımı: "Yükleme Olmaması" Neden Önemlidir
 

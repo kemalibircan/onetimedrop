@@ -2,7 +2,7 @@
 title: >-
   Envoyez des photos d'Android vers n'importe quel ordinateur en quelques
   secondes
-slug: send-photos-android-to-computer
+slug: envoyez-des-photos-dandroid-vers-nimporte-quel-ordinateur-en-quelques-secondes
 description: >-
   Évitez les câbles et le Bluetooth. Découvrez comment transférer sans fil des
   photos Android vers n'importe quel ordinateur à l'aide d'un code QR – aucune
@@ -10,7 +10,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/send-photos-android-to-computer'
+translationKey: send-photos-android-to-computer
 ---
 ## Transfert de fichiers Android : toujours plus pénible qu'il ne devrait l'être
 

@@ -1,13 +1,13 @@
 ---
 title: Telefondan Dizüstü Bilgisayara PDF Göndermenin En İyi Yolu (Hızlı + Güvenli)
-slug: send-pdf-from-phone-to-laptop
+slug: telefondan-dizustu-bilgisayara-pdf-gondermenin-en-iyi-yolu-hizli-guvenli
 description: >-
   Şu anda telefonunuzdaki bir PDF'yi dizüstü bilgisayarınıza mı aktarmanız
   gerekiyor? İşte en hızlı seçenekleriniz; hıza ve gizliliğe göre sıralanmıştır.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/send-pdf-from-phone-to-laptop'
+translationKey: send-pdf-from-phone-to-laptop
 ---
 ## PDF Aktarımı Neden Farklıdır
 

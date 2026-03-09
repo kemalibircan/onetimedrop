@@ -1,13 +1,13 @@
 ---
 title: أفضل أنواع الملفات للطباعة (PDF مقابل JPG مقابل PNG)
-slug: best-file-types-for-printing
+slug: '-pdf-jpg-png'
 description: >-
   لا تتم طباعة كافة تنسيقات الملفات بالتساوي. فيما يلي دليل سريع حول اختيار نوع
   الملف المناسب لمهمة الطباعة الخاصة بك - وكيفية التحويل على هاتفك.
 date: '2026-03-08'
 category: نصائح
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/best-file-types-for-printing'
+translationKey: best-file-types-for-printing
 ---
 ## أهمية التنسيق للطباعة
 

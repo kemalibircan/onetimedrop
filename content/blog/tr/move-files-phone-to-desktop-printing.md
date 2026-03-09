@@ -1,13 +1,13 @@
 ---
 title: Yazdırma için Dosyaları Telefondan Masaüstüne Taşımanın En Kolay Yolu
-slug: move-files-phone-to-desktop-printing
+slug: yazdirma-icin-dosyalari-telefondan-masaustune-tasimanin-en-kolay-yolu
 description: >-
   Telefonunuzdan bir şey yazdırmanız mı gerekiyor? İşte herhangi bir
   bilgisayarda çalışan en basit, en hızlı yöntem; kurulum gerektirmez.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/move-files-phone-to-desktop-printing'
+translationKey: move-files-phone-to-desktop-printing
 ---
 ## Telefonunuzdan Yazdırma: Neden Hala Sinir bozucu
 

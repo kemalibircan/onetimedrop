@@ -1,6 +1,6 @@
 ---
 title: So drucken Sie von Ihrem Telefon aus auf dem Computer einer anderen Person
-slug: print-from-phone-on-others-computer
+slug: so-drucken-sie-von-ihrem-telefon-aus-auf-dem-computer-einer-anderen-person
 description: >-
   Müssen Sie in einer Bibliothek, einem Copyshop oder am Arbeitsplatz ein
   Dokument von Ihrem Telefon aus ausdrucken? Dies ist der einfachste Weg, Ihre
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/print-from-phone-on-others-computer'
+translationKey: print-from-phone-on-others-computer
 ---
 ## Das Copyshop-Problem
 

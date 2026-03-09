@@ -1,6 +1,6 @@
 ---
 title: 'Sichere Dateifreigabe auf öffentlichen Computern: Eine praktische Checkliste'
-slug: secure-file-sharing-public-computers
+slug: sichere-dateifreigabe-auf-offentlichen-computern-eine-praktische-checkliste
 description: >-
   Öffentliche Computer in Bibliotheken, Hotels und Flughäfen sind riskant. Hier
   finden Sie eine Sicherheitscheckliste für die spurlose Übertragung von
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Sicherheit
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/de/blog/secure-file-sharing-public-computers'
+translationKey: secure-file-sharing-public-computers
 ---
 ## Die Risiken öffentlicher Computer
 

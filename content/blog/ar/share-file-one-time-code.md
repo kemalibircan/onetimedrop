@@ -1,13 +1,13 @@
 ---
 title: كيفية مشاركة ملف باستخدام رمز لمرة واحدة (خطوة بخطوة)
-slug: share-file-one-time-code
+slug: '-'
 description: >-
   رمز لمرة واحدة يحمي ملفاتك من الوصول غير المصرح به. إليك كيفية عمل نقل الملفات
   المستند إلى التعليمات البرمجية وكيفية استخدامه.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/share-file-one-time-code'
+translationKey: share-file-one-time-code
 ---
 ## ما هو الرمز الذي يستخدم لمرة واحدة لمشاركة الملفات؟
 

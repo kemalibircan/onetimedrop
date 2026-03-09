@@ -1,13 +1,13 @@
 ---
 title: كيفية تنزيل الملفات بأمان على جهاز كمبيوتر غير معروف
-slug: download-files-safely-unknown-computer
+slug: '-'
 description: >-
   هل تحتاج إلى تنزيل ملف على جهاز كمبيوتر لا تملكه؟ اتبع هذه الخطوات لتظل آمنًا
   ولا تترك أي أثر.
 date: '2026-03-08'
 category: حماية
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/download-files-safely-unknown-computer'
+translationKey: download-files-safely-unknown-computer
 ---
 ## ما الذي يجعل الكمبيوتر "غير معروف"؟
 

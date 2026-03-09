@@ -1,13 +1,13 @@
 ---
 title: Cómo transferir archivos cuando su unidad USB no está disponible
-slug: transfer-files-without-usb
+slug: como-transferir-archivos-cuando-su-unidad-usb-no-esta-disponible
 description: >-
   ¿Olvidaste tu unidad USB? Ningún problema. Estos son los mejores métodos
   inalámbricos para transferir archivos sin ningún medio físico.
 date: '2026-03-08'
 category: Consejos
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/transfer-files-without-usb'
+translationKey: transfer-files-without-usb
 ---
 ## Unidades USB: prácticas hasta que se te olvide una
 

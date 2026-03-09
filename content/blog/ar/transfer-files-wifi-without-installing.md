@@ -1,13 +1,13 @@
 ---
 title: كيفية نقل الملفات عبر شبكة Wi-Fi دون تثبيت أي شيء
-slug: transfer-files-wifi-without-installing
+slug: '-wi-fi-'
 description: >-
   لا تحتاج إلى تطبيقات أو كابلات لنقل الملفات عبر شبكة Wi-Fi. اكتشف الأدوات
   المستندة إلى المتصفح والتي تعمل على أي جهاز، على الفور.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/transfer-files-wifi-without-installing'
+translationKey: transfer-files-wifi-without-installing
 ---
 ## نقل الملفات عبر Wi-Fi: لماذا يهم "عدم التثبيت".
 

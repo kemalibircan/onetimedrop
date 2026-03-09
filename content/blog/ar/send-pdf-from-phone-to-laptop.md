@@ -1,13 +1,13 @@
 ---
 title: أفضل طريقة لإرسال ملف PDF من الهاتف إلى الكمبيوتر المحمول (سريع + آمن)
-slug: send-pdf-from-phone-to-laptop
+slug: '-pdf-'
 description: >-
   هل تحتاج إلى نقل ملف PDF من هاتفك إلى جهاز كمبيوتر محمول الآن؟ فيما يلي أسرع
   خياراتك — مرتبة حسب السرعة والخصوصية.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/send-pdf-from-phone-to-laptop'
+translationKey: send-pdf-from-phone-to-laptop
 ---
 ## لماذا يختلف نقل PDF
 

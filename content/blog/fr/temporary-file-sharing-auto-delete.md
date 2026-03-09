@@ -1,6 +1,7 @@
 ---
 title: "Le partage de fichiers temporaires expliqué\_: ce que signifie réellement la «\_suppression automatique\_»"
-slug: temporary-file-sharing-auto-delete
+slug: >-
+  le-partage-de-fichiers-temporaires-explique-ce-que-signifie-reellement-la-suppression-automatique-
 description: >-
   La suppression automatique dans le partage de fichiers signifie que vos
   fichiers disparaissent après une durée définie. Mais comment ça marche
@@ -8,7 +9,7 @@ description: >-
 date: '2026-03-08'
 category: Sécurité
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/fr/blog/temporary-file-sharing-auto-delete'
+translationKey: temporary-file-sharing-auto-delete
 ---
 ## Qu'est-ce que le partage de fichiers temporaire ?
 

@@ -1,11 +1,13 @@
 ---
-title: "How to Download Files Safely on an Unknown Computer"
-slug: "download-files-safely-unknown-computer"
-description: "Need to download a file on a computer you don't own? Follow these steps to stay safe and leave no trace."
-date: "2026-03-08"
-category: "Security"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/download-files-safely-unknown-computer"
+title: How to Download Files Safely on an Unknown Computer
+slug: download-files-safely-unknown-computer
+description: >-
+  Need to download a file on a computer you don't own? Follow these steps to
+  stay safe and leave no trace.
+date: '2026-03-08'
+category: Security
+readingTime: 6 min read
+translationKey: download-files-safely-unknown-computer
 ---
 
 ## What Makes a Computer "Unknown"?

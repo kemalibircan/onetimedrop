@@ -1,6 +1,6 @@
 ---
 title: Cómo enviar documentos desde el teléfono a la PC en una copistería
-slug: send-documents-copy-shop
+slug: como-enviar-documentos-desde-el-telefono-a-la-pc-en-una-copisteria
 description: >-
   ¿Enviar un documento para imprimir en una copistería sin traer su computadora
   portátil? Esta es la forma más rápida de transferir su archivo a su
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/send-documents-copy-shop'
+translationKey: send-documents-copy-shop
 ---
 ## El desafío de la copistería
 

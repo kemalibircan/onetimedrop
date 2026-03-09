@@ -1,11 +1,13 @@
 ---
-title: "The Best Way to Send a PDF From Phone to Laptop (Fast + Secure)"
-slug: "send-pdf-from-phone-to-laptop"
-description: "Need to transfer a PDF from your phone to a laptop right now? Here are your fastest options — ranked by speed and privacy."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/send-pdf-from-phone-to-laptop"
+title: The Best Way to Send a PDF From Phone to Laptop (Fast + Secure)
+slug: send-pdf-from-phone-to-laptop
+description: >-
+  Need to transfer a PDF from your phone to a laptop right now? Here are your
+  fastest options — ranked by speed and privacy.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: send-pdf-from-phone-to-laptop
 ---
 
 ## Why PDF Transfer Is Different

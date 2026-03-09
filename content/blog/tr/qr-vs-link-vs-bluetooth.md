@@ -1,13 +1,13 @@
 ---
 title: 'QR vs Link vs Bluetooth: Hangi Dosya Aktarım Yöntemi Kazanır?'
-slug: qr-vs-link-vs-bluetooth
+slug: qr-vs-link-vs-bluetooth-hangi-dosya-aktarim-yontemi-kazanir
 description: >-
   QR kodu, paylaşılan bağlantı veya Bluetooth; dosya aktarmanın en hızlı ve en
   gizli yolu hangisidir? Onu parçalıyoruz.
 date: '2026-03-08'
 category: Karşılaştırmak
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/qr-vs-link-vs-bluetooth'
+translationKey: qr-vs-link-vs-bluetooth
 ---
 ## Üç Yöntem, Tek Hedef
 

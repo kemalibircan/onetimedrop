@@ -1,13 +1,13 @@
 ---
 title: إصلاح مشكلات "لا يمكن إرسال الملفات الكبيرة" (حلول بسيطة)
-slug: fix-cant-send-large-files
+slug: '-'
 description: >-
   مرفق البريد الإلكتروني كبير جدًا؟ الواتساب يرفض الفيديو الخاص بك؟ فيما يلي
   إصلاحات بسيطة لمشاكل نقل الملفات الكبيرة الشائعة.
 date: '2026-03-08'
 category: نصائح
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/fix-cant-send-large-files'
+translationKey: fix-cant-send-large-files
 ---
 ## لماذا لا أستطيع إرسال ملفات كبيرة الحجم؟
 

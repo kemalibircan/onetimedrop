@@ -7,9 +7,10 @@ import LanguageSwitcher from "./LanguageSwitcher";
 interface NavbarProps {
   lang: string;
   dict: any;
+  altSlugs?: Record<string, string>;
 }
 
-export default function Navbar({ lang, dict }: NavbarProps) {
+export default function Navbar({ lang, dict, altSlugs }: NavbarProps) {
   const { theme, toggle } = useTheme();
 
   return (
@@ -52,7 +53,7 @@ export default function Navbar({ lang, dict }: NavbarProps) {
           >
             {theme === "light" ? "🌙" : "☀️"}
           </button>
-          <LanguageSwitcher lang={lang} />
+          <LanguageSwitcher lang={lang} altSlugs={altSlugs} />
           <div className="w-px h-5 bg-[var(--color-border)] mx-1" />
           <Link href={`/${lang}/join`} className="btn-secondary text-sm py-2 px-4">
             {dict.join_session}

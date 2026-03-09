@@ -1,11 +1,13 @@
 ---
-title: "The Easiest Way to Move Files From Phone to Desktop for Printing"
-slug: "move-files-phone-to-desktop-printing"
-description: "Need to print something from your phone? Here's the simplest, fastest method that works on any computer — no setup required."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/move-files-phone-to-desktop-printing"
+title: The Easiest Way to Move Files From Phone to Desktop for Printing
+slug: move-files-phone-to-desktop-printing
+description: >-
+  Need to print something from your phone? Here's the simplest, fastest method
+  that works on any computer — no setup required.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: move-files-phone-to-desktop-printing
 ---
 
 ## Printing From Your Phone: Why It's Still Annoying

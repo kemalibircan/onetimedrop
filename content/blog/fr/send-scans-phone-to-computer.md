@@ -1,13 +1,13 @@
 ---
 title: Comment envoyer des numérisations de votre téléphone à votre ordinateur
-slug: send-scans-phone-to-computer
+slug: comment-envoyer-des-numerisations-de-votre-telephone-a-votre-ordinateur
 description: >-
   Vous avez scanné un document avec votre téléphone ? Voici le moyen le plus
   rapide de l'installer sur votre ordinateur sans câbles ni comptes cloud.
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/send-scans-phone-to-computer'
+translationKey: send-scans-phone-to-computer
 ---
 ## L'analyse du téléphone est devenue très bonne
 

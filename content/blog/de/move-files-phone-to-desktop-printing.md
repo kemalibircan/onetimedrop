@@ -2,7 +2,8 @@
 title: >-
   Der einfachste Weg, Dateien zum Drucken vom Telefon auf den Desktop zu
   verschieben
-slug: move-files-phone-to-desktop-printing
+slug: >-
+  der-einfachste-weg-dateien-zum-drucken-vom-telefon-auf-den-desktop-zu-verschieben
 description: >-
   Müssen Sie etwas von Ihrem Telefon aus drucken? Hier ist die einfachste und
   schnellste Methode, die auf jedem Computer funktioniert – keine Einrichtung
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/move-files-phone-to-desktop-printing'
+translationKey: move-files-phone-to-desktop-printing
 ---
 ## Drucken von Ihrem Telefon aus: Warum es immer noch nervig ist
 

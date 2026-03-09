@@ -1,13 +1,13 @@
 ---
 title: Comment télécharger des fichiers en toute sécurité sur un ordinateur inconnu
-slug: download-files-safely-unknown-computer
+slug: comment-telecharger-des-fichiers-en-toute-securite-sur-un-ordinateur-inconnu
 description: >-
   Besoin de télécharger un fichier sur un ordinateur que vous ne possédez pas ?
   Suivez ces étapes pour rester en sécurité et ne laisser aucune trace.
 date: '2026-03-08'
 category: Sécurité
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/fr/blog/download-files-safely-unknown-computer'
+translationKey: download-files-safely-unknown-computer
 ---
 ## Qu'est-ce qui rend un ordinateur « inconnu » ?
 

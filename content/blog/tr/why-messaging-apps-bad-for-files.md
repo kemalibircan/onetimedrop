@@ -2,14 +2,14 @@
 title: >-
   Mesajlaşma Uygulamaları Dosya Aktarımı Açısından Neden Kötüdür (Kalite +
   Gizlilik)
-slug: why-messaging-apps-bad-for-files
+slug: mesajlasma-uygulamalari-dosya-aktarimi-acisindan-neden-kotudur-kalite-gizlilik
 description: >-
   WhatsApp, Telegram ve iMessage'ın tümü dosyaları sıkıştırır ve sunucularında
   saklar. İşte bunun neden önemli olduğu ve bunun yerine ne kullanılacağı.
 date: '2026-03-08'
 category: Karşılaştırmak
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/tr/blog/why-messaging-apps-bad-for-files'
+translationKey: why-messaging-apps-bad-for-files
 ---
 ## "Sadece WhatsApp'tan Gönder" Yanılsaması
 

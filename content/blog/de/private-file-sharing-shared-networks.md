@@ -2,7 +2,8 @@
 title: >-
   Private Dateifreigabe: Was Sie in gemeinsam genutzten Netzwerken vermeiden
   sollten
-slug: private-file-sharing-shared-networks
+slug: >-
+  private-dateifreigabe-was-sie-in-gemeinsam-genutzten-netzwerken-vermeiden-sollten
 description: >-
   Gemeinsam genutztes WLAN in Hotels, Cafés oder Schulen gefährdet Ihre
   Dateiübertragungen. Erfahren Sie, was Sie vermeiden sollten und wie Sie privat
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Sicherheit
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/private-file-sharing-shared-networks'
+translationKey: private-file-sharing-shared-networks
 ---
 ## Ist die Dateiübertragung im öffentlichen WLAN sicher?
 

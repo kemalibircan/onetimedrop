@@ -1,13 +1,13 @@
 ---
 title: كيفية إرسال المستندات من الهاتف إلى جهاز الكمبيوتر في متجر النسخ
-slug: send-documents-copy-shop
+slug: '-'
 description: >-
   هل تريد إرسال مستند للطباعة في محل تصوير دون إحضار الكمبيوتر المحمول الخاص بك؟
   إليك أسرع طريقة لوضع ملفك على أجهزة الكمبيوتر الخاصة بهم.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/send-documents-copy-shop'
+translationKey: send-documents-copy-shop
 ---
 ## تحدي متجر النسخ
 

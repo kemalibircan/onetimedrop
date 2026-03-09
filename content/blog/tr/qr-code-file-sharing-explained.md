@@ -1,13 +1,13 @@
 ---
 title: 'QR Kod Dosya Paylaşımı: Nasıl Çalışır (Ve Neden Hızlıdır)'
-slug: qr-code-file-sharing-explained
+slug: qr-kod-dosya-paylasimi-nasil-calisir-ve-neden-hizlidir
 description: >-
   QR kodlu dosya paylaşımı USB'den daha hızlıdır ve hesap gerektirmez. Kaputun
   altında tam olarak nasıl çalıştığını öğrenin.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/tr/blog/qr-code-file-sharing-explained'
+translationKey: qr-code-file-sharing-explained
 ---
 ## QR Kod Dosya Paylaşımı Nedir?
 

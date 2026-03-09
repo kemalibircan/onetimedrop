@@ -1,13 +1,13 @@
 ---
 title: 'نقل الملفات من الهاتف إلى الكمبيوتر بدون تطبيقات: الطريقة الأسرع'
-slug: phone-to-pc-transfer-without-apps
+slug: '-'
 description: >-
   اكتشف أسرع الطرق لإرسال الملفات من هاتفك إلى جهاز الكمبيوتر دون تثبيت أي
   تطبيقات — باستخدام متصفح ورمز QR.
 date: '2026-03-08'
 category: كيف
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/phone-to-pc-transfer-without-apps'
+translationKey: phone-to-pc-transfer-without-apps
 ---
 ## مشكلة طرق نقل الملفات التقليدية
 

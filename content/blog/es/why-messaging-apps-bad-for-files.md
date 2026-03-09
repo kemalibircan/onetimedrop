@@ -2,14 +2,15 @@
 title: >-
   Por qué las aplicaciones de mensajería son malas para la transferencia de
   archivos (calidad + privacidad)
-slug: why-messaging-apps-bad-for-files
+slug: >-
+  por-que-las-aplicaciones-de-mensajeria-son-malas-para-la-transferencia-de-archivos-calidad-privacidad
 description: >-
   WhatsApp, Telegram e iMessage comprimen archivos y los almacenan en sus
   servidores. He aquí por qué es importante y qué utilizar en su lugar.
 date: '2026-03-08'
 category: Comparación
 readingTime: 7 min read
-canonical: 'https://onetimedrop.io/es/blog/why-messaging-apps-bad-for-files'
+translationKey: why-messaging-apps-bad-for-files
 ---
 ## La ilusión de "simplemente envíalo por WhatsApp"
 

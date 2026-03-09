@@ -1,13 +1,13 @@
 ---
 title: USB Sürücünüz Kullanılamadığında Dosyalar Nasıl Aktarılır
-slug: transfer-files-without-usb
+slug: usb-surucunuz-kullanilamadiginda-dosyalar-nasil-aktarilir
 description: >-
   USB sürücünüzü unuttunuz mu? Sorun değil. Dosyaları herhangi bir fiziksel
   ortam olmadan aktarmak için en iyi kablosuz yöntemleri burada bulabilirsiniz.
 date: '2026-03-08'
 category: İpuçları
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/transfer-files-without-usb'
+translationKey: transfer-files-without-usb
 ---
 ## USB Sürücüler: Birini Unutana Kadar Kullanışlı
 

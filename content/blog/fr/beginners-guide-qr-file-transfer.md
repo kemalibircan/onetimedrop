@@ -1,11 +1,11 @@
 ---
 title: Guide du débutant pour le transfert rapide de fichiers à l'aide de codes QR
-slug: beginners-guide-qr-file-transfer
+slug: guide-du-debutant-pour-le-transfert-rapide-de-fichiers-a-laide-de-codes-qr
 description: "Vous êtes nouveau dans le transfert de fichiers par code QR\_? Ce guide du débutant étape par étape couvre tout, de la numérisation au téléchargement de votre premier fichier."
 date: '2026-03-08'
 category: Comment faire
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/fr/blog/beginners-guide-qr-file-transfer'
+translationKey: beginners-guide-qr-file-transfer
 ---
 ## Qu'est-ce qu'un code QR ?
 

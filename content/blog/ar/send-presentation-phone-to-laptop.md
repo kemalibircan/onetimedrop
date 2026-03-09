@@ -1,13 +1,13 @@
 ---
 title: كيفية إرسال عرض تقديمي من الهاتف إلى الكمبيوتر المحمول قبل الاجتماع
-slug: send-presentation-phone-to-laptop
+slug: '-'
 description: >-
   هل تحتاج إلى نقل مجموعة الشرائح الخاصة بك من الهاتف إلى الكمبيوتر المحمول قبل
   دقائق من الاجتماع؟ إليك أسرع طريقة بدون إعداد.
 date: '2026-03-08'
 category: كيف
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/send-presentation-phone-to-laptop'
+translationKey: send-presentation-phone-to-laptop
 ---
 ## ذعر ما قبل الاجتماع
 

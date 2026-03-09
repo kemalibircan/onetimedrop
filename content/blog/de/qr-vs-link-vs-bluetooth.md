@@ -1,13 +1,13 @@
 ---
 title: 'QR vs. Link vs. Bluetooth: Welche Dateiübertragungsmethode gewinnt?'
-slug: qr-vs-link-vs-bluetooth
+slug: qr-vs-link-vs-bluetooth-welche-dateiubertragungsmethode-gewinnt
 description: >-
   QR-Code, geteilter Link oder Bluetooth – was ist die schnellste und privateste
   Möglichkeit, Dateien zu übertragen? Wir brechen es auf.
 date: '2026-03-08'
 category: Vergleich
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/de/blog/qr-vs-link-vs-bluetooth'
+translationKey: qr-vs-link-vs-bluetooth
 ---
 ## Drei Methoden, ein Ziel
 

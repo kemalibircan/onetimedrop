@@ -1,6 +1,6 @@
 ---
 title: Beste Dateitypen zum Drucken (PDF vs. JPG vs. PNG)
-slug: best-file-types-for-printing
+slug: beste-dateitypen-zum-drucken-pdf-vs-jpg-vs-png
 description: >-
   Nicht alle Dateiformate werden gleichermaßen gedruckt. Hier finden Sie eine
   Kurzanleitung zur Auswahl des richtigen Dateityps für Ihren Druckauftrag – und
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Tipps
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/best-file-types-for-printing'
+translationKey: best-file-types-for-printing
 ---
 ## Beim Drucken kommt es auf das Format an
 

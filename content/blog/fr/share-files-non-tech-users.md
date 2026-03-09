@@ -2,7 +2,8 @@
 title: >-
   Des moyens simples de partager des fichiers avec des utilisateurs non
   techniques
-slug: share-files-non-tech-users
+slug: >-
+  des-moyens-simples-de-partager-des-fichiers-avec-des-utilisateurs-non-techniques
 description: >-
   Besoin d'aider une personne non technique à réceptionner un dossier ? Voici
   les méthodes les plus simples et les plus infaillibles qui ne nécessitent
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Conseils
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/share-files-non-tech-users'
+translationKey: share-files-non-tech-users
 ---
 ## Le défi : aider les utilisateurs non techniques à recevoir des fichiers
 

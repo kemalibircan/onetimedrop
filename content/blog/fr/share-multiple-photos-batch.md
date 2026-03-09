@@ -1,6 +1,6 @@
 ---
 title: Comment partager rapidement plusieurs photos (Guide de transfert par lots)
-slug: share-multiple-photos-batch
+slug: comment-partager-rapidement-plusieurs-photos-guide-de-transfert-par-lots
 description: >-
   Besoin d'envoyer 10, 20 photos ou plus depuis votre téléphone à la fois ?
   Voici comment effectuer des transferts de photos par lots rapidement sans
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/share-multiple-photos-batch'
+translationKey: share-multiple-photos-batch
 ---
 ## Pourquoi le transfert de photos par lots est délicat
 

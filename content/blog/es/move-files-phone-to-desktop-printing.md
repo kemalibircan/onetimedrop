@@ -2,14 +2,15 @@
 title: >-
   La forma más fácil de mover archivos del teléfono al escritorio para
   imprimirlos
-slug: move-files-phone-to-desktop-printing
+slug: >-
+  la-forma-mas-facil-de-mover-archivos-del-telefono-al-escritorio-para-imprimirlos
 description: >-
   ¿Necesitas imprimir algo desde tu teléfono? Este es el método más simple y
   rápido que funciona en cualquier computadora: no requiere configuración.
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/es/blog/move-files-phone-to-desktop-printing'
+translationKey: move-files-phone-to-desktop-printing
 ---
 ## Imprimir desde su teléfono: por qué sigue siendo molesto
 

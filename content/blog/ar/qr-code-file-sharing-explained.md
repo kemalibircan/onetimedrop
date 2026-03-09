@@ -1,13 +1,13 @@
 ---
 title: 'مشاركة ملفات رمز الاستجابة السريعة: كيف تعمل (ولماذا هي سريعة)'
-slug: qr-code-file-sharing-explained
+slug: '-'
 description: >-
   تعد مشاركة ملفات رمز الاستجابة السريعة أسرع من USB ولا تتطلب حسابات. تعلم
   بالضبط كيف يعمل تحت غطاء محرك السيارة.
 date: '2026-03-08'
 category: كيف
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/ar/blog/qr-code-file-sharing-explained'
+translationKey: qr-code-file-sharing-explained
 ---
 ## ما هي مشاركة ملفات رمز الاستجابة السريعة؟
 

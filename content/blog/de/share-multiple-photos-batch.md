@@ -1,6 +1,6 @@
 ---
 title: So teilen Sie schnell mehrere Fotos (Anleitung zur Stapelübertragung)
-slug: share-multiple-photos-batch
+slug: so-teilen-sie-schnell-mehrere-fotos-anleitung-zur-stapelubertragung
 description: >-
   Müssen Sie 10, 20 oder mehr Fotos gleichzeitig von Ihrem Telefon senden? Hier
   erfahren Sie, wie Sie Stapelfotoübertragungen schnell und ohne Komprimierung
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/share-multiple-photos-batch'
+translationKey: share-multiple-photos-batch
 ---
 ## Warum die Stapel-Fotoübertragung schwierig ist
 

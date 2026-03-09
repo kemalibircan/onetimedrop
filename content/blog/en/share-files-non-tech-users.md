@@ -1,11 +1,13 @@
 ---
-title: "Simple Ways to Share Files With Non-Tech Users"
-slug: "share-files-non-tech-users"
-description: "Need to help a non-technical person receive a file? Here are the simplest, most foolproof methods that don't require tech knowledge."
-date: "2026-03-08"
-category: "Tips"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/share-files-non-tech-users"
+title: Simple Ways to Share Files With Non-Tech Users
+slug: share-files-non-tech-users
+description: >-
+  Need to help a non-technical person receive a file? Here are the simplest,
+  most foolproof methods that don't require tech knowledge.
+date: '2026-03-08'
+category: Tips
+readingTime: 5 min read
+translationKey: share-files-non-tech-users
 ---
 
 ## The Challenge: Helping Non-Tech Users Receive Files

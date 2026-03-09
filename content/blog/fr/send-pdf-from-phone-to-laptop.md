@@ -2,7 +2,8 @@
 title: >-
   La meilleure façon d'envoyer un PDF d'un téléphone à un ordinateur portable
   (rapide et sécurisé)
-slug: send-pdf-from-phone-to-laptop
+slug: >-
+  la-meilleure-facon-denvoyer-un-pdf-dun-telephone-a-un-ordinateur-portable-rapide-et-securise
 description: >-
   Besoin de transférer un PDF de votre téléphone vers un ordinateur portable dès
   maintenant ? Voici vos options les plus rapides, classées par vitesse et
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/send-pdf-from-phone-to-laptop'
+translationKey: send-pdf-from-phone-to-laptop
 ---
 ## Pourquoi le transfert PDF est différent
 

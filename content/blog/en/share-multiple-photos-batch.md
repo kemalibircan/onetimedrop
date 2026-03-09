@@ -1,11 +1,13 @@
 ---
-title: "How to Share Multiple Photos Quickly (Batch Transfer Guide)"
-slug: "share-multiple-photos-batch"
-description: "Need to send 10, 20 or more photos from your phone at once? Here's how to do batch photo transfers quickly without compression."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/share-multiple-photos-batch"
+title: How to Share Multiple Photos Quickly (Batch Transfer Guide)
+slug: share-multiple-photos-batch
+description: >-
+  Need to send 10, 20 or more photos from your phone at once? Here's how to do
+  batch photo transfers quickly without compression.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: share-multiple-photos-batch
 ---
 
 ## Why Batch Photo Transfer Is Tricky

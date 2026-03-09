@@ -1,11 +1,13 @@
 ---
-title: "How to Send a Presentation From Phone to Laptop Before a Meeting"
-slug: "send-presentation-phone-to-laptop"
-description: "Need to transfer your slide deck from phone to laptop minutes before a meeting? Here's the fastest way with zero setup."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/send-presentation-phone-to-laptop"
+title: How to Send a Presentation From Phone to Laptop Before a Meeting
+slug: send-presentation-phone-to-laptop
+description: >-
+  Need to transfer your slide deck from phone to laptop minutes before a
+  meeting? Here's the fastest way with zero setup.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: send-presentation-phone-to-laptop
 ---
 
 ## The Pre-Meeting Panic

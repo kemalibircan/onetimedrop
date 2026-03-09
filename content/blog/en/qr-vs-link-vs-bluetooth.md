@@ -1,11 +1,13 @@
 ---
-title: "QR vs Link vs Bluetooth: Which File Transfer Method Wins?"
-slug: "qr-vs-link-vs-bluetooth"
-description: "QR code, shared link, or Bluetooth — which is the fastest and most private way to transfer files? We break it down."
-date: "2026-03-08"
-category: "Comparison"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/qr-vs-link-vs-bluetooth"
+title: 'QR vs Link vs Bluetooth: Which File Transfer Method Wins?'
+slug: qr-vs-link-vs-bluetooth
+description: >-
+  QR code, shared link, or Bluetooth — which is the fastest and most private way
+  to transfer files? We break it down.
+date: '2026-03-08'
+category: Comparison
+readingTime: 6 min read
+translationKey: qr-vs-link-vs-bluetooth
 ---
 
 ## Three Methods, One Goal

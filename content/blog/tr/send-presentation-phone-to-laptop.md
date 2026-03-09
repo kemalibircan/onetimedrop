@@ -1,13 +1,13 @@
 ---
 title: Toplantıdan Önce Telefondan Dizüstü Bilgisayara Sunum Nasıl Gönderilir
-slug: send-presentation-phone-to-laptop
+slug: toplantidan-once-telefondan-dizustu-bilgisayara-sunum-nasil-gonderilir
 description: >-
   Toplantıdan dakikalar önce slayt destenizi telefonunuzdan dizüstü
   bilgisayarınıza aktarmanız mı gerekiyor? İşte sıfır kurulumla en hızlı yol.
 date: '2026-03-08'
 category: Nasıl Yapılır
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/tr/blog/send-presentation-phone-to-laptop'
+translationKey: send-presentation-phone-to-laptop
 ---
 ## Toplantı Öncesi Panik
 

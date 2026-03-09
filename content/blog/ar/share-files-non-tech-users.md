@@ -1,13 +1,13 @@
 ---
 title: طرق بسيطة لمشاركة الملفات مع مستخدمين غير تقنيين
-slug: share-files-non-tech-users
+slug: '-'
 description: >-
   هل تحتاج إلى مساعدة شخص غير تقني في استلام ملف؟ فيما يلي أبسط الطرق وأكثرها
   ضمانًا والتي لا تتطلب معرفة تقنية.
 date: '2026-03-08'
 category: نصائح
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/ar/blog/share-files-non-tech-users'
+translationKey: share-files-non-tech-users
 ---
 ## التحدي: مساعدة المستخدمين غير التقنيين على تلقي الملفات
 

@@ -1,6 +1,6 @@
 ---
 title: Comment transférer des fichiers via Wi-Fi sans rien installer
-slug: transfer-files-wifi-without-installing
+slug: comment-transferer-des-fichiers-via-wi-fi-sans-rien-installer
 description: >-
   Vous n'avez pas besoin d'applications ni de câbles pour déplacer des fichiers
   via Wi-Fi. Découvrez des outils basés sur un navigateur qui fonctionnent
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Comment faire
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/fr/blog/transfer-files-wifi-without-installing'
+translationKey: transfer-files-wifi-without-installing
 ---
 ## Transfert de fichiers Wi-Fi : pourquoi « aucune installation » est importante
 

@@ -1,11 +1,13 @@
 ---
-title: "Send Photos From iPhone to Any Computer (No AirDrop Needed)"
-slug: "send-photos-iphone-to-computer"
-description: "AirDrop doesn't work on Windows or unknown Macs. Here's how to send iPhone photos to any computer in seconds using a browser."
-date: "2026-03-08"
-category: "How-To"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/send-photos-iphone-to-computer"
+title: Send Photos From iPhone to Any Computer (No AirDrop Needed)
+slug: send-photos-iphone-to-computer
+description: >-
+  AirDrop doesn't work on Windows or unknown Macs. Here's how to send iPhone
+  photos to any computer in seconds using a browser.
+date: '2026-03-08'
+category: How-To
+readingTime: 5 min read
+translationKey: send-photos-iphone-to-computer
 ---
 
 ## AirDrop Only Works Between Apple Devices

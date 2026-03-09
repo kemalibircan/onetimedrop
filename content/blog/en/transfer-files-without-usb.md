@@ -1,11 +1,13 @@
 ---
-title: "How to Transfer Files When Your USB Drive Isn't Available"
-slug: "transfer-files-without-usb"
-description: "Forgot your USB drive? No problem. Here are the best wireless methods for transferring files without any physical media."
-date: "2026-03-08"
-category: "Tips"
-readingTime: "5 min read"
-canonical: "https://onetimedrop.io/blog/transfer-files-without-usb"
+title: How to Transfer Files When Your USB Drive Isn't Available
+slug: transfer-files-without-usb
+description: >-
+  Forgot your USB drive? No problem. Here are the best wireless methods for
+  transferring files without any physical media.
+date: '2026-03-08'
+category: Tips
+readingTime: 5 min read
+translationKey: transfer-files-without-usb
 ---
 
 ## USB Drives: Convenient Until You Forget One

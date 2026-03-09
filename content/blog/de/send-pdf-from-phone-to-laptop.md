@@ -2,7 +2,7 @@
 title: >-
   Der beste Weg, ein PDF vom Telefon an den Laptop zu senden (schnell und
   sicher)
-slug: send-pdf-from-phone-to-laptop
+slug: der-beste-weg-ein-pdf-vom-telefon-an-den-laptop-zu-senden-schnell-und-sicher
 description: >-
   Müssen Sie sofort eine PDF-Datei von Ihrem Telefon auf einen Laptop
   übertragen? Hier sind Ihre schnellsten Optionen – sortiert nach
@@ -10,7 +10,7 @@ description: >-
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/send-pdf-from-phone-to-laptop'
+translationKey: send-pdf-from-phone-to-laptop
 ---
 ## Warum die PDF-Übertragung anders ist
 

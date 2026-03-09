@@ -1,11 +1,13 @@
 ---
-title: "Fix 'Can't Send Large Files' Problems (Simple Solutions)"
-slug: "fix-cant-send-large-files"
-description: "Email attachment too large? WhatsApp rejecting your video? Here are simple fixes for common large file transfer problems."
-date: "2026-03-08"
-category: "Tips"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/fix-cant-send-large-files"
+title: Fix 'Can't Send Large Files' Problems (Simple Solutions)
+slug: fix-cant-send-large-files
+description: >-
+  Email attachment too large? WhatsApp rejecting your video? Here are simple
+  fixes for common large file transfer problems.
+date: '2026-03-08'
+category: Tips
+readingTime: 6 min read
+translationKey: fix-cant-send-large-files
 ---
 
 ## Why Can't I Send Large Files?

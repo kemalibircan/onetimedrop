@@ -1,6 +1,6 @@
 ---
 title: So senden Sie in einem Copyshop Dokumente vom Telefon an den PC
-slug: send-documents-copy-shop
+slug: so-senden-sie-in-einem-copyshop-dokumente-vom-telefon-an-den-pc
 description: >-
   Ein Dokument zum Ausdrucken an einen Copyshop schicken, ohne Ihren Laptop
   dabei zu haben? Hier erfahren Sie, wie Sie Ihre Datei am schnellsten auf ihren
@@ -8,7 +8,7 @@ description: >-
 date: '2026-03-08'
 category: Anleitung
 readingTime: 5 min read
-canonical: 'https://onetimedrop.io/de/blog/send-documents-copy-shop'
+translationKey: send-documents-copy-shop
 ---
 ## Die Copy-Shop-Challenge
 

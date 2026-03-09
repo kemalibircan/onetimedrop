@@ -1,11 +1,13 @@
 ---
-title: "Temporary File Sharing Explained: What 'Auto-Delete' Really Means"
-slug: "temporary-file-sharing-auto-delete"
-description: "Auto-delete in file sharing means your files disappear after a set time. But how does it actually work — and is it truly private?"
-date: "2026-03-08"
-category: "Security"
-readingTime: "6 min read"
-canonical: "https://onetimedrop.io/blog/temporary-file-sharing-auto-delete"
+title: 'Temporary File Sharing Explained: What ''Auto-Delete'' Really Means'
+slug: temporary-file-sharing-auto-delete
+description: >-
+  Auto-delete in file sharing means your files disappear after a set time. But
+  how does it actually work — and is it truly private?
+date: '2026-03-08'
+category: Security
+readingTime: 6 min read
+translationKey: temporary-file-sharing-auto-delete
 ---
 
 ## What Is Temporary File Sharing?

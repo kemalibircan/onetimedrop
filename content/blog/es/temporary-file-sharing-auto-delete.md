@@ -2,7 +2,8 @@
 title: >-
   Explicación del uso compartido de archivos temporales: lo que realmente
   significa "eliminación automática"
-slug: temporary-file-sharing-auto-delete
+slug: >-
+  explicacion-del-uso-compartido-de-archivos-temporales-lo-que-realmente-significa-eliminacion-automatica
 description: >-
   La eliminación automática al compartir archivos significa que sus archivos
   desaparecen después de un tiempo determinado. Pero, ¿cómo funciona realmente?
@@ -10,7 +11,7 @@ description: >-
 date: '2026-03-08'
 category: Seguridad
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/es/blog/temporary-file-sharing-auto-delete'
+translationKey: temporary-file-sharing-auto-delete
 ---
 ## ¿Qué es compartir archivos temporales?
 

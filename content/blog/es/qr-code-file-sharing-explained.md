@@ -1,13 +1,13 @@
 ---
 title: 'Compartir archivos con códigos QR: cómo funciona (y por qué es rápido)'
-slug: qr-code-file-sharing-explained
+slug: compartir-archivos-con-codigos-qr-como-funciona-y-por-que-es-rapido
 description: >-
   Compartir archivos con códigos QR es más rápido que USB y no requiere cuentas.
   Aprenda exactamente cómo funciona bajo el capó.
 date: '2026-03-08'
 category: Cómo hacerlo
 readingTime: 6 min read
-canonical: 'https://onetimedrop.io/es/blog/qr-code-file-sharing-explained'
+translationKey: qr-code-file-sharing-explained
 ---
 ## ¿Qué es compartir archivos con códigos QR?
 
