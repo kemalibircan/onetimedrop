@@ -35,7 +35,7 @@ npm run dev
 | File URL protection | Session token required in header or query string |
 | Default expiry | 10 minutes (configurable via SESSION_TTL) |
 | File cleanup | Background worker runs every 60s |
-| No user tracking | No accounts, no cookies, no analytics |
+| Minimal user data | No accounts; temporary session data plus basic Google Analytics traffic metrics |
 | Max file size | 50MB per file |
 | Max files/session | 20 files |
 
@@ -69,6 +69,7 @@ PORT=3000
 HOSTNAME=localhost
 UPLOAD_DIR=/tmp/onetimedrop
 NEXT_PUBLIC_BASE_URL=https://onetimedrop.io
+NEXT_PUBLIC_GA_MEASUREMENT_ID=G-KXJ2DY5XGS
 ```
 
 ## Running in Production

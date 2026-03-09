@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import Script from "next/script";
 import "../globals.css";
 import { ToastProvider } from "@/components/ui/ToastProvider";
 import { ThemeProvider } from "@/components/ui/ThemeProvider";
@@ -11,6 +12,8 @@ const inter = Inter({
 });
 
 const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://onetimedrop.io";
+const GOOGLE_ANALYTICS_ID =
+  process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || "G-KXJ2DY5XGS";
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
@@ -65,13 +68,27 @@ export default async function RootLayout({
 }) {
   const { lang } = await params;
   return (
-    <html lang={lang} dir={lang === 'ar' ? 'rtl' : 'ltr'} suppressHydrationWarning>
+    <html
+      lang={lang}
+      dir={lang === "ar" ? "rtl" : "ltr"}
+      suppressHydrationWarning
+    >
       <head>
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <meta name="theme-color" content="#FFB86B" />
       </head>
       <body className={`${inter.variable} font-sans antialiased`}>
+        <Script
+          src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_ANALYTICS_ID}`}
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '${GOOGLE_ANALYTICS_ID}');`}
+        </Script>
         <ThemeProvider>
           <ToastProvider>
             {children}

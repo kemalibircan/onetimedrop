@@ -6,7 +6,7 @@ import { getDictionary } from "@/lib/dictionaries";
 export const metadata: Metadata = {
   title: "Privacy Policy — OneTimeDrop",
   description:
-    "OneTimeDrop Privacy Policy: We store files temporarily for 10 minutes, use no tracking, and collect no personal data.",
+    "OneTimeDrop Privacy Policy: We store files temporarily for 10 minutes, use limited Google Analytics traffic measurement, and collect no account data.",
   alternates: { canonical: "https://onetimedrop.io/privacy" },
 };
 
@@ -24,7 +24,7 @@ export default async function PrivacyPage({
       <main className="max-w-3xl mx-auto px-4 py-16 prose prose-neutral dark:prose-invert max-w-none">
         <h1 className="text-4xl font-extrabold mb-2">Privacy Policy</h1>
         <p className="text-[var(--color-muted)] text-sm mb-10">
-          Last updated: March 8, 2026
+          Last updated: March 9, 2026
         </p>
 
         <div className="space-y-8 text-[var(--color-text)]">
@@ -49,6 +49,9 @@ export default async function PrivacyPage({
               <li>
                 <strong>Server logs:</strong> Standard web server logs (IP address, timestamp, request path) for security and debugging, retained for up to 7 days.
               </li>
+              <li>
+                <strong>Usage analytics:</strong> Google Analytics may collect page views and basic device/browser information, along with cookie identifiers and approximate location data, to help us understand site traffic and improve the service.
+              </li>
             </ul>
           </section>
 
@@ -56,9 +59,9 @@ export default async function PrivacyPage({
             <h2 className="text-xl font-bold">3. What We Do NOT Collect</h2>
             <ul className="text-[var(--color-muted)] space-y-2 leading-relaxed">
               <li>No names, emails, or accounts</li>
-              <li>No cookies beyond session state</li>
-              <li>No third-party analytics or advertising trackers</li>
+              <li>No advertising trackers or remarketing pixels</li>
               <li>No file content analysis or scanning</li>
+              <li>No permanent file storage after the retention window expires</li>
             </ul>
           </section>
 
@@ -85,8 +88,9 @@ export default async function PrivacyPage({
           <section>
             <h2 className="text-xl font-bold">6. Third-Party Services</h2>
             <p className="text-[var(--color-muted)] leading-relaxed">
-              OneTimeDrop does not use Google Analytics, Facebook Pixel, or similar third-party
-              trackers. QR codes are generated client-side in your browser with no external API calls.
+              OneTimeDrop uses Google Analytics for aggregated traffic measurement. We do not use
+              advertising pixels such as Facebook Pixel, and QR codes are generated client-side in
+              your browser with no external API calls.
             </p>
           </section>
 
