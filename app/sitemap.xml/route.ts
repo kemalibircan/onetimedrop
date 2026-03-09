@@ -1,4 +1,4 @@
-import { getAllPosts } from "@/lib/blog";
+import { getAllPosts, getPostAlternateSlugs } from "@/lib/blog";
 
 const BASE_URL = "https://onetimedrop.com";
 const LOCALES = ["en", "tr", "de", "fr", "es", "ar"];
@@ -44,16 +44,27 @@ ${buildAlternates(path)}
 
   /* ── Blog post pages ── */
   const blogUrls = enPosts.flatMap((post) => {
-    const path = `/blog/${post.slug}`;
     const lastmod = post.date || today;
+    const altSlugs = getPostAlternateSlugs(post.translationKey);
+    
+    const alternatesParams = LOCALES.map((l) => {
+      const slug = altSlugs[l] || post.slug;
+      return `      <xhtml:link rel="alternate" hreflang="${l}" href="${BASE_URL}/${l}/blog/${slug}"/>`;
+    });
+    alternatesParams.push(`      <xhtml:link rel="alternate" hreflang="x-default" href="${BASE_URL}/en/blog/${altSlugs['en'] || post.slug}"/>`);
+    const postAlternates = alternatesParams.join("\n");
+
     return LOCALES.map(
-      (lang) => `  <url>
-    <loc>${BASE_URL}/${lang}${path}</loc>
+      (lang) => {
+        const slug = altSlugs[lang] || post.slug;
+        return `  <url>
+    <loc>${BASE_URL}/${lang}/blog/${slug}</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <lastmod>${lastmod}</lastmod>
-${buildAlternates(path)}
-  </url>`
+${postAlternates}
+  </url>`;
+      }
     );
   });
 
