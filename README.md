@@ -109,7 +109,7 @@ Or containerize with Docker (Dockerfile not included but straightforward).
   FileList        → File list with download buttons
   QRCode          → QR canvas renderer
   ui/             → Navbar, Footer, Toast, ThemeProvider
-/content/blog     → 25 markdown blog posts + title ideas
+/content/blog     → 55 markdown blog posts localized for 6 languages
 /hooks            → useSocket, useConfetti
 /lib
   sessionManager  → In-memory session store + token logic
@@ -130,6 +130,6 @@ Or containerize with Docker (Dockerfile not included but straightforward).
 - [x] **Mobile UX** — Thumb-friendly, upload zone with drag-drop, progress bars, status badges
 - [x] **SEO** — Unique title/description/canonical per page, OG tags, Twitter tags, JSON-LD
 - [x] **Sitemap/Robots** — `/sitemap.xml` includes all pages + blog posts; `/robots.txt` correct
-- [x] **Blog** — 25 full posts (900–1400 words each), plus 30 extra title ideas in `_titles.generated.md`
+- [x] **Blog** — 55 full posts localized across English, German, Turkish, French, Spanish, and Arabic
 - [x] **Dark mode** — Orange theme preserved, respects system preference
 - [x] **Accessibility** — ARIA labels, focus rings, keyboard navigation, live regions for toasts

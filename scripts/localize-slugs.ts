@@ -28,6 +28,15 @@ function createSlug(text: string): string {
     .replace(/\-+/g, '-'); // replace multiple hyphens
 }
 
+function isUsableLocalizedSlug(slug: string): boolean {
+  const compact = slug.replace(/-/g, '');
+  return Boolean(slug)
+    && compact.length >= 3
+    && /[a-z]/.test(compact)
+    && !slug.startsWith('-')
+    && !slug.endsWith('-');
+}
+
 const contentDir = path.join(process.cwd(), "content/blog");
 const langs = fs.readdirSync(contentDir).filter(d => fs.statSync(path.join(contentDir, d)).isDirectory());
 
@@ -42,6 +51,7 @@ const enFiles = fs.readdirSync(enDir).filter(f => f.endsWith(".md") && !f.starts
 for (const lang of langs) {
   const langDir = path.join(contentDir, lang);
   console.log(`Processing language: ${lang}`);
+  const usedSlugs = new Set<string>();
 
   for (const file of enFiles) {
     const langFilePath = path.join(langDir, file);
@@ -54,8 +64,13 @@ for (const lang of langs) {
     if (lang === "en") {
       parsed.data.slug = parsed.data.translationKey;
     } else {
-      parsed.data.slug = parsed.data.title ? createSlug(parsed.data.title) : parsed.data.translationKey;
+      const localizedSlug = parsed.data.title ? createSlug(parsed.data.title) : "";
+      const finalSlug = isUsableLocalizedSlug(localizedSlug) && !usedSlugs.has(localizedSlug)
+        ? localizedSlug
+        : parsed.data.translationKey;
+      parsed.data.slug = finalSlug;
     }
+    usedSlugs.add(parsed.data.slug);
     
     // Delete canonical so it can be dynamically generated correctly in generateMetadata
     delete parsed.data.canonical;

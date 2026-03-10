@@ -74,4 +74,4 @@ R: Hacen lo mismo. El QR es un atajo conveniente para escanear y unirse; el cód
 ## Publicaciones relacionadas
 
 - [Compartir archivos con código QR: cómo funciona](/blog/qr-code-file-sharing-explained)
-- [Cómo transferir archivos a través de Wi-Fi sin instalar nada](/blog/transfer-files-wifi-sin-instalar)
+- [Cómo transferir archivos a través de Wi-Fi sin instalar nada](/blog/transfer-files-wifi-without-installing)

@@ -88,5 +88,5 @@ R: USB o AirDrop (cuando esté disponible). OneTimeDrop es más rápido cuando e
 
 ## Publicaciones relacionadas
 
-- [Transferir archivos a través de Wi-Fi sin instalar nada](/blog/transfer-files-wifi-sin-instalar)
+- [Transferir archivos a través de Wi-Fi sin instalar nada](/blog/transfer-files-wifi-without-installing)
 - [Solucionar problemas de 'No se pueden enviar archivos grandes'](/blog/fix-cant-send-large-files)

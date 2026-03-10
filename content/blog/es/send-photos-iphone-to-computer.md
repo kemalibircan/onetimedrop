@@ -82,5 +82,5 @@ R: Visite nuestra página [cómo funciona](/cómo-funciona).
 
 ## Publicaciones relacionadas
 
-- [Transferencia de archivos de teléfono a PC sin aplicaciones: el método más rápido](/blog/phone-to-pc-transfer- without-apps)
+- [Transferencia de archivos de teléfono a PC sin aplicaciones: el método más rápido](/blog/phone-to-pc-transfer-without-apps)
 - [Enviar fotos desde Android a cualquier computadora en segundos](/blog/send-photos-android-to-computer)

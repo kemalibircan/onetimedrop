@@ -93,4 +93,4 @@ Pruebe la transferencia de códigos QR ahora con [OneTimeDrop](/) — o [únase 
 ## Publicaciones relacionadas
 
 - [Compartir archivos con código QR: cómo funciona](/blog/qr-code-file-sharing-explained)
-- [Compartir archivos sin WhatsApp ni correo electrónico: 5 mejores opciones](/blog/share-files- without-whatsapp-email)
+- [Compartir archivos sin WhatsApp ni correo electrónico: 5 mejores opciones](/blog/share-files-without-whatsapp-email)

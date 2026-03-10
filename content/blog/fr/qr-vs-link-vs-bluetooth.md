@@ -1,6 +1,6 @@
 ---
 title: 'QR vs Link vs Bluetooth : quelle méthode de transfert de fichiers gagne ?'
-slug: qr-vs-link-vs-bluetooth-quelle-methode-de-transfert-de-fichiers-gagne-
+slug: qr-vs-link-vs-bluetooth
 description: "Code QR, lien partagé ou Bluetooth\_: quel est le moyen le plus rapide et le plus privé de transférer des fichiers\_? Nous le décomposons."
 date: '2026-03-08'
 category: Comparaison

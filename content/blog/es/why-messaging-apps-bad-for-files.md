@@ -90,5 +90,5 @@ R: AirDrop (Apple), WeTransfer o OneTimeDrop: todos transfieren con calidad orig
 
 ## Publicaciones relacionadas
 
-- [Compartir archivos sin WhatsApp ni correo electrónico: 5 mejores opciones](/blog/share-files- without-whatsapp-email)
+- [Compartir archivos sin WhatsApp ni correo electrónico: 5 mejores opciones](/blog/share-files-without-whatsapp-email)
 - [Explicación del uso compartido de archivos temporales: lo que realmente significa la eliminación automática](/blog/temporary-file-sharing-auto-delete)

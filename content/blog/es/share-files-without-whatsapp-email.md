@@ -75,5 +75,5 @@ R: Sí, ambos dispositivos solo necesitan acceso a Internet.
 
 ## Publicaciones relacionadas
 
-- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/transferencia-de-teléfono-a-PC-sin-aplicaciones)
+- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/phone-to-pc-transfer-without-apps)
 - [Por qué las aplicaciones de mensajería son malas para la transferencia de archivos](/blog/why-messaging-apps-bad-for-files)

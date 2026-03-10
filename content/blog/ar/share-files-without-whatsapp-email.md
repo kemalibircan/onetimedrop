@@ -1,6 +1,6 @@
 ---
 title: 'مشاركة الملفات بدون WhatsApp أو البريد الإلكتروني: 5 خيارات أفضل'
-slug: '-whatsapp-5-'
+slug: share-files-without-whatsapp-email
 description: >-
   يقوم WhatsApp بضغط الملفات، والبريد الإلكتروني له حدود للحجم. فيما يلي 5 طرق
   أفضل لمشاركة الملفات - سريعة وخاصة وبدون حساب.

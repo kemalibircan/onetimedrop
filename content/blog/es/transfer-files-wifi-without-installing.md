@@ -75,5 +75,5 @@ R: La velocidad de transferencia depende de su conexión a Internet. Un archivo 
 
 ## Publicaciones relacionadas
 
-- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/transferencia-de-teléfono-a-PC-sin-aplicaciones)
+- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/phone-to-pc-transfer-without-apps)
 - [Compartir archivos con código QR: cómo funciona](/blog/qr-code-file-sharing-explained)

@@ -90,5 +90,5 @@ R: Sí. iOS tiene una aplicación zip para archivos incorporada. Android tiene v
 
 ## Publicaciones relacionadas
 
-- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/transferencia-de-teléfono-a-PC-sin-aplicaciones)
+- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/phone-to-pc-transfer-without-apps)
 - [La mejor manera de enviar un PDF desde el teléfono a la computadora portátil](/blog/send-pdf-from-phone-to-laptop)

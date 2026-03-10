@@ -83,4 +83,4 @@ R: Comprima imágenes en su presentación o expórtelas como PDF (lo que elimina
 ## Publicaciones relacionadas
 
 - [La mejor manera de enviar un PDF desde el teléfono a la computadora portátil](/blog/send-pdf-from-phone-to-laptop)
-- [Cómo transferir archivos a través de Wi-Fi sin instalar nada](/blog/transfer-files-wifi-sin-instalar)
+- [Cómo transferir archivos a través de Wi-Fi sin instalar nada](/blog/transfer-files-wifi-without-installing)

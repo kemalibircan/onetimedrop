@@ -86,5 +86,5 @@ R: OneTimeDrop requiere un navegador moderno (Chrome, Firefox, Edge, Safari a pa
 
 ## Publicaciones relacionadas
 
-- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/transferencia-de-teléfono-a-PC-sin-aplicaciones)
+- [Transferencia de archivos de teléfono a PC sin aplicaciones](/blog/phone-to-pc-transfer-without-apps)
 - [Cómo compartir un archivo con un código de un solo uso](/blog/share-file-one-time-code)

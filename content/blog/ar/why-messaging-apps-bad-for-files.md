@@ -1,6 +1,6 @@
 ---
 title: لماذا تعد تطبيقات المراسلة سيئة لنقل الملفات (الجودة + الخصوصية)
-slug: '-'
+slug: why-messaging-apps-bad-for-files
 description: >-
   يقوم كل من WhatsApp وTelegram وiMessage بضغط الملفات وتخزينها على خوادمهم.
   وإليك سبب أهمية ذلك وما يجب استخدامه بدلاً من ذلك.

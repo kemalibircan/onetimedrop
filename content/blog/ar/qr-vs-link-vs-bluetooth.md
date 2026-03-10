@@ -1,6 +1,6 @@
 ---
 title: 'QR vs Link vs Bluetooth: ما هي طريقة نقل الملفات التي تفوز؟'
-slug: qr-vs-link-vs-bluetooth-
+slug: qr-vs-link-vs-bluetooth
 description: >-
   رمز الاستجابة السريعة أو الرابط المشترك أو البلوتوث - ما هي الطريقة الأسرع
   والأكثر خصوصية لنقل الملفات؟ نحن نكسرها.
