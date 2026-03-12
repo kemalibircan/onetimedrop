@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/ui/Navbar";
 import Footer from "@/components/ui/Footer";
-import ContactForm from "@/components/ContactForm";
 import { getDictionary } from "@/lib/dictionaries";
 
 export const metadata: Metadata = {
@@ -42,8 +41,6 @@ export default async function ContactPage({
             {contactDict.email_hint}
           </p>
         </div>
-
-        <ContactForm lang={lang} dict={contactDict} />
       </main>
       <Footer lang={lang} dict={dict.footer} />
     </>

@@ -138,27 +138,6 @@
     "title": "Kontakt aufnehmen",
     "subtitle": "Haben Sie eine Frage, Feedback oder ein Problem? Wir freuen uns, von Ihnen zu hören.",
     "email_label": "E-Mail",
-    "email_hint": "Sie bevorzugen E-Mail? Schreiben Sie uns direkt hier.",
-    "name_label": "Name",
-    "name_placeholder": "Ihr Name",
-    "email_placeholder": "sie@beispiel.de",
-    "message_label": "Nachricht",
-    "message_placeholder": "Worum geht es?",
-    "submit": "Nachricht senden →",
-    "submitting": "Wird gesendet...",
-    "response_time": "Wir antworten normalerweise innerhalb von 1-2 Werktagen.",
-    "hidden_website_label": "Lassen Sie dieses Feld leer",
-    "success_toast": "Ihre Nachricht wurde gesendet.",
-    "errors": {
-      "generic": "Ihre Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es erneut.",
-      "unavailable": "Das Kontaktformular ist vorübergehend nicht verfügbar.",
-      "rate_limited": "Zu viele Versuche. Bitte warten Sie 15 Minuten und versuchen Sie es erneut.",
-      "name_required": "Bitte geben Sie Ihren Namen ein.",
-      "name_length": "Der Name muss zwischen 2 und 80 Zeichen lang sein.",
-      "email_required": "Bitte geben Sie Ihre E-Mail-Adresse ein.",
-      "email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
-      "message_required": "Bitte schreiben Sie eine Nachricht.",
-      "message_length": "Die Nachricht muss zwischen 10 und 2000 Zeichen lang sein."
-    }
+    "email_hint": "Bei Fragen oder Anliegen schreiben Sie uns direkt an diese Adresse."
   }
 }

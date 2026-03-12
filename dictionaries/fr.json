@@ -138,27 +138,6 @@
     "title": "Nous contacter",
     "subtitle": "Une question, un retour ou un problème ? Nous serions ravis de vous lire.",
     "email_label": "E-mail",
-    "email_hint": "Vous préférez l'e-mail ? Contactez-nous directement ici.",
-    "name_label": "Nom",
-    "name_placeholder": "Votre nom",
-    "email_placeholder": "vous@exemple.com",
-    "message_label": "Message",
-    "message_placeholder": "Dites-nous ce que vous avez en tête...",
-    "submit": "Envoyer le message →",
-    "submitting": "Envoi en cours...",
-    "response_time": "Nous répondons généralement sous 1 à 2 jours ouvrés.",
-    "hidden_website_label": "Laissez ce champ vide",
-    "success_toast": "Votre message a été envoyé.",
-    "errors": {
-      "generic": "Nous n'avons pas pu envoyer votre message. Veuillez réessayer.",
-      "unavailable": "Le formulaire de contact est temporairement indisponible.",
-      "rate_limited": "Trop de tentatives. Veuillez patienter 15 minutes avant de réessayer.",
-      "name_required": "Veuillez saisir votre nom.",
-      "name_length": "Le nom doit contenir entre 2 et 80 caractères.",
-      "email_required": "Veuillez saisir votre adresse e-mail.",
-      "email_invalid": "Veuillez saisir une adresse e-mail valide.",
-      "message_required": "Veuillez écrire un message.",
-      "message_length": "Le message doit contenir entre 10 et 2000 caractères."
-    }
+    "email_hint": "Pour toute question ou demande, écrivez-nous directement à cette adresse."
   }
 }
