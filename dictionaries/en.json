@@ -15,6 +15,7 @@
     "resources": "Resources",
     "blog": "Blog",
     "contact": "Contact",
+    "email": "Email",
     "legal": "Legal",
     "privacy_policy": "Privacy Policy",
     "terms_of_service": "Terms of Service",
@@ -132,5 +133,32 @@
         "a": "Yes — just remember your files will be temporary. Don't upload sensitive documents on public computers."
       }
     ]
+  },
+  "contact_page": {
+    "title": "Get in touch",
+    "subtitle": "Have a question, feedback, or issue? We'd love to hear from you.",
+    "email_label": "Email",
+    "email_hint": "Prefer email? Reach us directly here.",
+    "name_label": "Name",
+    "name_placeholder": "Your name",
+    "email_placeholder": "you@example.com",
+    "message_label": "Message",
+    "message_placeholder": "Tell us what's on your mind...",
+    "submit": "Send message →",
+    "submitting": "Sending...",
+    "response_time": "We typically respond within 1-2 business days.",
+    "hidden_website_label": "Leave this field empty",
+    "success_toast": "Your message has been sent.",
+    "errors": {
+      "generic": "We couldn't send your message. Please try again.",
+      "unavailable": "The contact form is temporarily unavailable.",
+      "rate_limited": "Too many attempts. Please wait 15 minutes and try again.",
+      "name_required": "Please enter your name.",
+      "name_length": "Name must be between 2 and 80 characters.",
+      "email_required": "Please enter your email address.",
+      "email_invalid": "Please enter a valid email address.",
+      "message_required": "Please write a message.",
+      "message_length": "Message must be between 10 and 2000 characters."
+    }
   }
 }

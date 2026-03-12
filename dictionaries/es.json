@@ -15,6 +15,7 @@
     "resources": "Recursos",
     "blog": "Blog",
     "contact": "Contacto",
+    "email": "Correo",
     "legal": "Legal",
     "privacy_policy": "Política de privacidad",
     "terms_of_service": "Términos de servicio",
@@ -132,5 +133,32 @@
         "a": "Sí — recuerda que tus archivos serán temporales. No subas documentos sensibles en computadoras públicas."
       }
     ]
+  },
+  "contact_page": {
+    "title": "Ponte en contacto",
+    "subtitle": "¿Tienes una pregunta, comentario o problema? Nos encantará saber de ti.",
+    "email_label": "Correo",
+    "email_hint": "¿Prefieres el correo electrónico? Escríbenos directamente aquí.",
+    "name_label": "Nombre",
+    "name_placeholder": "Tu nombre",
+    "email_placeholder": "tu@ejemplo.com",
+    "message_label": "Mensaje",
+    "message_placeholder": "Cuéntanos qué necesitas...",
+    "submit": "Enviar mensaje →",
+    "submitting": "Enviando...",
+    "response_time": "Normalmente respondemos en 1-2 días laborables.",
+    "hidden_website_label": "Deja este campo vacío",
+    "success_toast": "Tu mensaje ha sido enviado.",
+    "errors": {
+      "generic": "No pudimos enviar tu mensaje. Inténtalo de nuevo.",
+      "unavailable": "El formulario de contacto no está disponible temporalmente.",
+      "rate_limited": "Demasiados intentos. Espera 15 minutos y vuelve a intentarlo.",
+      "name_required": "Por favor, introduce tu nombre.",
+      "name_length": "El nombre debe tener entre 2 y 80 caracteres.",
+      "email_required": "Por favor, introduce tu dirección de correo.",
+      "email_invalid": "Por favor, introduce una dirección de correo válida.",
+      "message_required": "Por favor, escribe un mensaje.",
+      "message_length": "El mensaje debe tener entre 10 y 2000 caracteres."
+    }
   }
 }

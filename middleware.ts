@@ -29,6 +29,7 @@ export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl
   
   if (
+    pathname === '/health' ||
     pathname.includes('.') || 
     pathname.startsWith('/api') || 
     pathname.startsWith('/_next')
@@ -49,6 +50,6 @@ export function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    '/((?!api|_next/static|_next/image|favicon.ico|apple-touch-icon.png|og-image.png|robots.txt|sitemap.xml).*)',
+    '/((?!api|health|_next/static|_next/image|favicon.ico|apple-touch-icon.png|og-image.png|robots.txt|sitemap.xml).*)',
   ],
 }

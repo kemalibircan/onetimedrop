@@ -25,6 +25,13 @@ export default function Footer({ lang, dict }: FooterProps) {
             <p className="text-sm text-[var(--color-muted)] leading-relaxed">
               {dict.slogan}
             </p>
+            <a
+              href="mailto:info@globaldijital.com"
+              className="mt-3 inline-flex items-center gap-2 text-sm text-[var(--color-muted)] hover:text-[#FF8A3D] transition-colors break-all"
+            >
+              <span className="font-medium text-[var(--color-text)]">{dict.email}:</span>
+              <span>info@globaldijital.com</span>
+            </a>
           </div>
 
           {/* Product */}

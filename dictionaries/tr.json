@@ -15,6 +15,7 @@
     "resources": "Kaynaklar",
     "blog": "Blog",
     "contact": "İletişim",
+    "email": "E-posta",
     "legal": "Hukuki",
     "privacy_policy": "Gizlilik Politikası",
     "terms_of_service": "Kullanım Koşulları",
@@ -132,5 +133,32 @@
         "a": "Evet — ancak dosyalarınızın geçici olacağını unutmayın. Halka açık bilgisayarlarda hassas belgeler yüklemeyin."
       }
     ]
+  },
+  "contact_page": {
+    "title": "İletişime geçin",
+    "subtitle": "Sorunuz, geri bildiriminiz veya yaşadığınız bir sorun mu var? Sizden haber almak isteriz.",
+    "email_label": "E-posta",
+    "email_hint": "İsterseniz bize doğrudan bu adresten de ulaşabilirsiniz.",
+    "name_label": "Ad",
+    "name_placeholder": "Adınız",
+    "email_placeholder": "siz@example.com",
+    "message_label": "Mesaj",
+    "message_placeholder": "Bize nasıl yardımcı olabileceğimizi yazın...",
+    "submit": "Mesajı gönder →",
+    "submitting": "Gönderiliyor...",
+    "response_time": "Genelde 1-2 iş günü içinde dönüş yapıyoruz.",
+    "hidden_website_label": "Bu alanı boş bırakın",
+    "success_toast": "Mesajınız gönderildi.",
+    "errors": {
+      "generic": "Mesajınız gönderilemedi. Lütfen tekrar deneyin.",
+      "unavailable": "İletişim formu şu anda kullanılamıyor.",
+      "rate_limited": "Çok fazla deneme yapıldı. Lütfen 15 dakika sonra tekrar deneyin.",
+      "name_required": "Lütfen adınızı girin.",
+      "name_length": "Ad 2 ile 80 karakter arasında olmalıdır.",
+      "email_required": "Lütfen e-posta adresinizi girin.",
+      "email_invalid": "Lütfen geçerli bir e-posta adresi girin.",
+      "message_required": "Lütfen bir mesaj yazın.",
+      "message_length": "Mesaj 10 ile 2000 karakter arasında olmalıdır."
+    }
   }
 }

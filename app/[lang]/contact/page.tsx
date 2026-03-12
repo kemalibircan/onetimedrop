@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Navbar from "@/components/ui/Navbar";
 import Footer from "@/components/ui/Footer";
+import ContactForm from "@/components/ContactForm";
 import { getDictionary } from "@/lib/dictionaries";
 
 export const metadata: Metadata = {
@@ -16,63 +17,33 @@ export default async function ContactPage({
 }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
+  const contactDict = dict.contact_page;
 
   return (
     <>
       <Navbar lang={lang} dict={dict.navbar} />
       <main className="max-w-xl mx-auto px-4 py-16">
         <div className="text-center mb-10">
-          <h1 className="text-4xl font-extrabold mb-2">Get in touch</h1>
+          <h1 className="text-4xl font-extrabold mb-2">{contactDict.title}</h1>
           <p className="text-[var(--color-muted)]">
-            Have a question, feedback, or issue? We'd love to hear from you.
+            {contactDict.subtitle}
           </p>
         </div>
 
-        <div className="card space-y-5">
-          <div>
-            <label htmlFor="contact-name" className="block text-sm font-medium mb-1.5">
-              Name
-            </label>
-            <input
-              id="contact-name"
-              type="text"
-              placeholder="Your name"
-              className="input-field"
-            />
-          </div>
-
-          <div>
-            <label htmlFor="contact-email" className="block text-sm font-medium mb-1.5">
-              Email
-            </label>
-            <input
-              id="contact-email"
-              type="email"
-              placeholder="you@example.com"
-              className="input-field"
-            />
-          </div>
-
-          <div>
-            <label htmlFor="contact-msg" className="block text-sm font-medium mb-1.5">
-              Message
-            </label>
-            <textarea
-              id="contact-msg"
-              rows={5}
-              placeholder="Tell us what's on your mind…"
-              className="input-field resize-none"
-            />
-          </div>
-
-          <button className="btn-primary w-full">
-            Send message →
-          </button>
-
-          <p className="text-xs text-center text-[var(--color-muted)]">
-            We typically respond within 1-2 business days.
+        <div className="card mb-6">
+          <p className="text-sm font-medium mb-1.5">{contactDict.email_label}</p>
+          <a
+            href="mailto:info@globaldijital.com"
+            className="text-lg font-semibold text-[#FF8A3D] hover:underline break-all"
+          >
+            info@globaldijital.com
+          </a>
+          <p className="text-sm text-[var(--color-muted)] mt-2">
+            {contactDict.email_hint}
           </p>
         </div>
+
+        <ContactForm lang={lang} dict={contactDict} />
       </main>
       <Footer lang={lang} dict={dict.footer} />
     </>

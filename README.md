@@ -70,6 +70,11 @@ HOSTNAME=localhost
 UPLOAD_DIR=/tmp/onetimedrop
 NEXT_PUBLIC_BASE_URL=https://onetimedrop.io
 NEXT_PUBLIC_GA_MEASUREMENT_ID=G-KXJ2DY5XGS
+SMTP_HOST=smtp.example.com
+SMTP_PORT=587
+SMTP_USER=info@globaldijital.com
+SMTP_PASS=your-password
+SMTP_SECURE=false
 ```
 
 ## Running in Production
@@ -89,6 +94,29 @@ npx pm2 start npm --name onetimedrop -- run start
 ```
 
 Or containerize with Docker (Dockerfile not included but straightforward).
+
+## Railway
+
+This project is ready to deploy on Railway with `railway.json`.
+
+- Builder: `RAILPACK`
+- Build command: `npm run build`
+- Start command: `npm start`
+- Healthcheck path: `/health`
+
+Set these Railway service variables:
+
+```bash
+PORT=3000
+NEXT_PUBLIC_BASE_URL=https://your-railway-domain.up.railway.app
+SMTP_HOST=mail.privateemail.com
+SMTP_PORT=465
+SMTP_USER=info@globaldijital.com
+SMTP_PASS=your-privateemail-mailbox-password
+SMTP_SECURE=true
+```
+
+If you later connect your own domain, update `NEXT_PUBLIC_BASE_URL` to that full `https://` URL.
 
 ## Project Structure
 
