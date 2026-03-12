@@ -107,7 +107,6 @@ This project is ready to deploy on Railway with `railway.json`.
 Set these Railway service variables:
 
 ```bash
-PORT=3000
 NEXT_PUBLIC_BASE_URL=https://your-railway-domain.up.railway.app
 SMTP_HOST=mail.privateemail.com
 SMTP_PORT=465
@@ -115,6 +114,8 @@ SMTP_USER=info@globaldijital.com
 SMTP_PASS=your-privateemail-mailbox-password
 SMTP_SECURE=true
 ```
+
+Do not manually set `PORT` on Railway unless you intentionally want to override the platform port. Railway provides `PORT` automatically and the server already listens to `process.env.PORT`.
 
 If you later connect your own domain, update `NEXT_PUBLIC_BASE_URL` to that full `https://` URL.
 

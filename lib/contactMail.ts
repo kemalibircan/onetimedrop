@@ -26,6 +26,9 @@ interface SmtpConfig {
   secure: boolean;
   user: string;
   pass: string;
+  connectionTimeout: number;
+  greetingTimeout: number;
+  socketTimeout: number;
 }
 
 const globalState = globalThis as typeof globalThis & {
@@ -57,8 +60,29 @@ function getSmtpConfig(): SmtpConfig | null {
   }
 
   const secure = parseBoolean(process.env.SMTP_SECURE) ?? port === 465;
+  const connectionTimeout = Number.parseInt(
+    process.env.SMTP_CONNECTION_TIMEOUT_MS || "10000",
+    10
+  );
+  const greetingTimeout = Number.parseInt(
+    process.env.SMTP_GREETING_TIMEOUT_MS || "10000",
+    10
+  );
+  const socketTimeout = Number.parseInt(
+    process.env.SMTP_SOCKET_TIMEOUT_MS || "15000",
+    10
+  );
 
-  return { host, port, secure, user, pass };
+  return {
+    host,
+    port,
+    secure,
+    user,
+    pass,
+    connectionTimeout,
+    greetingTimeout,
+    socketTimeout,
+  };
 }
 
 function getTransporter(): ContactTransporter {
@@ -75,6 +99,9 @@ function getTransporter(): ContactTransporter {
     host: config.host,
     port: config.port,
     secure: config.secure,
+    connectionTimeout: config.connectionTimeout,
+    greetingTimeout: config.greetingTimeout,
+    socketTimeout: config.socketTimeout,
     auth: {
       user: config.user,
       pass: config.pass,

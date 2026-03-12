@@ -133,6 +133,20 @@ export async function POST(request: NextRequest) {
     }
 
     console.error("[contact]", error);
+    const code =
+      error && typeof error === "object" && "code" in error
+        ? String(error.code)
+        : "";
+
+    if (
+      code === "ETIMEDOUT" ||
+      code === "ESOCKET" ||
+      code === "ECONNECTION" ||
+      code === "ECONNRESET"
+    ) {
+      return NextResponse.json({ error: "UNAVAILABLE" }, { status: 503 });
+    }
+
     return NextResponse.json({ error: "SEND_FAILED" }, { status: 500 });
   }
 }

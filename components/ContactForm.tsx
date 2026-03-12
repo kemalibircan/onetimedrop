@@ -26,6 +26,7 @@ const INITIAL_VALUES: ContactFormValues = {
 };
 
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+const REQUEST_TIMEOUT_MS = 15000;
 
 function mapErrorCodeToMessage(code: string, dict: any): string {
   switch (code) {
@@ -103,19 +104,28 @@ export default function ContactForm({ lang, dict }: ContactFormProps) {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch("/api/contact", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-locale": lang,
-        },
-        body: JSON.stringify({
-          name: values.name.trim(),
-          email: values.email.trim(),
-          message: values.message.trim(),
-          website: values.website,
-        }),
-      });
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
+      let response: Response;
+
+      try {
+        response = await fetch("/api/contact", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            "x-locale": lang,
+          },
+          signal: controller.signal,
+          body: JSON.stringify({
+            name: values.name.trim(),
+            email: values.email.trim(),
+            message: values.message.trim(),
+            website: values.website,
+          }),
+        });
+      } finally {
+        clearTimeout(timeout);
+      }
 
       const payload = await response.json().catch(() => null);
 
@@ -141,7 +151,11 @@ export default function ContactForm({ lang, dict }: ContactFormProps) {
       addToast(dict.success_toast, "success");
     } catch (error) {
       console.error("[contact-form]", error);
-      addToast(dict.errors.generic, "error");
+      if (error instanceof DOMException && error.name === "AbortError") {
+        addToast(dict.errors.unavailable, "error");
+      } else {
+        addToast(dict.errors.generic, "error");
+      }
     } finally {
       setIsSubmitting(false);
     }
